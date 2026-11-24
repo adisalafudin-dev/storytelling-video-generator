@@ -1,0 +1,107 @@
+[
+  {
+    "text": " Para",
+    "startMs": 100,
+    "endMs": 300,
+    "timestampMs": 200,
+    "confidence": null
+  },
+  {
+    "text": " ilmuwan",
+    "startMs": 300,
+    "endMs": 700,
+    "timestampMs": 500,
+    "confidence": null
+  },
+  {
+    "text": " memprediksi",
+    "startMs": 700,
+    "endMs": 1188,
+    "timestampMs": 944,
+    "confidence": null
+  },
+  {
+    "text": " seluruh",
+    "startMs": 1188,
+    "endMs": 1513,
+    "timestampMs": 1351,
+    "confidence": null
+  },
+  {
+    "text": " struktur",
+    "startMs": 1513,
+    "endMs": 1875,
+    "timestampMs": 1694,
+    "confidence": null
+  },
+  {
+    "text": " kapal",
+    "startMs": 1875,
+    "endMs": 2125,
+    "timestampMs": 2000,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 2125,
+    "endMs": 2400,
+    "timestampMs": 2263,
+    "confidence": null
+  },
+  {
+    "text": " akan",
+    "startMs": 2400,
+    "endMs": 2638,
+    "timestampMs": 2519,
+    "confidence": null
+  },
+  {
+    "text": " lenyap",
+    "startMs": 2638,
+    "endMs": 2913,
+    "timestampMs": 2776,
+    "confidence": null
+  },
+  {
+    "text": " sepenuhnya",
+    "startMs": 2913,
+    "endMs": 3388,
+    "timestampMs": 3151,
+    "confidence": null
+  },
+  {
+    "text": " dimakan",
+    "startMs": 3388,
+    "endMs": 3738,
+    "timestampMs": 3563,
+    "confidence": null
+  },
+  {
+    "text": " bakteri",
+    "startMs": 3738,
+    "endMs": 4213,
+    "timestampMs": 3976,
+    "confidence": null
+  },
+  {
+    "text": " pada",
+    "startMs": 4213,
+    "endMs": 4413,
+    "timestampMs": 4313,
+    "confidence": null
+  },
+  {
+    "text": " tahun",
+    "startMs": 4413,
+    "endMs": 4725,
+    "timestampMs": 4569,
+    "confidence": null
+  },
+  {
+    "text": " 2030",
+    "startMs": 4725,
+    "endMs": 5738,
+    "timestampMs": 5232,
+    "confidence": null
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "text": " Kenapa",
+    "startMs": 100,
+    "endMs": 413,
+    "timestampMs": 257,
+    "confidence": null
+  },
+  {
+    "text": " lukisan",
+    "startMs": 413,
+    "endMs": 800,
+    "timestampMs": 607,
+    "confidence": null
+  },
+  {
+    "text": " seorang",
+    "startMs": 800,
+    "endMs": 1075,
+    "timestampMs": 938,
+    "confidence": null
+  },
+  {
+    "text": " wanita",
+    "startMs": 1075,
+    "endMs": 1363,
+    "timestampMs": 1219,
+    "confidence": null
+  },
+  {
+    "text": " biasa",
+    "startMs": 1363,
+    "endMs": 1738,
+    "timestampMs": 1551,
+    "confidence": null
+  },
+  {
+    "text": " dari",
+    "startMs": 1738,
+    "endMs": 1888,
+    "timestampMs": 1813,
+    "confidence": null
+  },
+  {
+    "text": " tahun",
+    "startMs": 1888,
+    "endMs": 2175,
+    "timestampMs": 2032,
+    "confidence": null
+  },
+  {
+    "text": " 1503",
+    "startMs": 2175,
+    "endMs": 3063,
+    "timestampMs": 2619,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 3063,
+    "endMs": 3363,
+    "timestampMs": 3213,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 3363,
+    "endMs": 3613,
+    "timestampMs": 3488,
+    "confidence": null
+  },
+  {
+    "text": " jadi",
+    "startMs": 3613,
+    "endMs": 3813,
+    "timestampMs": 3713,
+    "confidence": null
+  },
+  {
+    "text": " karya",
+    "startMs": 3813,
+    "endMs": 4050,
+    "timestampMs": 3932,
+    "confidence": null
+  },
+  {
+    "text": " seni",
+    "startMs": 4050,
+    "endMs": 4288,
+    "timestampMs": 4169,
+    "confidence": null
+  },
+  {
+    "text": " paling",
+    "startMs": 4288,
+    "endMs": 4500,
+    "timestampMs": 4394,
+    "confidence": null
+  },
+  {
+    "text": " mahal",
+    "startMs": 4500,
+    "endMs": 4863,
+    "timestampMs": 4682,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 4863,
+    "endMs": 5025,
+    "timestampMs": 4944,
+    "confidence": null
+  },
+  {
+    "text": " paling",
+    "startMs": 5025,
+    "endMs": 5225,
+    "timestampMs": 5125,
+    "confidence": null
+  },
+  {
+    "text": " dijaga",
+    "startMs": 5225,
+    "endMs": 5625,
+    "timestampMs": 5425,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 5625,
+    "endMs": 5688,
+    "timestampMs": 5657,
+    "confidence": null
+  },
+  {
+    "text": " seluruh",
+    "startMs": 5688,
+    "endMs": 5988,
+    "timestampMs": 5838,
+    "confidence": null
+  },
+  {
+    "text": " dunia",
+    "startMs": 5988,
+    "endMs": 6525,
+    "timestampMs": 6257,
+    "confidence": null
+  }
+]

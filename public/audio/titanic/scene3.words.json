@@ -1,0 +1,107 @@
+[
+  {
+    "text": " Bukan",
+    "startMs": 113,
+    "endMs": 400,
+    "timestampMs": 257,
+    "confidence": null
+  },
+  {
+    "text": " cuma",
+    "startMs": 400,
+    "endMs": 575,
+    "timestampMs": 488,
+    "confidence": null
+  },
+  {
+    "text": " tekanan",
+    "startMs": 575,
+    "endMs": 1138,
+    "timestampMs": 857,
+    "confidence": null
+  },
+  {
+    "text": " bangkai",
+    "startMs": 1450,
+    "endMs": 1825,
+    "timestampMs": 1638,
+    "confidence": null
+  },
+  {
+    "text": " kapal",
+    "startMs": 1825,
+    "endMs": 2088,
+    "timestampMs": 1957,
+    "confidence": null
+  },
+  {
+    "text": " raksasa",
+    "startMs": 2088,
+    "endMs": 2475,
+    "timestampMs": 2282,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 2475,
+    "endMs": 2725,
+    "timestampMs": 2600,
+    "confidence": null
+  },
+  {
+    "text": " sedang",
+    "startMs": 2725,
+    "endMs": 2988,
+    "timestampMs": 2857,
+    "confidence": null
+  },
+  {
+    "text": " dimakan",
+    "startMs": 2988,
+    "endMs": 3325,
+    "timestampMs": 3157,
+    "confidence": null
+  },
+  {
+    "text": " hidup-hidup",
+    "startMs": 3325,
+    "endMs": 3875,
+    "timestampMs": 3600,
+    "confidence": null
+  },
+  {
+    "text": " oleh",
+    "startMs": 3875,
+    "endMs": 4050,
+    "timestampMs": 3963,
+    "confidence": null
+  },
+  {
+    "text": " bakteri",
+    "startMs": 4050,
+    "endMs": 4438,
+    "timestampMs": 4244,
+    "confidence": null
+  },
+  {
+    "text": " langka",
+    "startMs": 4438,
+    "endMs": 4763,
+    "timestampMs": 4601,
+    "confidence": null
+  },
+  {
+    "text": " pemakan",
+    "startMs": 4763,
+    "endMs": 5138,
+    "timestampMs": 4951,
+    "confidence": null
+  },
+  {
+    "text": " besi",
+    "startMs": 5138,
+    "endMs": 5600,
+    "timestampMs": 5369,
+    "confidence": null
+  }
+]

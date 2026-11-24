@@ -1,0 +1,5 @@
+{
+  "hash": "12859e7d5331eeea",
+  "voice": "id-ID-ArdiNeural",
+  "text": "ESP32 terhubung ke WiFi dan mengirim data berformat JSON lewat HTTP POST ke backend."
+}

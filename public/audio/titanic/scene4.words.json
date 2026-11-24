@@ -1,0 +1,121 @@
+[
+  {
+    "text": " Jika",
+    "startMs": 113,
+    "endMs": 375,
+    "timestampMs": 244,
+    "confidence": null
+  },
+  {
+    "text": " dipaksa",
+    "startMs": 375,
+    "endMs": 725,
+    "timestampMs": 550,
+    "confidence": null
+  },
+  {
+    "text": " ditarik",
+    "startMs": 725,
+    "endMs": 1000,
+    "timestampMs": 863,
+    "confidence": null
+  },
+  {
+    "text": " ke",
+    "startMs": 1000,
+    "endMs": 1050,
+    "timestampMs": 1025,
+    "confidence": null
+  },
+  {
+    "text": " atas",
+    "startMs": 1050,
+    "endMs": 1563,
+    "timestampMs": 1307,
+    "confidence": null
+  },
+  {
+    "text": " struktur",
+    "startMs": 1825,
+    "endMs": 2200,
+    "timestampMs": 2013,
+    "confidence": null
+  },
+  {
+    "text": " besinya",
+    "startMs": 2200,
+    "endMs": 2588,
+    "timestampMs": 2394,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 2588,
+    "endMs": 2725,
+    "timestampMs": 2657,
+    "confidence": null
+  },
+  {
+    "text": " sudah",
+    "startMs": 2725,
+    "endMs": 2950,
+    "timestampMs": 2838,
+    "confidence": null
+  },
+  {
+    "text": " rapuh",
+    "startMs": 2950,
+    "endMs": 3263,
+    "timestampMs": 3107,
+    "confidence": null
+  },
+  {
+    "text": " akan",
+    "startMs": 3263,
+    "endMs": 3463,
+    "timestampMs": 3363,
+    "confidence": null
+  },
+  {
+    "text": " langsung",
+    "startMs": 3463,
+    "endMs": 3763,
+    "timestampMs": 3613,
+    "confidence": null
+  },
+  {
+    "text": " hancur",
+    "startMs": 3763,
+    "endMs": 4113,
+    "timestampMs": 3938,
+    "confidence": null
+  },
+  {
+    "text": " berantakan",
+    "startMs": 4113,
+    "endMs": 4625,
+    "timestampMs": 4369,
+    "confidence": null
+  },
+  {
+    "text": " sebelum",
+    "startMs": 4625,
+    "endMs": 4975,
+    "timestampMs": 4800,
+    "confidence": null
+  },
+  {
+    "text": " sampai",
+    "startMs": 4975,
+    "endMs": 5300,
+    "timestampMs": 5138,
+    "confidence": null
+  },
+  {
+    "text": " permukaan",
+    "startMs": 5300,
+    "endMs": 6063,
+    "timestampMs": 5682,
+    "confidence": null
+  }
+]

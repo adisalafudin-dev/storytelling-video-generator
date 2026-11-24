@@ -63,7 +63,10 @@ export const parseKitPartLine = (
     }
     return null;
   }
-  return parsed.data as KitPart;
+  const part = parsed.data;
+  if (part.type === "node") return { ...part, shape: part.shape ?? "box", rotation: part.rotation ?? [0, 0, 0] } as KitPart;
+  if (part.type === "link") return { ...part, color: part.color ?? "#8aa5c2" } as KitPart;
+  return part as KitPart;
 };
 
 // Which parts a kit accepts, and how many
@@ -99,6 +102,30 @@ export const validateKitParts = (
           `Scene "${sceneTitle}": kit "road" accepts at most one "+ ${t}" line`,
         );
       }
+    }
+  }
+  if (kit === "flow") {
+    const nodes = parts.filter((p) => p.type === "node");
+    const links = parts.filter((p) => p.type === "link");
+    if (nodes.length < 2 || nodes.length > 8) {
+      fail(`Scene "${sceneTitle}": kit "flow" needs 2 to 8 "+ node ..." lines (got ${nodes.length})`);
+    }
+    if (links.length < 1 || links.length > 12) {
+      fail(`Scene "${sceneTitle}": kit "flow" needs 1 to 12 "+ link ..." lines (got ${links.length})`);
+    }
+    const ids = nodes.map((n) => n.type === "node" ? n.id : "");
+    const dup = ids.find((id, i) => ids.indexOf(id) !== i);
+    if (dup) fail(`Scene "${sceneTitle}": flow node id "${dup}" is used more than once`);
+    const known = new Set(ids);
+    const seenLinks = new Set<string>();
+    for (const link of links) {
+      if (link.type !== "link") continue;
+      if (!known.has(link.from)) fail(`Scene "${sceneTitle}": flow link references unknown node "${link.from}"`);
+      if (!known.has(link.to)) fail(`Scene "${sceneTitle}": flow link references unknown node "${link.to}"`);
+      if (link.from === link.to) fail(`Scene "${sceneTitle}": flow link cannot connect node "${link.from}" to itself`);
+      const key = `${link.from}->${link.to}`;
+      if (seenLinks.has(key)) fail(`Scene "${sceneTitle}": flow link "${key}" is duplicated`);
+      seenLinks.add(key);
     }
   }
 };

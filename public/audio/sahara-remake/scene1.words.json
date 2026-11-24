@@ -1,0 +1,156 @@
+[
+  {
+    "text": " Di",
+    "startMs": 113,
+    "endMs": 238,
+    "timestampMs": 176,
+    "confidence": null
+  },
+  {
+    "text": " tengah",
+    "startMs": 238,
+    "endMs": 463,
+    "timestampMs": 351,
+    "confidence": null
+  },
+  {
+    "text": " gurun",
+    "startMs": 463,
+    "endMs": 700,
+    "timestampMs": 582,
+    "confidence": null
+  },
+  {
+    "text": " paling",
+    "startMs": 700,
+    "endMs": 925,
+    "timestampMs": 813,
+    "confidence": null
+  },
+  {
+    "text": " mematikan",
+    "startMs": 925,
+    "endMs": 1325,
+    "timestampMs": 1125,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 1325,
+    "endMs": 1400,
+    "timestampMs": 1363,
+    "confidence": null
+  },
+  {
+    "text": " bumi",
+    "startMs": 1400,
+    "endMs": 1888,
+    "timestampMs": 1644,
+    "confidence": null
+  },
+  {
+    "text": " ilmuwan",
+    "startMs": 2188,
+    "endMs": 2538,
+    "timestampMs": 2363,
+    "confidence": null
+  },
+  {
+    "text": " justru",
+    "startMs": 2538,
+    "endMs": 2838,
+    "timestampMs": 2688,
+    "confidence": null
+  },
+  {
+    "text": " menemukan",
+    "startMs": 2838,
+    "endMs": 3263,
+    "timestampMs": 3051,
+    "confidence": null
+  },
+  {
+    "text": " fosil",
+    "startMs": 3263,
+    "endMs": 3588,
+    "timestampMs": 3426,
+    "confidence": null
+  },
+  {
+    "text": " paus",
+    "startMs": 3588,
+    "endMs": 3825,
+    "timestampMs": 3707,
+    "confidence": null
+  },
+  {
+    "text": " purba",
+    "startMs": 3825,
+    "endMs": 4213,
+    "timestampMs": 4019,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 4213,
+    "endMs": 4388,
+    "timestampMs": 4301,
+    "confidence": null
+  },
+  {
+    "text": " jejak",
+    "startMs": 4388,
+    "endMs": 4700,
+    "timestampMs": 4544,
+    "confidence": null
+  },
+  {
+    "text": " sungai",
+    "startMs": 4700,
+    "endMs": 4963,
+    "timestampMs": 4832,
+    "confidence": null
+  },
+  {
+    "text": " raksasa",
+    "startMs": 4963,
+    "endMs": 5425,
+    "timestampMs": 5194,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 5425,
+    "endMs": 5575,
+    "timestampMs": 5500,
+    "confidence": null
+  },
+  {
+    "text": " terkubur",
+    "startMs": 5575,
+    "endMs": 6025,
+    "timestampMs": 5800,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 6025,
+    "endMs": 6138,
+    "timestampMs": 6082,
+    "confidence": null
+  },
+  {
+    "text": " bawah",
+    "startMs": 6138,
+    "endMs": 6400,
+    "timestampMs": 6269,
+    "confidence": null
+  },
+  {
+    "text": " pasir",
+    "startMs": 6400,
+    "endMs": 6925,
+    "timestampMs": 6663,
+    "confidence": null
+  }
+]

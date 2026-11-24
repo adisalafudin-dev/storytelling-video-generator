@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Di",
+    "startMs": 113,
+    "endMs": 238,
+    "timestampMs": 176,
+    "confidence": null
+  },
+  {
+    "text": " tengah",
+    "startMs": 238,
+    "endMs": 500,
+    "timestampMs": 369,
+    "confidence": null
+  },
+  {
+    "text": " semuanya",
+    "startMs": 500,
+    "endMs": 913,
+    "timestampMs": 707,
+    "confidence": null
+  },
+  {
+    "text": " ada",
+    "startMs": 913,
+    "endMs": 1063,
+    "timestampMs": 988,
+    "confidence": null
+  },
+  {
+    "text": " ESP32",
+    "startMs": 1063,
+    "endMs": 2263,
+    "timestampMs": 1663,
+    "confidence": null
+  },
+  {
+    "text": " mikrokontroler",
+    "startMs": 2563,
+    "endMs": 3213,
+    "timestampMs": 2888,
+    "confidence": null
+  },
+  {
+    "text": " murah",
+    "startMs": 3213,
+    "endMs": 3475,
+    "timestampMs": 3344,
+    "confidence": null
+  },
+  {
+    "text": " dengan",
+    "startMs": 3475,
+    "endMs": 3700,
+    "timestampMs": 3588,
+    "confidence": null
+  },
+  {
+    "text": " WiFi",
+    "startMs": 3700,
+    "endMs": 4013,
+    "timestampMs": 3857,
+    "confidence": null
+  },
+  {
+    "text": " bawaan",
+    "startMs": 4013,
+    "endMs": 4450,
+    "timestampMs": 4232,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 4450,
+    "endMs": 4575,
+    "timestampMs": 4513,
+    "confidence": null
+  },
+  {
+    "text": " membaca",
+    "startMs": 4575,
+    "endMs": 4888,
+    "timestampMs": 4732,
+    "confidence": null
+  },
+  {
+    "text": " sensor",
+    "startMs": 4888,
+    "endMs": 5350,
+    "timestampMs": 5119,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 5350,
+    "endMs": 5538,
+    "timestampMs": 5444,
+    "confidence": null
+  },
+  {
+    "text": " mengirim",
+    "startMs": 5538,
+    "endMs": 5838,
+    "timestampMs": 5688,
+    "confidence": null
+  },
+  {
+    "text": " hasilnya",
+    "startMs": 5838,
+    "endMs": 6500,
+    "timestampMs": 6169,
+    "confidence": null
+  }
+]

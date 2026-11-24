@@ -1,0 +1,72 @@
+[
+  {
+    "text": " Karena",
+    "startMs": 100,
+    "endMs": 375,
+    "timestampMs": 238,
+    "confidence": null
+  },
+  {
+    "text": " itulah",
+    "startMs": 375,
+    "endMs": 788,
+    "timestampMs": 582,
+    "confidence": null
+  },
+  {
+    "text": " Titanic",
+    "startMs": 788,
+    "endMs": 1150,
+    "timestampMs": 969,
+    "confidence": null
+  },
+  {
+    "text": " dibiarkan",
+    "startMs": 1150,
+    "endMs": 1650,
+    "timestampMs": 1400,
+    "confidence": null
+  },
+  {
+    "text": " beristirahat",
+    "startMs": 1650,
+    "endMs": 2188,
+    "timestampMs": 1919,
+    "confidence": null
+  },
+  {
+    "text": " selamanya",
+    "startMs": 2188,
+    "endMs": 2650,
+    "timestampMs": 2419,
+    "confidence": null
+  },
+  {
+    "text": " sebagai",
+    "startMs": 2650,
+    "endMs": 3013,
+    "timestampMs": 2832,
+    "confidence": null
+  },
+  {
+    "text": " monumen",
+    "startMs": 3013,
+    "endMs": 3413,
+    "timestampMs": 3213,
+    "confidence": null
+  },
+  {
+    "text": " bawah",
+    "startMs": 3413,
+    "endMs": 3675,
+    "timestampMs": 3544,
+    "confidence": null
+  },
+  {
+    "text": " laut",
+    "startMs": 3675,
+    "endMs": 4175,
+    "timestampMs": 3925,
+    "confidence": null
+  }
+]

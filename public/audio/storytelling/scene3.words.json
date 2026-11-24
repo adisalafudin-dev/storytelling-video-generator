@@ -1,0 +1,65 @@
+[
+  {
+    "text": " Arsitektur",
+    "startMs": 100,
+    "endMs": 713,
+    "timestampMs": 407,
+    "confidence": null
+  },
+  {
+    "text": " silikon",
+    "startMs": 713,
+    "endMs": 1075,
+    "timestampMs": 894,
+    "confidence": null
+  },
+  {
+    "text": " baru",
+    "startMs": 1075,
+    "endMs": 1388,
+    "timestampMs": 1232,
+    "confidence": null
+  },
+  {
+    "text": " mampu",
+    "startMs": 1388,
+    "endMs": 1700,
+    "timestampMs": 1544,
+    "confidence": null
+  },
+  {
+    "text": " memproses",
+    "startMs": 1700,
+    "endMs": 2150,
+    "timestampMs": 1925,
+    "confidence": null
+  },
+  {
+    "text": " triliunan",
+    "startMs": 2150,
+    "endMs": 2600,
+    "timestampMs": 2375,
+    "confidence": null
+  },
+  {
+    "text": " koneksi",
+    "startMs": 2600,
+    "endMs": 3000,
+    "timestampMs": 2800,
+    "confidence": null
+  },
+  {
+    "text": " per",
+    "startMs": 3000,
+    "endMs": 3125,
+    "timestampMs": 3063,
+    "confidence": null
+  },
+  {
+    "text": " detik",
+    "startMs": 3125,
+    "endMs": 3575,
+    "timestampMs": 3350,
+    "confidence": null
+  }
+]

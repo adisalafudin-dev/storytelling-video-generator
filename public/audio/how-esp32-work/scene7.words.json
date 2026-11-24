@@ -1,0 +1,86 @@
+[
+  {
+    "text": " Sensor",
+    "startMs": 113,
+    "endMs": 775,
+    "timestampMs": 444,
+    "confidence": null
+  },
+  {
+    "text": " ESP32",
+    "startMs": 1050,
+    "endMs": 2363,
+    "timestampMs": 1707,
+    "confidence": null
+  },
+  {
+    "text": " WiFi",
+    "startMs": 2638,
+    "endMs": 3300,
+    "timestampMs": 2969,
+    "confidence": null
+  },
+  {
+    "text": " backend",
+    "startMs": 3513,
+    "endMs": 4113,
+    "timestampMs": 3813,
+    "confidence": null
+  },
+  {
+    "text": " database",
+    "startMs": 4338,
+    "endMs": 5188,
+    "timestampMs": 4763,
+    "confidence": null
+  },
+  {
+    "text": " dashboard",
+    "startMs": 5400,
+    "endMs": 6225,
+    "timestampMs": 5813,
+    "confidence": null
+  },
+  {
+    "text": " Subscribe",
+    "startMs": 7063,
+    "endMs": 7575,
+    "timestampMs": 7319,
+    "confidence": null
+  },
+  {
+    "text": " AdSalL",
+    "startMs": 7575,
+    "endMs": 7988,
+    "timestampMs": 7782,
+    "confidence": null
+  },
+  {
+    "text": " untuk",
+    "startMs": 7988,
+    "endMs": 8200,
+    "timestampMs": 8094,
+    "confidence": null
+  },
+  {
+    "text": " eksperimen",
+    "startMs": 8200,
+    "endMs": 8675,
+    "timestampMs": 8438,
+    "confidence": null
+  },
+  {
+    "text": " IoT",
+    "startMs": 8675,
+    "endMs": 9025,
+    "timestampMs": 8850,
+    "confidence": null
+  },
+  {
+    "text": " lainnya",
+    "startMs": 9025,
+    "endMs": 9588,
+    "timestampMs": 9307,
+    "confidence": null
+  }
+]

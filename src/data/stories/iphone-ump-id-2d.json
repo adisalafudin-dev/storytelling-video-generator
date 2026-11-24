@@ -1,0 +1,953 @@
+{
+  "title": "Harga iPhone Sama, Hari Kerjanya Beda Jauh",
+  "channel": "@adi.salafudin",
+  "niche": "EKONOMI & DAYA BELI",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalEstimatedDurationSec": 40.1,
+  "bgm": "audio/bgm/ambient-mystery.mp3",
+  "bgmVolume": 0.12,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 7.2,
+      "theme": "tech",
+      "nicheTag": "DAYA BELI & UMP",
+      "narration": "Harga resmi satu iPhone di Indonesia itu sama di mana saja. Tapi kalau dihitung pakai hari kerja UMP, hasilnya bisa beda jauh.",
+      "infoCard": {
+        "type": "info",
+        "badge": "DAYA BELI GADGET",
+        "title": "Harga Sama • Hari Kerja Beda Jauh",
+        "metric": "Rp 16.499.000",
+        "description": "Standar Ritel Resmi Nasional iPhone 15"
+      },
+      "diagram": {
+        "type": "iphone-hook-contrast"
+      },
+      "audio": "audio/iphone-ump-id-2d/scene1.mp3",
+      "captions": [
+        {
+          "text": " Harga",
+          "startMs": 60,
+          "endMs": 361,
+          "timestampMs": 211,
+          "confidence": null
+        },
+        {
+          "text": " resmi",
+          "startMs": 361,
+          "endMs": 588,
+          "timestampMs": 475,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 588,
+          "endMs": 792,
+          "timestampMs": 690,
+          "confidence": null
+        },
+        {
+          "text": " iPhone",
+          "startMs": 792,
+          "endMs": 1094,
+          "timestampMs": 943,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 1094,
+          "endMs": 1148,
+          "timestampMs": 1121,
+          "confidence": null
+        },
+        {
+          "text": " Indonesia",
+          "startMs": 1148,
+          "endMs": 1493,
+          "timestampMs": 1321,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 1493,
+          "endMs": 1751,
+          "timestampMs": 1622,
+          "confidence": null
+        },
+        {
+          "text": " sama",
+          "startMs": 1751,
+          "endMs": 2010,
+          "timestampMs": 1881,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 2010,
+          "endMs": 2085,
+          "timestampMs": 2048,
+          "confidence": null
+        },
+        {
+          "text": " mana",
+          "startMs": 2085,
+          "endMs": 2236,
+          "timestampMs": 2161,
+          "confidence": null
+        },
+        {
+          "text": " saja",
+          "startMs": 2236,
+          "endMs": 2700,
+          "timestampMs": 2468,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 3422,
+          "endMs": 3627,
+          "timestampMs": 3525,
+          "confidence": null
+        },
+        {
+          "text": " kalau",
+          "startMs": 3627,
+          "endMs": 3788,
+          "timestampMs": 3708,
+          "confidence": null
+        },
+        {
+          "text": " dihitung",
+          "startMs": 3788,
+          "endMs": 4101,
+          "timestampMs": 3945,
+          "confidence": null
+        },
+        {
+          "text": " pakai",
+          "startMs": 4101,
+          "endMs": 4306,
+          "timestampMs": 4204,
+          "confidence": null
+        },
+        {
+          "text": " hari",
+          "startMs": 4306,
+          "endMs": 4467,
+          "timestampMs": 4387,
+          "confidence": null
+        },
+        {
+          "text": " kerja",
+          "startMs": 4467,
+          "endMs": 4726,
+          "timestampMs": 4597,
+          "confidence": null
+        },
+        {
+          "text": " UMP",
+          "startMs": 4726,
+          "endMs": 5265,
+          "timestampMs": 4996,
+          "confidence": null
+        },
+        {
+          "text": " hasilnya",
+          "startMs": 5491,
+          "endMs": 5890,
+          "timestampMs": 5691,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 5890,
+          "endMs": 6073,
+          "timestampMs": 5982,
+          "confidence": null
+        },
+        {
+          "text": " beda",
+          "startMs": 6073,
+          "endMs": 6267,
+          "timestampMs": 6170,
+          "confidence": null
+        },
+        {
+          "text": " jauh",
+          "startMs": 6267,
+          "endMs": 6687,
+          "timestampMs": 6477,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "duration": 10.5,
+      "theme": "money",
+      "nicheTag": "SIMULASI HARI KERJA",
+      "narration": "Di Jakarta dengan UMP 5 juta rupiah, butuh sekitar 65 hari kerja penuh. Sementara di Jawa Tengah dengan UMP 2 jutaan, butuh lebih dari 160 hari kerja untuk satu perangkat yang sama.",
+      "infoCard": {
+        "type": "stat",
+        "badge": "PERBANDINGAN GROSS",
+        "title": "Perbandingan Hari Kerja UMP",
+        "metric": "65 vs 162 HARI",
+        "description": "DKI Jakarta vs Jawa Tengah (100% Gaji Kotor)"
+      },
+      "diagram": {
+        "type": "ump-days-comparison"
+      },
+      "audio": "audio/iphone-ump-id-2d/scene2.mp3",
+      "captions": [
+        {
+          "text": " Di",
+          "startMs": 60,
+          "endMs": 178,
+          "timestampMs": 119,
+          "confidence": null
+        },
+        {
+          "text": " Jakarta",
+          "startMs": 178,
+          "endMs": 577,
+          "timestampMs": 378,
+          "confidence": null
+        },
+        {
+          "text": " dengan",
+          "startMs": 577,
+          "endMs": 793,
+          "timestampMs": 685,
+          "confidence": null
+        },
+        {
+          "text": " UMP",
+          "startMs": 793,
+          "endMs": 1073,
+          "timestampMs": 933,
+          "confidence": null
+        },
+        {
+          "text": " lima",
+          "startMs": 1073,
+          "endMs": 1245,
+          "timestampMs": 1159,
+          "confidence": null
+        },
+        {
+          "text": " juta",
+          "startMs": 1245,
+          "endMs": 1428,
+          "timestampMs": 1337,
+          "confidence": null
+        },
+        {
+          "text": " rupiah",
+          "startMs": 1428,
+          "endMs": 1924,
+          "timestampMs": 1676,
+          "confidence": null
+        },
+        {
+          "text": " butuh",
+          "startMs": 2172,
+          "endMs": 2431,
+          "timestampMs": 2302,
+          "confidence": null
+        },
+        {
+          "text": " sekitar",
+          "startMs": 2431,
+          "endMs": 2743,
+          "timestampMs": 2587,
+          "confidence": null
+        },
+        {
+          "text": " enam",
+          "startMs": 2743,
+          "endMs": 2915,
+          "timestampMs": 2829,
+          "confidence": null
+        },
+        {
+          "text": " puluh",
+          "startMs": 2916,
+          "endMs": 3066,
+          "timestampMs": 2991,
+          "confidence": null
+        },
+        {
+          "text": " lima",
+          "startMs": 3066,
+          "endMs": 3228,
+          "timestampMs": 3147,
+          "confidence": null
+        },
+        {
+          "text": " hari",
+          "startMs": 3228,
+          "endMs": 3390,
+          "timestampMs": 3309,
+          "confidence": null
+        },
+        {
+          "text": " kerja",
+          "startMs": 3390,
+          "endMs": 3637,
+          "timestampMs": 3514,
+          "confidence": null
+        },
+        {
+          "text": " penuh",
+          "startMs": 3637,
+          "endMs": 4025,
+          "timestampMs": 3831,
+          "confidence": null
+        },
+        {
+          "text": " Sementara",
+          "startMs": 4751,
+          "endMs": 5150,
+          "timestampMs": 4951,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 5150,
+          "endMs": 5225,
+          "timestampMs": 5188,
+          "confidence": null
+        },
+        {
+          "text": " Jawa",
+          "startMs": 5225,
+          "endMs": 5409,
+          "timestampMs": 5317,
+          "confidence": null
+        },
+        {
+          "text": " Tengah",
+          "startMs": 5409,
+          "endMs": 5646,
+          "timestampMs": 5528,
+          "confidence": null
+        },
+        {
+          "text": " dengan",
+          "startMs": 5646,
+          "endMs": 5872,
+          "timestampMs": 5759,
+          "confidence": null
+        },
+        {
+          "text": " UMP",
+          "startMs": 5872,
+          "endMs": 6152,
+          "timestampMs": 6012,
+          "confidence": null
+        },
+        {
+          "text": " dua",
+          "startMs": 6152,
+          "endMs": 6281,
+          "timestampMs": 6217,
+          "confidence": null
+        },
+        {
+          "text": " jutaan",
+          "startMs": 6281,
+          "endMs": 6799,
+          "timestampMs": 6540,
+          "confidence": null
+        },
+        {
+          "text": " butuh",
+          "startMs": 7057,
+          "endMs": 7284,
+          "timestampMs": 7171,
+          "confidence": null
+        },
+        {
+          "text": " lebih",
+          "startMs": 7284,
+          "endMs": 7510,
+          "timestampMs": 7397,
+          "confidence": null
+        },
+        {
+          "text": " dari",
+          "startMs": 7510,
+          "endMs": 7639,
+          "timestampMs": 7575,
+          "confidence": null
+        },
+        {
+          "text": " seratus",
+          "startMs": 7639,
+          "endMs": 7962,
+          "timestampMs": 7801,
+          "confidence": null
+        },
+        {
+          "text": " enam",
+          "startMs": 7962,
+          "endMs": 8124,
+          "timestampMs": 8043,
+          "confidence": null
+        },
+        {
+          "text": " puluh",
+          "startMs": 8124,
+          "endMs": 8253,
+          "timestampMs": 8189,
+          "confidence": null
+        },
+        {
+          "text": " hari",
+          "startMs": 8253,
+          "endMs": 8372,
+          "timestampMs": 8313,
+          "confidence": null
+        },
+        {
+          "text": " kerja",
+          "startMs": 8372,
+          "endMs": 8674,
+          "timestampMs": 8523,
+          "confidence": null
+        },
+        {
+          "text": " untuk",
+          "startMs": 8674,
+          "endMs": 8889,
+          "timestampMs": 8782,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 8889,
+          "endMs": 9105,
+          "timestampMs": 8997,
+          "confidence": null
+        },
+        {
+          "text": " perangkat",
+          "startMs": 9105,
+          "endMs": 9417,
+          "timestampMs": 9261,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 9417,
+          "endMs": 9557,
+          "timestampMs": 9487,
+          "confidence": null
+        },
+        {
+          "text": " sama",
+          "startMs": 9557,
+          "endMs": 9988,
+          "timestampMs": 9773,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "duration": 9.6,
+      "theme": "money",
+      "nicheTag": "REALITAS PENGELUARAN",
+      "narration": "Dan itu kalau seluruh gaji ditabung tanpa makan. Begitu dipotong biaya hidup nyata seperti kos, makan, dan transportasi, waktu yang dibutuhkan bisa berlipat ganda.",
+      "infoCard": {
+        "type": "info",
+        "badge": "BIAYA HIDUP NYATA",
+        "title": "Realitas Potongan Biaya Hidup",
+        "metric": "SISA HANYA ~10%",
+        "description": "Makan, sewa kos, dan transportasi menyerap ~90% UMP"
+      },
+      "diagram": {
+        "type": "cost-of-living-deduction"
+      },
+      "audio": "audio/iphone-ump-id-2d/scene3.mp3",
+      "captions": [
+        {
+          "text": " Dan",
+          "startMs": 60,
+          "endMs": 253,
+          "timestampMs": 157,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 254,
+          "endMs": 491,
+          "timestampMs": 373,
+          "confidence": null
+        },
+        {
+          "text": " kalau",
+          "startMs": 491,
+          "endMs": 663,
+          "timestampMs": 577,
+          "confidence": null
+        },
+        {
+          "text": " seluruh",
+          "startMs": 663,
+          "endMs": 911,
+          "timestampMs": 787,
+          "confidence": null
+        },
+        {
+          "text": " gaji",
+          "startMs": 911,
+          "endMs": 1213,
+          "timestampMs": 1062,
+          "confidence": null
+        },
+        {
+          "text": " ditabung",
+          "startMs": 1213,
+          "endMs": 1611,
+          "timestampMs": 1412,
+          "confidence": null
+        },
+        {
+          "text": " tanpa",
+          "startMs": 1611,
+          "endMs": 1838,
+          "timestampMs": 1725,
+          "confidence": null
+        },
+        {
+          "text": " makan",
+          "startMs": 1838,
+          "endMs": 2290,
+          "timestampMs": 2064,
+          "confidence": null
+        },
+        {
+          "text": " Begitu",
+          "startMs": 3013,
+          "endMs": 3314,
+          "timestampMs": 3164,
+          "confidence": null
+        },
+        {
+          "text": " dipotong",
+          "startMs": 3314,
+          "endMs": 3648,
+          "timestampMs": 3481,
+          "confidence": null
+        },
+        {
+          "text": " biaya",
+          "startMs": 3648,
+          "endMs": 3885,
+          "timestampMs": 3767,
+          "confidence": null
+        },
+        {
+          "text": " hidup",
+          "startMs": 3885,
+          "endMs": 4101,
+          "timestampMs": 3993,
+          "confidence": null
+        },
+        {
+          "text": " nyata",
+          "startMs": 4101,
+          "endMs": 4349,
+          "timestampMs": 4225,
+          "confidence": null
+        },
+        {
+          "text": " seperti",
+          "startMs": 4349,
+          "endMs": 4672,
+          "timestampMs": 4511,
+          "confidence": null
+        },
+        {
+          "text": " kos",
+          "startMs": 4672,
+          "endMs": 5049,
+          "timestampMs": 4861,
+          "confidence": null
+        },
+        {
+          "text": " makan",
+          "startMs": 5276,
+          "endMs": 5771,
+          "timestampMs": 5524,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 5987,
+          "endMs": 6191,
+          "timestampMs": 6089,
+          "confidence": null
+        },
+        {
+          "text": " transportasi",
+          "startMs": 6191,
+          "endMs": 6989,
+          "timestampMs": 6590,
+          "confidence": null
+        },
+        {
+          "text": " waktu",
+          "startMs": 7258,
+          "endMs": 7528,
+          "timestampMs": 7393,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 7528,
+          "endMs": 7625,
+          "timestampMs": 7577,
+          "confidence": null
+        },
+        {
+          "text": " dibutuhkan",
+          "startMs": 7625,
+          "endMs": 8045,
+          "timestampMs": 7835,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 8045,
+          "endMs": 8260,
+          "timestampMs": 8153,
+          "confidence": null
+        },
+        {
+          "text": " berlipat",
+          "startMs": 8260,
+          "endMs": 8616,
+          "timestampMs": 8438,
+          "confidence": null
+        },
+        {
+          "text": " ganda",
+          "startMs": 8616,
+          "endMs": 9079,
+          "timestampMs": 8848,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "duration": 5.8,
+      "theme": "tech",
+      "nicheTag": "TIMELINE RIIL",
+      "narration": "Secara riil, pekerja di kota dengan UMP rendah butuh menabung hingga hampir dua tahun hanya untuk membeli barang tersier ini.",
+      "infoCard": {
+        "type": "stat",
+        "badge": "WAKTU MENABUNG NYATA",
+        "title": "Garis Waktu Tabungan Riil",
+        "metric": "HAMPIR 2 TAHUN",
+        "description": "Dengan sisa bersih tabungan ~Rp 200rb-400rb/bulan"
+      },
+      "diagram": {
+        "type": "real-savings-timeline"
+      },
+      "audio": "audio/iphone-ump-id-2d/scene4.mp3",
+      "captions": [
+        {
+          "text": " Secara",
+          "startMs": 60,
+          "endMs": 362,
+          "timestampMs": 211,
+          "confidence": null
+        },
+        {
+          "text": " riil",
+          "startMs": 362,
+          "endMs": 728,
+          "timestampMs": 545,
+          "confidence": null
+        },
+        {
+          "text": " pekerja",
+          "startMs": 976,
+          "endMs": 1299,
+          "timestampMs": 1138,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 1299,
+          "endMs": 1353,
+          "timestampMs": 1326,
+          "confidence": null
+        },
+        {
+          "text": " kota",
+          "startMs": 1353,
+          "endMs": 1569,
+          "timestampMs": 1461,
+          "confidence": null
+        },
+        {
+          "text": " dengan",
+          "startMs": 1569,
+          "endMs": 1773,
+          "timestampMs": 1671,
+          "confidence": null
+        },
+        {
+          "text": " UMP",
+          "startMs": 1773,
+          "endMs": 2075,
+          "timestampMs": 1924,
+          "confidence": null
+        },
+        {
+          "text": " rendah",
+          "startMs": 2075,
+          "endMs": 2269,
+          "timestampMs": 2172,
+          "confidence": null
+        },
+        {
+          "text": " butuh",
+          "startMs": 2269,
+          "endMs": 2463,
+          "timestampMs": 2366,
+          "confidence": null
+        },
+        {
+          "text": " menabung",
+          "startMs": 2463,
+          "endMs": 2862,
+          "timestampMs": 2663,
+          "confidence": null
+        },
+        {
+          "text": " hingga",
+          "startMs": 2862,
+          "endMs": 3099,
+          "timestampMs": 2981,
+          "confidence": null
+        },
+        {
+          "text": " hampir",
+          "startMs": 3099,
+          "endMs": 3346,
+          "timestampMs": 3223,
+          "confidence": null
+        },
+        {
+          "text": " dua",
+          "startMs": 3347,
+          "endMs": 3487,
+          "timestampMs": 3417,
+          "confidence": null
+        },
+        {
+          "text": " tahun",
+          "startMs": 3487,
+          "endMs": 3788,
+          "timestampMs": 3638,
+          "confidence": null
+        },
+        {
+          "text": " hanya",
+          "startMs": 3788,
+          "endMs": 4015,
+          "timestampMs": 3902,
+          "confidence": null
+        },
+        {
+          "text": " untuk",
+          "startMs": 4015,
+          "endMs": 4187,
+          "timestampMs": 4101,
+          "confidence": null
+        },
+        {
+          "text": " membeli",
+          "startMs": 4187,
+          "endMs": 4403,
+          "timestampMs": 4295,
+          "confidence": null
+        },
+        {
+          "text": " barang",
+          "startMs": 4403,
+          "endMs": 4629,
+          "timestampMs": 4516,
+          "confidence": null
+        },
+        {
+          "text": " tersier",
+          "startMs": 4629,
+          "endMs": 4941,
+          "timestampMs": 4785,
+          "confidence": null
+        },
+        {
+          "text": " ini",
+          "startMs": 4941,
+          "endMs": 5308,
+          "timestampMs": 5125,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "duration": 7,
+      "theme": "default",
+      "nicheTag": "DISKUSI & REFLEKSI",
+      "narration": "Jadi, menurut kamu, apakah patokan harga gadget global ini adil dengan standar upah kita? Tulis di kolom komentar!",
+      "infoCard": {
+        "type": "quote",
+        "badge": "DISKUSI TERBUKA",
+        "title": "Standar Global vs Upah Lokal",
+        "metric": "@adi.salafudin",
+        "description": "Bagikan sudut pandangmu di kolom komentar!"
+      },
+      "diagram": {
+        "type": "ump-closing-summary"
+      },
+      "audio": "audio/iphone-ump-id-2d/scene5.mp3",
+      "captions": [
+        {
+          "text": " Jadi",
+          "startMs": 60,
+          "endMs": 588,
+          "timestampMs": 324,
+          "confidence": null
+        },
+        {
+          "text": " menurut",
+          "startMs": 814,
+          "endMs": 1083,
+          "timestampMs": 949,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 1083,
+          "endMs": 1504,
+          "timestampMs": 1294,
+          "confidence": null
+        },
+        {
+          "text": " apakah",
+          "startMs": 1751,
+          "endMs": 2042,
+          "timestampMs": 1897,
+          "confidence": null
+        },
+        {
+          "text": " patokan",
+          "startMs": 2042,
+          "endMs": 2333,
+          "timestampMs": 2188,
+          "confidence": null
+        },
+        {
+          "text": " harga",
+          "startMs": 2333,
+          "endMs": 2581,
+          "timestampMs": 2457,
+          "confidence": null
+        },
+        {
+          "text": " gadget",
+          "startMs": 2581,
+          "endMs": 2829,
+          "timestampMs": 2705,
+          "confidence": null
+        },
+        {
+          "text": " global",
+          "startMs": 2829,
+          "endMs": 3077,
+          "timestampMs": 2953,
+          "confidence": null
+        },
+        {
+          "text": " ini",
+          "startMs": 3077,
+          "endMs": 3271,
+          "timestampMs": 3174,
+          "confidence": null
+        },
+        {
+          "text": " adil",
+          "startMs": 3271,
+          "endMs": 3562,
+          "timestampMs": 3417,
+          "confidence": null
+        },
+        {
+          "text": " dengan",
+          "startMs": 3562,
+          "endMs": 3734,
+          "timestampMs": 3648,
+          "confidence": null
+        },
+        {
+          "text": " standar",
+          "startMs": 3734,
+          "endMs": 4025,
+          "timestampMs": 3880,
+          "confidence": null
+        },
+        {
+          "text": " upah",
+          "startMs": 4025,
+          "endMs": 4219,
+          "timestampMs": 4122,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 4219,
+          "endMs": 4618,
+          "timestampMs": 4419,
+          "confidence": null
+        },
+        {
+          "text": " Tulis",
+          "startMs": 5335,
+          "endMs": 5679,
+          "timestampMs": 5507,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 5679,
+          "endMs": 5755,
+          "timestampMs": 5717,
+          "confidence": null
+        },
+        {
+          "text": " kolom",
+          "startMs": 5755,
+          "endMs": 5949,
+          "timestampMs": 5852,
+          "confidence": null
+        },
+        {
+          "text": " komentar",
+          "startMs": 5949,
+          "endMs": 6531,
+          "timestampMs": 6240,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

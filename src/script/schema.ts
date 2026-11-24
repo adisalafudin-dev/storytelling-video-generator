@@ -49,6 +49,8 @@ export const BEAT_TYPES = [
   "highlight",
   "drive",
   "rain",
+  "focus",
+  "send",
   "motion",
   "pose",
 ] as const;
@@ -76,6 +78,8 @@ export const BEAT_FIELDS: Record<
   highlight: ["layer", "for"],
   drive: ["to", "for"],
   rain: ["intensity", "for"],
+  focus: ["node", "for"],
+  send: ["from", "to", "for"],
   motion: ["preset", "target", "from", "for", "ease", "turns", "tumble", "loop"],
   pose: ["style", "for", "amount"],
 };
@@ -177,6 +181,8 @@ export const BeatSchema = z.discriminatedUnion("type", [
       for: beatFor,
     })
     .strict(),
+  z.object({ type: z.literal("focus"), node: beatText, for: beatFor }).strict(),
+  z.object({ type: z.literal("send"), from: beatText, to: beatText, for: beatFor }).strict(),
   z
     .object({
       type: z.literal("camera"),
@@ -227,7 +233,7 @@ export const SceneSchema = z
       .string()
       .regex(/^[\w-]+$/, "must use letters, digits, - and _ only")
       .optional(),
-    kit: z.enum(["layers", "road"]).optional(),
+    kit: z.enum(["layers", "road", "flow"]).optional(),
     narration: z
       .string()
       .transform((s) =>
@@ -253,6 +259,7 @@ export const SceneSchema = z
     themeDetail: z.enum(["low", "high"]).optional(),
     time: z.enum(["dawn", "day", "dusk", "night"]).optional(),
     weather: z.enum(["clear", "rain", "fog", "snow", "dust"]).optional(),
+    // eslint-disable-next-line @remotion/non-pure-animation
     transition: z.enum(["none", "fade", "slide", "wipe"]).optional(),
     transitionDuration: num
       .refine((n) => n >= 0.1, "must be at least 0.1 seconds")
@@ -408,17 +415,21 @@ export const KIT_PART_FIELDS = {
   layer: ["name", "color", "thickness"],
   rain: ["intensity"],
   car: ["color"],
+  node: ["id", "label", "pos", "color", "shape", "model", "rotation"],
+  link: ["from", "to", "color"],
 } as const;
-export const KIT_PART_TYPES = ["layer", "rain", "car"] as const;
+export const KIT_PART_TYPES = ["layer", "rain", "car", "node", "link"] as const;
 
 export const KIT_PARTS_BY_KIT = {
   layers: ["layer"],
   road: ["rain", "car"],
+  flow: ["node", "link"],
 } as const;
 
 export const KIT_ACTIONS_BY_KIT = {
   layers: ["explode", "highlight"],
   road: ["drive", "rain"],
+  flow: ["focus", "send"],
 } as const;
 
 export const KitPartSchema = z.discriminatedUnion("type", [
@@ -440,6 +451,22 @@ export const KitPartSchema = z.discriminatedUnion("type", [
     })
     .strict(),
   z.object({ type: z.literal("car"), color: hexColor }).strict(),
+  z.object({
+    type: z.literal("node"),
+    id: z.string().regex(/^[\w-]+$/, "must use letters, digits, - and _ only"),
+    label: beatText,
+    pos: vec3,
+    color: hexColor,
+    shape: z.enum(["box", "sphere"]).optional(),
+    model: z.string().regex(/\.(glb|gltf)$/i, "must be a local .glb or .gltf path under public/" ).optional(),
+    rotation: vec3.optional(),
+  }).strict(),
+  z.object({
+    type: z.literal("link"),
+    from: z.string().regex(/^[\w-]+$/, "must use letters, digits, - and _ only"),
+    to: z.string().regex(/^[\w-]+$/, "must use letters, digits, - and _ only"),
+    color: hexColor.optional(),
+  }).strict(),
 ]);
 
 export const ScenePropSchema = z.discriminatedUnion("type", [

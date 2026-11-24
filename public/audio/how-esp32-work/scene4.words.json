@@ -1,0 +1,100 @@
+[
+  {
+    "text": " ESP32",
+    "startMs": 100,
+    "endMs": 1075,
+    "timestampMs": 588,
+    "confidence": null
+  },
+  {
+    "text": " terhubung",
+    "startMs": 1075,
+    "endMs": 1488,
+    "timestampMs": 1282,
+    "confidence": null
+  },
+  {
+    "text": " ke",
+    "startMs": 1488,
+    "endMs": 1550,
+    "timestampMs": 1519,
+    "confidence": null
+  },
+  {
+    "text": " WiFi",
+    "startMs": 1550,
+    "endMs": 2088,
+    "timestampMs": 1819,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 2088,
+    "endMs": 2250,
+    "timestampMs": 2169,
+    "confidence": null
+  },
+  {
+    "text": " mengirim",
+    "startMs": 2250,
+    "endMs": 2550,
+    "timestampMs": 2400,
+    "confidence": null
+  },
+  {
+    "text": " data",
+    "startMs": 2550,
+    "endMs": 2788,
+    "timestampMs": 2669,
+    "confidence": null
+  },
+  {
+    "text": " berformat",
+    "startMs": 2788,
+    "endMs": 3238,
+    "timestampMs": 3013,
+    "confidence": null
+  },
+  {
+    "text": " JSON",
+    "startMs": 3238,
+    "endMs": 3550,
+    "timestampMs": 3394,
+    "confidence": null
+  },
+  {
+    "text": " lewat",
+    "startMs": 3550,
+    "endMs": 3813,
+    "timestampMs": 3682,
+    "confidence": null
+  },
+  {
+    "text": " HTTP",
+    "startMs": 3813,
+    "endMs": 4300,
+    "timestampMs": 4057,
+    "confidence": null
+  },
+  {
+    "text": " POST",
+    "startMs": 4300,
+    "endMs": 4613,
+    "timestampMs": 4457,
+    "confidence": null
+  },
+  {
+    "text": " ke",
+    "startMs": 4613,
+    "endMs": 4700,
+    "timestampMs": 4657,
+    "confidence": null
+  },
+  {
+    "text": " backend",
+    "startMs": 4700,
+    "endMs": 5300,
+    "timestampMs": 5000,
+    "confidence": null
+  }
+]

@@ -41,15 +41,23 @@ voice: id-ID-ArdiNeural
 - duration: auto
 - transition: fade
 - transitionDuration: 0.35
-- shape: model
-- model: models/gpu-card.glb
-- rotationSpeed: 0.2
-- camera: 0.5, 6.2, 3.0
-- cameraTo: 1.8, 5.4, 1.6
+- kit: flow
+- camera: 0, 0, 10
+- cameraTo: 0, 0, 9.2
 - cameraEase: ease-in-out
 - background: gradient(#07111f, #142b45, 180deg)
 - narration: "GPU menjalankan banyak perhitungan serentak: unit-unitnya mengolah warna, tekstur, dan cahaya pada bagian gambar berbeda."
   @ 0.2 title eyebrow="LANGKAH 2" text="Banyak hitungan, *serentak*" for=2.8
+  @ 0.2 focus node="cpu" for=0.8
+  @ 1.1 send from="cpu" to="gpu" for=1.2
+  @ 2.5 focus node="gpu" for=0.8
+  @ 3.5 send from="gpu" to="frame" for=1.2
+  @ 5 focus node="frame" for=1
+  + node id="cpu" label="CPU" model="models/CPU.glb" pos="-1.55, 1, 0" color=#4dabf7
+  + node id="gpu" label="GPU" model="models/gpu-card.glb" rotation="1.5708, 0, 0" pos="0, 0, 0" color=#63e6be
+  + node id="frame" label="Frame" model="models/monitor.glb" pos="1.55, -0.55, 0" color=#ffd43b
+  + link from="cpu" to="gpu"
+  + link from="gpu" to="frame"
 
 ## Frame di Monitor
 
@@ -65,7 +73,7 @@ voice: id-ID-ArdiNeural
 - cameraEase: ease-in-out
 - background: gradient(#07111f, #142b45, 180deg)
 - narration: "Hasilnya dikumpulkan menjadi satu frame, kemudian dikirim ke monitor untuk ditampilkan."
-  @ 0.2 title eyebrow="LANGKAH 4" text="Satu frame di *layar*" for=2.7
+  @ 0.2 title eyebrow="LANGKAH 3" text="Satu frame di *layar*" for=2.7
 
 ## Menjaga GPU Tetap Dingin
 

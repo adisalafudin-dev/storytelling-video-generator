@@ -13,6 +13,22 @@ Welcome to your Remotion project!
 
 ## Commands
 
+### Multi‑Story Architecture (Anti‑Overwrite)
+
+- **Story files** are now stored per‑topic under `src/data/stories/<slug>.json` instead of a single `src/data/storyboard.json`.
+- **Audio assets** for each story are generated into `public/audio/<slug>/`.
+- The project automatically discovers all story JSONs via `import.meta.glob('./data/stories/*.json', { eager: true })` and registers a separate Remotion composition for each story.
+- To render a specific story use the `--props` flag, e.g.:
+  ```bash
+  npx remotion render src/index.ts StorytellingVideo out/monalisa.mp4 \
+    --props='{"storyId":"monalisa"}' --gl=angle
+  ```
+- The legacy `script-to-video` workflow still works; the first discovered story is used as the default for `ScriptVideo`.
+
+---
+
+## Commands
+
 **Install Dependencies**
 
 ```console

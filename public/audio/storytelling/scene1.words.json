@@ -1,0 +1,58 @@
+[
+  {
+    "text": " Tahukah",
+    "startMs": 113,
+    "endMs": 463,
+    "timestampMs": 288,
+    "confidence": null
+  },
+  {
+    "text": " kamu",
+    "startMs": 463,
+    "endMs": 975,
+    "timestampMs": 719,
+    "confidence": null
+  },
+  {
+    "text": " dunia",
+    "startMs": 1263,
+    "endMs": 1600,
+    "timestampMs": 1432,
+    "confidence": null
+  },
+  {
+    "text": " sedang",
+    "startMs": 1600,
+    "endMs": 1850,
+    "timestampMs": 1725,
+    "confidence": null
+  },
+  {
+    "text": " mengalami",
+    "startMs": 1850,
+    "endMs": 2213,
+    "timestampMs": 2032,
+    "confidence": null
+  },
+  {
+    "text": " lonjakan",
+    "startMs": 2213,
+    "endMs": 2675,
+    "timestampMs": 2444,
+    "confidence": null
+  },
+  {
+    "text": " komputasi",
+    "startMs": 2675,
+    "endMs": 3125,
+    "timestampMs": 2900,
+    "confidence": null
+  },
+  {
+    "text": " terbesar",
+    "startMs": 3125,
+    "endMs": 3725,
+    "timestampMs": 3425,
+    "confidence": null
+  }
+]

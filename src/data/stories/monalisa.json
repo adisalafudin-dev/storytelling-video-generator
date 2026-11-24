@@ -1,0 +1,35 @@
+{
+  "title": "Misteri di Balik Senyum Mona Lisa",
+  "channel": "@adi.salafudin",
+  "niche": "",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalEstimatedDurationSec": 42,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 7.2,
+      "theme": "world",
+      "nicheTag": "SEJARAH & DUNIA",
+      "narration": "Kenapa lukisan seorang wanita biasa dari tahun 1503 ini bisa jadi karya seni paling mahal dan paling dijaga di seluruh dunia?",
+      "heroCard": {
+        "badgeText": "FAKTA SENI & SEJARAH",
+        "heroHeadline": "Misteri di Balik Senyum Mona Lisa",
+        "accentWord": "Mona Lisa",
+        "bigNumber": "1503",
+        "subLabel": "Tahun Pertama Kali Dilukis di Florence"
+      },
+      "world": {
+        "environment": "museum-gallery"
+      },
+      "character": {
+        "role": "narrator",
+        "gesture": "point",
+        "position": "right",
+        "scale": 1.05
+      },
+      "audio": "audio/monalisa/scene1.mp3"
+    }
+  ]
+}

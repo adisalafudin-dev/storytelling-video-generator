@@ -1,0 +1,5 @@
+{
+  "hash": "ec85745cec1ad56b",
+  "voice": "id-ID-ArdiNeural",
+  "text": "Pertama, sensor membaca suhu atau kelembapan, lalu ESP32 mengubahnya menjadi data digital."
+}

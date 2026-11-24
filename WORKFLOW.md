@@ -41,9 +41,9 @@ Urutan ringkas: `voice -> check -> (studio) -> make`.
 
 - Scene: `## Judul` + `- key: value`. Key tidak dikenal = error.
 - Suara: `narration: "teks"` + `duration: auto`. Jangan tulis `audio` / `words`.
-- Beat (indent 2 spasi): `@ <detik> <type> key="nilai" [for=<detik>]` dengan type `title tag badge quote stat checklist callout camera`. `*kata*` = sorot kuning.
+- Beat (indent 2 spasi): `@ <detik> <type> key="nilai" [for=<detik>]` dengan type overlay `title tag badge quote stat checklist callout camera` dan action kit `explode highlight drive rain focus send`. `*kata*` = sorot kuning.
 - Chapter: scene berurutan dengan `chapter:` sama berbagi satu dunia 3D, kamera menyambung (`@ 3.5 camera pos="x, y, z"`). Scene lanjutan tidak boleh set shape/color/background/camera/transition.
-- Kit: `kit: layers` (`+ layer ...`, aksi `explode`, `highlight`) atau `kit: road` (`+ rain`, `+ car`, aksi `drive`, `rain`).
+- Kit: `kit: layers` (`+ layer ...`, aksi `explode`, `highlight`), `kit: road` (`+ rain`, `+ car`, aksi `drive`, `rain`), atau `kit: flow` (2–8 `+ node ...`, 1–12 `+ link ...`, aksi `focus`, `send`). Node flow memakai `id`, `label`, `pos="x, y, z"`, `color`, dan opsi `shape=box|sphere`; pakai `model="models/nama.glb"` untuk aset lokal, plus `rotation="x, y, z"` dalam radian bila orientasi perlu diubah. ID node bukan nama file: action memakai ID; `label` adalah teks yang terlihat. Link dan action harus menunjuk ID/link yang ada. `send` menggerakkan packet deterministik sepanjang link.
 - Gerak objek: `@ 0 motion preset=fall-into from="..." target="..." for=4` (preset: fall-into, launch, fly-to, drive, orbit, float). Tidak butuh model beranimasi. `@ t pose style=flail|float|run|wave` untuk humanoid.
 - Environment: set on the chapter's first scene: `theme: space|farm|city|ocean|forest|desert|indoor|lab|highway`, `time: dawn|day|dusk|night` (default day), `weather: clear|rain|fog|snow|dust` (default clear), `themeDetail: low|high` (default low). `time`/`weather` require a theme. They are ignored with a parser warning for `space`, `lab` and `indoor`. Theme and `background` are mutually exclusive. Example: `theme: city`, `time: dusk`, `weather: rain`.
 - Space props: `+ planet ...` and `+ blackhole ...`. For `theme: highway` with `kit: road`, rain is passed to the road kit so it is not drawn twice.

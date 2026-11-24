@@ -1,0 +1,156 @@
+[
+  {
+    "text": " Kini",
+    "startMs": 113,
+    "endMs": 313,
+    "timestampMs": 213,
+    "confidence": null
+  },
+  {
+    "text": " setelah",
+    "startMs": 313,
+    "endMs": 600,
+    "timestampMs": 457,
+    "confidence": null
+  },
+  {
+    "text": " mengering",
+    "startMs": 600,
+    "endMs": 1113,
+    "timestampMs": 857,
+    "confidence": null
+  },
+  {
+    "text": " dasar",
+    "startMs": 1400,
+    "endMs": 1750,
+    "timestampMs": 1575,
+    "confidence": null
+  },
+  {
+    "text": " danau",
+    "startMs": 1750,
+    "endMs": 2013,
+    "timestampMs": 1882,
+    "confidence": null
+  },
+  {
+    "text": " kuno",
+    "startMs": 2013,
+    "endMs": 2175,
+    "timestampMs": 2094,
+    "confidence": null
+  },
+  {
+    "text": " tersebut",
+    "startMs": 2175,
+    "endMs": 2600,
+    "timestampMs": 2388,
+    "confidence": null
+  },
+  {
+    "text": " menghasilkan",
+    "startMs": 2600,
+    "endMs": 3150,
+    "timestampMs": 2875,
+    "confidence": null
+  },
+  {
+    "text": " jutaan",
+    "startMs": 3150,
+    "endMs": 3513,
+    "timestampMs": 3332,
+    "confidence": null
+  },
+  {
+    "text": " ton",
+    "startMs": 3513,
+    "endMs": 3725,
+    "timestampMs": 3619,
+    "confidence": null
+  },
+  {
+    "text": " debu",
+    "startMs": 3725,
+    "endMs": 3913,
+    "timestampMs": 3819,
+    "confidence": null
+  },
+  {
+    "text": " kaya",
+    "startMs": 3913,
+    "endMs": 4113,
+    "timestampMs": 4013,
+    "confidence": null
+  },
+  {
+    "text": " fosfor",
+    "startMs": 4113,
+    "endMs": 4538,
+    "timestampMs": 4326,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 4538,
+    "endMs": 4688,
+    "timestampMs": 4613,
+    "confidence": null
+  },
+  {
+    "text": " terbang",
+    "startMs": 4688,
+    "endMs": 5000,
+    "timestampMs": 4844,
+    "confidence": null
+  },
+  {
+    "text": " melintasi",
+    "startMs": 5000,
+    "endMs": 5413,
+    "timestampMs": 5207,
+    "confidence": null
+  },
+  {
+    "text": " Samudra",
+    "startMs": 5413,
+    "endMs": 5788,
+    "timestampMs": 5601,
+    "confidence": null
+  },
+  {
+    "text": " Atlantik",
+    "startMs": 5788,
+    "endMs": 6288,
+    "timestampMs": 6038,
+    "confidence": null
+  },
+  {
+    "text": " untuk",
+    "startMs": 6288,
+    "endMs": 6525,
+    "timestampMs": 6407,
+    "confidence": null
+  },
+  {
+    "text": " menyuburkan",
+    "startMs": 6525,
+    "endMs": 7038,
+    "timestampMs": 6782,
+    "confidence": null
+  },
+  {
+    "text": " Hutan",
+    "startMs": 7038,
+    "endMs": 7338,
+    "timestampMs": 7188,
+    "confidence": null
+  },
+  {
+    "text": " Amazon",
+    "startMs": 7338,
+    "endMs": 8000,
+    "timestampMs": 7669,
+    "confidence": null
+  }
+]

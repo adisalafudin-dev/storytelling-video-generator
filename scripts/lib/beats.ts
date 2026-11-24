@@ -10,7 +10,7 @@ export type ParsedBeat =
   | { kind: "motion"; motion: MotionAction }
   | { kind: "pose"; pose: PoseAction };
 
-const ACTION_TYPES = ["explode", "highlight", "drive", "rain"] as const;
+const ACTION_TYPES = ["explode", "highlight", "drive", "rain", "focus", "send"] as const;
 
 const shorten = (s: string) => (s.length > 60 ? `${s.slice(0, 57)}...` : s);
 

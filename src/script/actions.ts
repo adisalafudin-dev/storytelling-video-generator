@@ -4,11 +4,16 @@ import type { Chapter } from "./chapters";
 // Kit actions on the chapter timeline (chapter-local frames)
 export type Seg = { f0: number; f1: number; to: number }; // moves to `to` between f0 and f1, then holds
 export type Highlight = { f0: number; f1: number; layer: string };
+export type NodeFocus = { f0: number; f1: number; node: string };
+export type FlowSend = { f0: number; f1: number; from: string; to: string };
+export type ActiveFlowSend = { from: string; to: string; progress: number };
 export type ActionTracks = {
   explode: Seg[];
   drive: Seg[];
   rain: Seg[];
   highlights: Highlight[];
+  nodeFocuses: NodeFocus[];
+  sends: FlowSend[];
 };
 
 export const buildActionTracks = (
@@ -20,6 +25,8 @@ export const buildActionTracks = (
     drive: [],
     rain: [],
     highlights: [],
+    nodeFocuses: [],
+    sends: [],
   };
   chapter.scenes.forEach((scene, j) => {
     for (const a of scene.kitActions ?? []) {
@@ -28,12 +35,16 @@ export const buildActionTracks = (
       if (a.type === "explode") tracks.explode.push({ f0, f1, to: a.amount });
       else if (a.type === "drive") tracks.drive.push({ f0, f1, to: a.to });
       else if (a.type === "rain") tracks.rain.push({ f0, f1, to: a.intensity });
-      else tracks.highlights.push({ f0, f1, layer: a.layer });
+      else if (a.type === "highlight") tracks.highlights.push({ f0, f1, layer: a.layer });
+      else if (a.type === "focus") tracks.nodeFocuses.push({ f0, f1, node: a.node });
+      else if (a.type === "send") tracks.sends.push({ f0, f1, from: a.from, to: a.to });
     }
   });
   tracks.explode.sort((a, b) => a.f0 - b.f0);
   tracks.drive.sort((a, b) => a.f0 - b.f0);
   tracks.rain.sort((a, b) => a.f0 - b.f0);
+  tracks.nodeFocuses.sort((a, b) => a.f0 - b.f0);
+  tracks.sends.sort((a, b) => a.f0 - b.f0);
   return tracks;
 };
 
@@ -73,3 +84,19 @@ export const highlightAt = (
   );
   return { layer: active.layer, amount };
 };
+
+export const nodeFocusAt = (focuses: NodeFocus[], frame: number, fps: number) => {
+  let active: NodeFocus | null = null;
+  for (const focus of focuses) if (frame >= focus.f0 && frame < focus.f1) active = focus;
+  if (!active) return { node: null, amount: 0 };
+  const fade = Math.max(1, Math.round(0.18 * fps));
+  const amount = Math.max(0, Math.min(1, (frame - active.f0 + 1) / fade, (active.f1 - frame) / fade));
+  return { node: active.node, amount };
+};
+
+export const flowSendsAt = (sends: FlowSend[], frame: number) =>
+  sends.flatMap((send) => {
+    if (frame < send.f0 || frame >= send.f1) return [];
+    const t = (frame - send.f0) / (send.f1 - send.f0);
+    return [{ from: send.from, to: send.to, progress: ease(t) } satisfies ActiveFlowSend];
+  });

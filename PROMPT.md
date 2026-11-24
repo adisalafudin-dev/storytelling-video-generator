@@ -35,7 +35,7 @@ Write ONE storyboard for TOPIC. Output exactly one markdown code block and nothi
 | chapter                   | name (letters, digits, - \_). Consecutive scenes with the same name share ONE 3D world and a continuous camera                                                         |
 | shape                     | box, sphere, torus, model [box]                                                                                                                                        |
 | model                     | .glb/.gltf path; required when shape is model; only from AVAILABLE_MODELS                                                                                              |
-| kit                       | layers or road (replaces shape/model/color/rotationSpeed, which are then forbidden)                                                                                    |
+| kit                       | layers, road, or flow (replaces shape/model/color/rotationSpeed, which are then forbidden)                                                                              |
 | color                     | hex [#ffffff]; rotationSpeed rad/s [1]; background hex [#000000]                                                                                                       |
 | camera                    | "x, y, z" start position [0, 0, 5]; always looks at the origin                                                                                                         |
 | cameraTo, cameraEase      | end position over the whole scene; ease linear, ease-in, ease-out, ease-in-out. cameraEase only with cameraTo                                                          |
@@ -74,7 +74,10 @@ Beats in the same slot (title, tag, badge, card) must not overlap in time. camer
 
 - `kit: layers`: needs 2 to 8 lines `+ layer name="Tile" color=#e9ecef thickness=0.15` (top to bottom, thickness 0.05 to 1, unique names). Actions: `@ 2 explode amount=1.2 for=1.5` (amount 0 to 3), `@ 4 highlight layer="Tile" for=2` (layer must exist). World: 4 wide x 3 deep, centred; suggested camera `5, 3.5, 11`.
 - `kit: road`: optional `+ rain intensity=0.7` and `+ car color=#ff6b6b` (one each). Actions: `@ 0.5 drive to=5 for=4` (x from -8 to 8, car starts at -5), `@ 4 rain intensity=1 for=1.5`. Suggested camera `-10, 2.5, -1.6` (looks along the road).
-- - `+` lines only on the first scene of a chapter; kit actions can be on any scene of it.
+- `kit: flow`: needs 2 to 8 uniquely named nodes and 1 to 12 directed links. Example parts: `+ node id="cpu" label="CPU" pos="-1, 1, 0" color=#4dabf7 shape=box` and `+ link from="cpu" to="gpu"`. Node shape is `box` or `sphere` (default box); use `model="models/CPU.glb"` to show a local asset instead, with optional `rotation="x, y, z"` in radians. Keep node IDs as short references (`cpu`, `gpu`); `label` is the visible name. Link color defaults to `#8aa5c2`. Actions: `@ 0.5 focus node="cpu" for=1` and `@ 1.6 send from="cpu" to="gpu" for=1.2`. Nodes/links are defined on the chapter's first scene; action references must match a node or directed link. `send` animates a deterministic packet along the link. Portrait camera: `0, 0, 9`; keep nodes within about x/y ±2 and spaced so their models do not overlap.
+- `+` lines only on the first scene of a chapter; kit actions can be on any scene of it.
+
+Choose `flow` for processes, cause-and-effect, or data moving between components (for example, a water cycle or CPU → GPU → display). Prefer a layout that follows the narration order; focus the active node, then send a packet along its link.
 
 ### Props (any scene, `theme: space` recommended)
 

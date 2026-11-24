@@ -1,0 +1,65 @@
+[
+  {
+    "text": " Hanya",
+    "startMs": 100,
+    "endMs": 425,
+    "timestampMs": 263,
+    "confidence": null
+  },
+  {
+    "text": " dalam",
+    "startMs": 425,
+    "endMs": 638,
+    "timestampMs": 532,
+    "confidence": null
+  },
+  {
+    "text": " satu",
+    "startMs": 638,
+    "endMs": 863,
+    "timestampMs": 751,
+    "confidence": null
+  },
+  {
+    "text": " dekade",
+    "startMs": 863,
+    "endMs": 1463,
+    "timestampMs": 1163,
+    "confidence": null
+  },
+  {
+    "text": " kecepatan",
+    "startMs": 1763,
+    "endMs": 2250,
+    "timestampMs": 2007,
+    "confidence": null
+  },
+  {
+    "text": " chip",
+    "startMs": 2250,
+    "endMs": 2438,
+    "timestampMs": 2344,
+    "confidence": null
+  },
+  {
+    "text": " meningkat",
+    "startMs": 2438,
+    "endMs": 2800,
+    "timestampMs": 2619,
+    "confidence": null
+  },
+  {
+    "text": " secara",
+    "startMs": 2800,
+    "endMs": 3088,
+    "timestampMs": 2944,
+    "confidence": null
+  },
+  {
+    "text": " eksponensial",
+    "startMs": 3088,
+    "endMs": 4013,
+    "timestampMs": 3551,
+    "confidence": null
+  }
+]

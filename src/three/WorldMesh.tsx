@@ -1,5 +1,5 @@
 import { useCurrentFrame, useVideoConfig } from "remotion";
-import { highlightAt, trackValue } from "../script/actions";
+import { flowSendsAt, highlightAt, nodeFocusAt, trackValue } from "../script/actions";
 import type { ActionTracks } from "../script/actions";
 import type { SceneData } from "../script/types";
 import { LayersKit } from "./kits/LayersKit";
@@ -8,6 +8,7 @@ import { ShapeMesh } from "./ShapeMesh";
 import { ThemeProps } from "./ThemeProps";
 import type { MotionAction, PoseAction } from "../script/types";
 import { EnvironmentWorld } from "./environment/EnvironmentWorld";
+import { FlowKit } from "./kits/FlowKit";
 
 const CAR_START_X = -5;
 
@@ -60,6 +61,19 @@ export const WorldMesh: React.FC<{
       <EnvironmentWorld scene={scene} />
       </>
     );
+  }
+
+  if (scene.kit === "flow") {
+    return <>
+      <FlowKit
+        nodes={parts.flatMap((p) => p.type === "node" ? [p] : [])}
+        links={parts.flatMap((p) => p.type === "link" ? [p] : [])}
+        focus={nodeFocusAt(tracks.nodeFocuses, frame, fps)}
+        sends={flowSendsAt(tracks.sends, frame)}
+      />
+      <ThemeProps scene={scene} />
+      <EnvironmentWorld scene={scene} />
+    </>;
   }
 
   return <><ShapeMesh scene={scene} motionTracks={motionTracks} poseTracks={poseTracks} /><ThemeProps scene={scene} /><EnvironmentWorld scene={scene} /></>;

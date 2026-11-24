@@ -19,6 +19,7 @@ import { Background } from "./Background";
 import type { MotionAction } from "../script/types";
 import { EnvironmentRig } from "../three/environment/EnvironmentRig";
 import { environmentFor } from "../three/environment/environmentFor";
+import { FlowOverlay } from "../ui/flow/FlowOverlay";
 
 // Audio, beats and caption of one scene. Runs inside the scene's own <Sequence>,
 // so useCurrentFrame() is local to the scene.
@@ -66,6 +67,11 @@ export const ChapterView: React.FC<{ chapter: Chapter }> = ({ chapter }) => {
         {/* <ShapeMesh scene={world} /> */}
         <WorldMesh scene={world} tracks={tracks} motionTracks={motionTracks} poseTracks={poseTracks} />
       </ThreeCanvas>
+      {world.kit === "flow" ? <FlowOverlay
+        nodes={(world.kitParts ?? []).flatMap((part) => part.type === "node" ? [part] : [])}
+        points={points}
+        tracks={tracks}
+      /> : null}
       {chapter.scenes.map((scene, j) => (
         <Sequence
           key={j}

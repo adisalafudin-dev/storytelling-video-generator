@@ -1,0 +1,997 @@
+{
+  "title": "Pak Budi vs Pak Anu: Harga iPhone Sama, Pengorbanan Beda Jauh",
+  "channel": "@adi.salafudin",
+  "niche": "CERITA REALITAS & DAYA BELI",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalEstimatedDurationSec": 43.4,
+  "bgm": "audio/bgm/ambient-mystery.mp3",
+  "bgmVolume": 0.12,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 8.2,
+      "theme": "tech",
+      "nicheTag": "CERITA DUA TOKOH",
+      "narration": "Bayangin Pak Budi seorang petani di desa, dan Pak Anu seorang pebisnis, sama-sama lagi menatap satu unit iPhone yang harganya sama persis, enam belas juta setengah rupiah.",
+      "infoCard": {
+        "type": "info",
+        "badge": "CERITA DUA TOKOH",
+        "title": "Satu HP • Dua Nasib Berbeda",
+        "metric": "Rp 16.500.000"
+      },
+      "diagram": {
+        "type": "character-hook-showcase"
+      },
+      "audio": "audio/iphone-ump-id-story/scene1.mp3",
+      "captions": [
+        {
+          "text": " Bayangin",
+          "startMs": 60,
+          "endMs": 415,
+          "timestampMs": 238,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 416,
+          "endMs": 545,
+          "timestampMs": 481,
+          "confidence": null
+        },
+        {
+          "text": " Budi",
+          "startMs": 545,
+          "endMs": 782,
+          "timestampMs": 664,
+          "confidence": null
+        },
+        {
+          "text": " seorang",
+          "startMs": 782,
+          "endMs": 1030,
+          "timestampMs": 906,
+          "confidence": null
+        },
+        {
+          "text": " petani",
+          "startMs": 1030,
+          "endMs": 1267,
+          "timestampMs": 1149,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 1267,
+          "endMs": 1342,
+          "timestampMs": 1305,
+          "confidence": null
+        },
+        {
+          "text": " desa",
+          "startMs": 1342,
+          "endMs": 1806,
+          "timestampMs": 1574,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 2021,
+          "endMs": 2237,
+          "timestampMs": 2129,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 2237,
+          "endMs": 2355,
+          "timestampMs": 2296,
+          "confidence": null
+        },
+        {
+          "text": " Anu",
+          "startMs": 2355,
+          "endMs": 2506,
+          "timestampMs": 2431,
+          "confidence": null
+        },
+        {
+          "text": " seorang",
+          "startMs": 2506,
+          "endMs": 2754,
+          "timestampMs": 2630,
+          "confidence": null
+        },
+        {
+          "text": " pebisnis",
+          "startMs": 2754,
+          "endMs": 3336,
+          "timestampMs": 3045,
+          "confidence": null
+        },
+        {
+          "text": " sama-sama",
+          "startMs": 3573,
+          "endMs": 3993,
+          "timestampMs": 3783,
+          "confidence": null
+        },
+        {
+          "text": " lagi",
+          "startMs": 3993,
+          "endMs": 4209,
+          "timestampMs": 4101,
+          "confidence": null
+        },
+        {
+          "text": " menatap",
+          "startMs": 4209,
+          "endMs": 4489,
+          "timestampMs": 4349,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 4489,
+          "endMs": 4694,
+          "timestampMs": 4592,
+          "confidence": null
+        },
+        {
+          "text": " unit",
+          "startMs": 4694,
+          "endMs": 4855,
+          "timestampMs": 4775,
+          "confidence": null
+        },
+        {
+          "text": " iPhone",
+          "startMs": 4855,
+          "endMs": 5178,
+          "timestampMs": 5017,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 5178,
+          "endMs": 5286,
+          "timestampMs": 5232,
+          "confidence": null
+        },
+        {
+          "text": " harganya",
+          "startMs": 5286,
+          "endMs": 5620,
+          "timestampMs": 5453,
+          "confidence": null
+        },
+        {
+          "text": " sama",
+          "startMs": 5620,
+          "endMs": 5803,
+          "timestampMs": 5712,
+          "confidence": null
+        },
+        {
+          "text": " persis",
+          "startMs": 5803,
+          "endMs": 6245,
+          "timestampMs": 6024,
+          "confidence": null
+        },
+        {
+          "text": " enam",
+          "startMs": 6418,
+          "endMs": 6612,
+          "timestampMs": 6515,
+          "confidence": null
+        },
+        {
+          "text": " belas",
+          "startMs": 6612,
+          "endMs": 6795,
+          "timestampMs": 6704,
+          "confidence": null
+        },
+        {
+          "text": " juta",
+          "startMs": 6795,
+          "endMs": 7032,
+          "timestampMs": 6914,
+          "confidence": null
+        },
+        {
+          "text": " setengah",
+          "startMs": 7032,
+          "endMs": 7291,
+          "timestampMs": 7162,
+          "confidence": null
+        },
+        {
+          "text": " rupiah",
+          "startMs": 7291,
+          "endMs": 7765,
+          "timestampMs": 7528,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "duration": 7.1,
+      "theme": "money",
+      "nicheTag": "JEMBATAN REALITAS",
+      "narration": "Tapi buat membawanya pulang, pengorbanan mereka beda bumi dan langit. Kenapa gitu? Yuk sini kita jelasin!",
+      "infoCard": {
+        "type": "quote",
+        "badge": "OBROLAN SANTAI",
+        "title": "Pengorbanan Beda Jauh",
+        "metric": "Yuk Sini Kita Jelasin!"
+      },
+      "diagram": {
+        "type": "character-bridge-question"
+      },
+      "audio": "audio/iphone-ump-id-story/scene2.mp3",
+      "captions": [
+        {
+          "text": " Tapi",
+          "startMs": 60,
+          "endMs": 286,
+          "timestampMs": 173,
+          "confidence": null
+        },
+        {
+          "text": " buat",
+          "startMs": 286,
+          "endMs": 469,
+          "timestampMs": 378,
+          "confidence": null
+        },
+        {
+          "text": " membawanya",
+          "startMs": 469,
+          "endMs": 825,
+          "timestampMs": 647,
+          "confidence": null
+        },
+        {
+          "text": " pulang",
+          "startMs": 825,
+          "endMs": 1278,
+          "timestampMs": 1052,
+          "confidence": null
+        },
+        {
+          "text": " pengorbanan",
+          "startMs": 1504,
+          "endMs": 1956,
+          "timestampMs": 1730,
+          "confidence": null
+        },
+        {
+          "text": " mereka",
+          "startMs": 1956,
+          "endMs": 2183,
+          "timestampMs": 2070,
+          "confidence": null
+        },
+        {
+          "text": " beda",
+          "startMs": 2183,
+          "endMs": 2387,
+          "timestampMs": 2285,
+          "confidence": null
+        },
+        {
+          "text": " bumi",
+          "startMs": 2387,
+          "endMs": 2657,
+          "timestampMs": 2522,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 2657,
+          "endMs": 2829,
+          "timestampMs": 2743,
+          "confidence": null
+        },
+        {
+          "text": " langit",
+          "startMs": 2829,
+          "endMs": 3271,
+          "timestampMs": 3050,
+          "confidence": null
+        },
+        {
+          "text": " Kenapa",
+          "startMs": 3991,
+          "endMs": 4304,
+          "timestampMs": 4148,
+          "confidence": null
+        },
+        {
+          "text": " gitu",
+          "startMs": 4304,
+          "endMs": 4756,
+          "timestampMs": 4530,
+          "confidence": null
+        },
+        {
+          "text": " Yuk",
+          "startMs": 5478,
+          "endMs": 5683,
+          "timestampMs": 5581,
+          "confidence": null
+        },
+        {
+          "text": " sini",
+          "startMs": 5683,
+          "endMs": 5909,
+          "timestampMs": 5796,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 5909,
+          "endMs": 6071,
+          "timestampMs": 5990,
+          "confidence": null
+        },
+        {
+          "text": " jelasin",
+          "startMs": 6071,
+          "endMs": 6610,
+          "timestampMs": 6341,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "duration": 9,
+      "theme": "money",
+      "nicheTag": "SIMULASI GAJI KOTOR",
+      "narration": "Bagi Pak Anu, enam belas juta itu cuma setara tiga hari omzet bisnisnya. Tapi buat Pak Budi dengan penghasilan dua jutaan, ini setara delapan bulan kerja penuh tanpa makan.",
+      "infoCard": {
+        "type": "stat",
+        "badge": "NILAI TUKAR KERINGAT",
+        "title": "Pak Anu vs Pak Budi",
+        "metric": "3 HARI vs 8 BULAN"
+      },
+      "diagram": {
+        "type": "character-income-contrast"
+      },
+      "audio": "audio/iphone-ump-id-story/scene3.mp3",
+      "captions": [
+        {
+          "text": " Bagi",
+          "startMs": 60,
+          "endMs": 297,
+          "timestampMs": 179,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 297,
+          "endMs": 404,
+          "timestampMs": 351,
+          "confidence": null
+        },
+        {
+          "text": " Anu",
+          "startMs": 404,
+          "endMs": 782,
+          "timestampMs": 593,
+          "confidence": null
+        },
+        {
+          "text": " enam",
+          "startMs": 1029,
+          "endMs": 1202,
+          "timestampMs": 1116,
+          "confidence": null
+        },
+        {
+          "text": " belas",
+          "startMs": 1202,
+          "endMs": 1363,
+          "timestampMs": 1283,
+          "confidence": null
+        },
+        {
+          "text": " juta",
+          "startMs": 1363,
+          "endMs": 1514,
+          "timestampMs": 1439,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 1514,
+          "endMs": 1708,
+          "timestampMs": 1611,
+          "confidence": null
+        },
+        {
+          "text": " cuma",
+          "startMs": 1708,
+          "endMs": 1881,
+          "timestampMs": 1795,
+          "confidence": null
+        },
+        {
+          "text": " setara",
+          "startMs": 1881,
+          "endMs": 2118,
+          "timestampMs": 2000,
+          "confidence": null
+        },
+        {
+          "text": " tiga",
+          "startMs": 2118,
+          "endMs": 2366,
+          "timestampMs": 2242,
+          "confidence": null
+        },
+        {
+          "text": " hari",
+          "startMs": 2366,
+          "endMs": 2516,
+          "timestampMs": 2441,
+          "confidence": null
+        },
+        {
+          "text": " omzet",
+          "startMs": 2516,
+          "endMs": 2807,
+          "timestampMs": 2662,
+          "confidence": null
+        },
+        {
+          "text": " bisnisnya",
+          "startMs": 2807,
+          "endMs": 3443,
+          "timestampMs": 3125,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 4166,
+          "endMs": 4370,
+          "timestampMs": 4268,
+          "confidence": null
+        },
+        {
+          "text": " buat",
+          "startMs": 4370,
+          "endMs": 4543,
+          "timestampMs": 4457,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 4543,
+          "endMs": 4661,
+          "timestampMs": 4602,
+          "confidence": null
+        },
+        {
+          "text": " Budi",
+          "startMs": 4661,
+          "endMs": 4909,
+          "timestampMs": 4785,
+          "confidence": null
+        },
+        {
+          "text": " dengan",
+          "startMs": 4909,
+          "endMs": 5092,
+          "timestampMs": 5001,
+          "confidence": null
+        },
+        {
+          "text": " penghasilan",
+          "startMs": 5092,
+          "endMs": 5502,
+          "timestampMs": 5297,
+          "confidence": null
+        },
+        {
+          "text": " dua",
+          "startMs": 5502,
+          "endMs": 5620,
+          "timestampMs": 5561,
+          "confidence": null
+        },
+        {
+          "text": " jutaan",
+          "startMs": 5620,
+          "endMs": 6159,
+          "timestampMs": 5890,
+          "confidence": null
+        },
+        {
+          "text": " ini",
+          "startMs": 6450,
+          "endMs": 6633,
+          "timestampMs": 6542,
+          "confidence": null
+        },
+        {
+          "text": " setara",
+          "startMs": 6633,
+          "endMs": 6892,
+          "timestampMs": 6763,
+          "confidence": null
+        },
+        {
+          "text": " delapan",
+          "startMs": 6892,
+          "endMs": 7161,
+          "timestampMs": 7027,
+          "confidence": null
+        },
+        {
+          "text": " bulan",
+          "startMs": 7161,
+          "endMs": 7355,
+          "timestampMs": 7258,
+          "confidence": null
+        },
+        {
+          "text": " kerja",
+          "startMs": 7355,
+          "endMs": 7625,
+          "timestampMs": 7490,
+          "confidence": null
+        },
+        {
+          "text": " penuh",
+          "startMs": 7625,
+          "endMs": 7862,
+          "timestampMs": 7744,
+          "confidence": null
+        },
+        {
+          "text": " tanpa",
+          "startMs": 7862,
+          "endMs": 8088,
+          "timestampMs": 7975,
+          "confidence": null
+        },
+        {
+          "text": " makan",
+          "startMs": 8088,
+          "endMs": 8530,
+          "timestampMs": 8309,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "duration": 9.5,
+      "theme": "tech",
+      "nicheTag": "REALITAS PENGELUARAN",
+      "narration": "Nah di dunia nyata, Pak Budi kan harus beli beras, bayar listrik, dan sekolah anak. Begitu dipotong kebutuhan pokok, sisa uang yang bisa ditabung cuma dua ratus ribu sebulan.",
+      "infoCard": {
+        "type": "info",
+        "badge": "BIAYA HIDUP NYATA",
+        "title": "Dipotong Kebutuhan Pokok",
+        "metric": "SISA Rp 200.000 / BLN"
+      },
+      "diagram": {
+        "type": "character-living-expenses"
+      },
+      "audio": "audio/iphone-ump-id-story/scene4.mp3",
+      "captions": [
+        {
+          "text": " Nah",
+          "startMs": 60,
+          "endMs": 222,
+          "timestampMs": 141,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 222,
+          "endMs": 297,
+          "timestampMs": 260,
+          "confidence": null
+        },
+        {
+          "text": " dunia",
+          "startMs": 297,
+          "endMs": 523,
+          "timestampMs": 410,
+          "confidence": null
+        },
+        {
+          "text": " nyata",
+          "startMs": 523,
+          "endMs": 987,
+          "timestampMs": 755,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 1256,
+          "endMs": 1396,
+          "timestampMs": 1326,
+          "confidence": null
+        },
+        {
+          "text": " Budi",
+          "startMs": 1396,
+          "endMs": 1601,
+          "timestampMs": 1499,
+          "confidence": null
+        },
+        {
+          "text": " kan",
+          "startMs": 1601,
+          "endMs": 1730,
+          "timestampMs": 1666,
+          "confidence": null
+        },
+        {
+          "text": " harus",
+          "startMs": 1730,
+          "endMs": 1913,
+          "timestampMs": 1822,
+          "confidence": null
+        },
+        {
+          "text": " beli",
+          "startMs": 1913,
+          "endMs": 2032,
+          "timestampMs": 1973,
+          "confidence": null
+        },
+        {
+          "text": " beras",
+          "startMs": 2032,
+          "endMs": 2431,
+          "timestampMs": 2232,
+          "confidence": null
+        },
+        {
+          "text": " bayar",
+          "startMs": 2603,
+          "endMs": 2851,
+          "timestampMs": 2727,
+          "confidence": null
+        },
+        {
+          "text": " listrik",
+          "startMs": 2851,
+          "endMs": 3239,
+          "timestampMs": 3045,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 3411,
+          "endMs": 3616,
+          "timestampMs": 3514,
+          "confidence": null
+        },
+        {
+          "text": " sekolah",
+          "startMs": 3616,
+          "endMs": 3907,
+          "timestampMs": 3762,
+          "confidence": null
+        },
+        {
+          "text": " anak",
+          "startMs": 3907,
+          "endMs": 4252,
+          "timestampMs": 4080,
+          "confidence": null
+        },
+        {
+          "text": " Begitu",
+          "startMs": 4978,
+          "endMs": 5279,
+          "timestampMs": 5129,
+          "confidence": null
+        },
+        {
+          "text": " dipotong",
+          "startMs": 5279,
+          "endMs": 5603,
+          "timestampMs": 5441,
+          "confidence": null
+        },
+        {
+          "text": " kebutuhan",
+          "startMs": 5603,
+          "endMs": 5969,
+          "timestampMs": 5786,
+          "confidence": null
+        },
+        {
+          "text": " pokok",
+          "startMs": 5969,
+          "endMs": 6400,
+          "timestampMs": 6185,
+          "confidence": null
+        },
+        {
+          "text": " sisa",
+          "startMs": 6648,
+          "endMs": 6896,
+          "timestampMs": 6772,
+          "confidence": null
+        },
+        {
+          "text": " uang",
+          "startMs": 6896,
+          "endMs": 7079,
+          "timestampMs": 6988,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 7079,
+          "endMs": 7187,
+          "timestampMs": 7133,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 7187,
+          "endMs": 7359,
+          "timestampMs": 7273,
+          "confidence": null
+        },
+        {
+          "text": " ditabung",
+          "startMs": 7359,
+          "endMs": 7747,
+          "timestampMs": 7553,
+          "confidence": null
+        },
+        {
+          "text": " cuma",
+          "startMs": 7747,
+          "endMs": 7962,
+          "timestampMs": 7855,
+          "confidence": null
+        },
+        {
+          "text": " dua",
+          "startMs": 7962,
+          "endMs": 8092,
+          "timestampMs": 8027,
+          "confidence": null
+        },
+        {
+          "text": " ratus",
+          "startMs": 8092,
+          "endMs": 8307,
+          "timestampMs": 8200,
+          "confidence": null
+        },
+        {
+          "text": " ribu",
+          "startMs": 8307,
+          "endMs": 8458,
+          "timestampMs": 8383,
+          "confidence": null
+        },
+        {
+          "text": " sebulan",
+          "startMs": 8458,
+          "endMs": 8997,
+          "timestampMs": 8728,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "duration": 9.6,
+      "theme": "default",
+      "nicheTag": "REFLEKSI & DISKUSI",
+      "narration": "Artinya, Pak Budi butuh menabung hampir tujuh tahun cuma buat satu ponsel! Menurut kamu, apakah patokan harga global ini masuk akal? Tulis pendapatmu di komentar ya!",
+      "infoCard": {
+        "type": "quote",
+        "badge": "DISKUSI TERBUKA",
+        "title": "Harga Global vs Upah Lokal",
+        "metric": "@adi.salafudin"
+      },
+      "diagram": {
+        "type": "character-savings-timeline"
+      },
+      "audio": "audio/iphone-ump-id-story/scene5.mp3",
+      "captions": [
+        {
+          "text": " Artinya",
+          "startMs": 60,
+          "endMs": 685,
+          "timestampMs": 373,
+          "confidence": null
+        },
+        {
+          "text": " Pak",
+          "startMs": 932,
+          "endMs": 1062,
+          "timestampMs": 997,
+          "confidence": null
+        },
+        {
+          "text": " Budi",
+          "startMs": 1062,
+          "endMs": 1234,
+          "timestampMs": 1148,
+          "confidence": null
+        },
+        {
+          "text": " butuh",
+          "startMs": 1234,
+          "endMs": 1428,
+          "timestampMs": 1331,
+          "confidence": null
+        },
+        {
+          "text": " menabung",
+          "startMs": 1428,
+          "endMs": 1730,
+          "timestampMs": 1579,
+          "confidence": null
+        },
+        {
+          "text": " hampir",
+          "startMs": 1730,
+          "endMs": 1967,
+          "timestampMs": 1849,
+          "confidence": null
+        },
+        {
+          "text": " tujuh",
+          "startMs": 1967,
+          "endMs": 2204,
+          "timestampMs": 2086,
+          "confidence": null
+        },
+        {
+          "text": " tahun",
+          "startMs": 2204,
+          "endMs": 2452,
+          "timestampMs": 2328,
+          "confidence": null
+        },
+        {
+          "text": " cuma",
+          "startMs": 2452,
+          "endMs": 2635,
+          "timestampMs": 2544,
+          "confidence": null
+        },
+        {
+          "text": " buat",
+          "startMs": 2635,
+          "endMs": 2786,
+          "timestampMs": 2711,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 2786,
+          "endMs": 2947,
+          "timestampMs": 2867,
+          "confidence": null
+        },
+        {
+          "text": " ponsel",
+          "startMs": 2948,
+          "endMs": 3443,
+          "timestampMs": 3196,
+          "confidence": null
+        },
+        {
+          "text": " Menurut",
+          "startMs": 4158,
+          "endMs": 4449,
+          "timestampMs": 4304,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 4449,
+          "endMs": 4869,
+          "timestampMs": 4659,
+          "confidence": null
+        },
+        {
+          "text": " apakah",
+          "startMs": 5117,
+          "endMs": 5430,
+          "timestampMs": 5274,
+          "confidence": null
+        },
+        {
+          "text": " patokan",
+          "startMs": 5430,
+          "endMs": 5731,
+          "timestampMs": 5581,
+          "confidence": null
+        },
+        {
+          "text": " harga",
+          "startMs": 5732,
+          "endMs": 5958,
+          "timestampMs": 5845,
+          "confidence": null
+        },
+        {
+          "text": " global",
+          "startMs": 5958,
+          "endMs": 6206,
+          "timestampMs": 6082,
+          "confidence": null
+        },
+        {
+          "text": " ini",
+          "startMs": 6206,
+          "endMs": 6357,
+          "timestampMs": 6282,
+          "confidence": null
+        },
+        {
+          "text": " masuk",
+          "startMs": 6357,
+          "endMs": 6572,
+          "timestampMs": 6465,
+          "confidence": null
+        },
+        {
+          "text": " akal",
+          "startMs": 6572,
+          "endMs": 6960,
+          "timestampMs": 6766,
+          "confidence": null
+        },
+        {
+          "text": " Tulis",
+          "startMs": 7682,
+          "endMs": 7941,
+          "timestampMs": 7812,
+          "confidence": null
+        },
+        {
+          "text": " pendapatmu",
+          "startMs": 7941,
+          "endMs": 8361,
+          "timestampMs": 8151,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 8361,
+          "endMs": 8436,
+          "timestampMs": 8399,
+          "confidence": null
+        },
+        {
+          "text": " komentar",
+          "startMs": 8436,
+          "endMs": 8781,
+          "timestampMs": 8609,
+          "confidence": null
+        },
+        {
+          "text": " ya",
+          "startMs": 8781,
+          "endMs": 9083,
+          "timestampMs": 8932,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,54 @@
 node_modules
 dist
+build/
 .DS_Store
-.env
+Thumbs.db
 
-# Ignore the output video from Git but not videos you import into src/.
-out
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and local OS metadata
+.idea/
+*.swp
+*.swo
+
+# Rendered/exported media and generated audio
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.wav
+*.flac
+*.aac
+*.m4a
+*.tmp
+*.log
+*.bak
+*.gif
+
+# Keep shared project sound assets if present
+!public/audio/bgm/*.mp3
+!public/audio/sfx/*.mp3
+
+# Temporary files, caches, and render outputs
+tmp/
+temp/
+cache/
+.cache/
+coverage/
+.next/
+output/
+outputs/
+renders/
+rendered/
+exports/
+out/
+
+# Generated storyboard output
 src/generated/
 
 scripts/out/

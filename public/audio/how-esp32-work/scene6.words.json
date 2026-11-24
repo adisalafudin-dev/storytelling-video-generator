@@ -1,0 +1,93 @@
+[
+  {
+    "text": " Terakhir",
+    "startMs": 113,
+    "endMs": 688,
+    "timestampMs": 401,
+    "confidence": null
+  },
+  {
+    "text": " dashboard",
+    "startMs": 1000,
+    "endMs": 1475,
+    "timestampMs": 1238,
+    "confidence": null
+  },
+  {
+    "text": " mengambil",
+    "startMs": 1475,
+    "endMs": 1800,
+    "timestampMs": 1638,
+    "confidence": null
+  },
+  {
+    "text": " data",
+    "startMs": 1800,
+    "endMs": 2038,
+    "timestampMs": 1919,
+    "confidence": null
+  },
+  {
+    "text": " dari",
+    "startMs": 2038,
+    "endMs": 2188,
+    "timestampMs": 2113,
+    "confidence": null
+  },
+  {
+    "text": " backend",
+    "startMs": 2188,
+    "endMs": 2575,
+    "timestampMs": 2382,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 2575,
+    "endMs": 2738,
+    "timestampMs": 2657,
+    "confidence": null
+  },
+  {
+    "text": " menampilkannya",
+    "startMs": 2738,
+    "endMs": 3388,
+    "timestampMs": 3063,
+    "confidence": null
+  },
+  {
+    "text": " sebagai",
+    "startMs": 3388,
+    "endMs": 3713,
+    "timestampMs": 3551,
+    "confidence": null
+  },
+  {
+    "text": " grafik",
+    "startMs": 3713,
+    "endMs": 4138,
+    "timestampMs": 3926,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 4138,
+    "endMs": 4288,
+    "timestampMs": 4213,
+    "confidence": null
+  },
+  {
+    "text": " terus",
+    "startMs": 4288,
+    "endMs": 4538,
+    "timestampMs": 4413,
+    "confidence": null
+  },
+  {
+    "text": " diperbarui",
+    "startMs": 4538,
+    "endMs": 5250,
+    "timestampMs": 4894,
+    "confidence": null
+  }
+]

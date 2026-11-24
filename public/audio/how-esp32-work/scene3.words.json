@@ -1,0 +1,86 @@
+[
+  {
+    "text": " Pertama",
+    "startMs": 113,
+    "endMs": 763,
+    "timestampMs": 438,
+    "confidence": null
+  },
+  {
+    "text": " sensor",
+    "startMs": 1050,
+    "endMs": 1450,
+    "timestampMs": 1250,
+    "confidence": null
+  },
+  {
+    "text": " membaca",
+    "startMs": 1450,
+    "endMs": 1775,
+    "timestampMs": 1613,
+    "confidence": null
+  },
+  {
+    "text": " suhu",
+    "startMs": 1775,
+    "endMs": 2050,
+    "timestampMs": 1913,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 2050,
+    "endMs": 2250,
+    "timestampMs": 2150,
+    "confidence": null
+  },
+  {
+    "text": " kelembapan",
+    "startMs": 2250,
+    "endMs": 2913,
+    "timestampMs": 2582,
+    "confidence": null
+  },
+  {
+    "text": " lalu",
+    "startMs": 3250,
+    "endMs": 3488,
+    "timestampMs": 3369,
+    "confidence": null
+  },
+  {
+    "text": " ESP32",
+    "startMs": 3488,
+    "endMs": 4463,
+    "timestampMs": 3976,
+    "confidence": null
+  },
+  {
+    "text": " mengubahnya",
+    "startMs": 4463,
+    "endMs": 4963,
+    "timestampMs": 4713,
+    "confidence": null
+  },
+  {
+    "text": " menjadi",
+    "startMs": 4963,
+    "endMs": 5338,
+    "timestampMs": 5151,
+    "confidence": null
+  },
+  {
+    "text": " data",
+    "startMs": 5338,
+    "endMs": 5625,
+    "timestampMs": 5482,
+    "confidence": null
+  },
+  {
+    "text": " digital",
+    "startMs": 5625,
+    "endMs": 6275,
+    "timestampMs": 5950,
+    "confidence": null
+  }
+]

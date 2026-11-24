@@ -1,0 +1,135 @@
+[
+  {
+    "text": " Penyebabnya",
+    "startMs": 113,
+    "endMs": 600,
+    "timestampMs": 357,
+    "confidence": null
+  },
+  {
+    "text": " bukan",
+    "startMs": 600,
+    "endMs": 838,
+    "timestampMs": 719,
+    "confidence": null
+  },
+  {
+    "text": " perang",
+    "startMs": 838,
+    "endMs": 1100,
+    "timestampMs": 969,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 1100,
+    "endMs": 1313,
+    "timestampMs": 1207,
+    "confidence": null
+  },
+  {
+    "text": " kelangkaan",
+    "startMs": 1313,
+    "endMs": 1700,
+    "timestampMs": 1507,
+    "confidence": null
+  },
+  {
+    "text": " bahan",
+    "startMs": 1700,
+    "endMs": 2225,
+    "timestampMs": 1963,
+    "confidence": null
+  },
+  {
+    "text": " tapi",
+    "startMs": 2525,
+    "endMs": 2800,
+    "timestampMs": 2663,
+    "confidence": null
+  },
+  {
+    "text": " pabrik",
+    "startMs": 2800,
+    "endMs": 3088,
+    "timestampMs": 2944,
+    "confidence": null
+  },
+  {
+    "text": " chip",
+    "startMs": 3088,
+    "endMs": 3288,
+    "timestampMs": 3188,
+    "confidence": null
+  },
+  {
+    "text": " dunia",
+    "startMs": 3288,
+    "endMs": 3550,
+    "timestampMs": 3419,
+    "confidence": null
+  },
+  {
+    "text": " kini",
+    "startMs": 3550,
+    "endMs": 3788,
+    "timestampMs": 3669,
+    "confidence": null
+  },
+  {
+    "text": " memprioritaskan",
+    "startMs": 3788,
+    "endMs": 4525,
+    "timestampMs": 4157,
+    "confidence": null
+  },
+  {
+    "text": " pesanan",
+    "startMs": 4525,
+    "endMs": 4863,
+    "timestampMs": 4694,
+    "confidence": null
+  },
+  {
+    "text": " raksasa",
+    "startMs": 4863,
+    "endMs": 5263,
+    "timestampMs": 5063,
+    "confidence": null
+  },
+  {
+    "text": " AI",
+    "startMs": 5263,
+    "endMs": 5563,
+    "timestampMs": 5413,
+    "confidence": null
+  },
+  {
+    "text": " seperti",
+    "startMs": 5563,
+    "endMs": 5925,
+    "timestampMs": 5744,
+    "confidence": null
+  },
+  {
+    "text": " OpenAI",
+    "startMs": 5925,
+    "endMs": 6363,
+    "timestampMs": 6144,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 6363,
+    "endMs": 6563,
+    "timestampMs": 6463,
+    "confidence": null
+  },
+  {
+    "text": " Google",
+    "startMs": 6563,
+    "endMs": 7075,
+    "timestampMs": 6819,
+    "confidence": null
+  }
+]

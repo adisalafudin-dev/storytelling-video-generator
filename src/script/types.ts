@@ -8,7 +8,7 @@ export type TransitionType = "none" | "fade" | "slide" | "wipe";
 
 export type CameraKey = { time: number; pos: Vec3; ease: CameraEase };
 
-export type KitName = "layers" | "road";
+export type KitName = "layers" | "road" | "flow";
 export type ThemeName = "space" | "farm" | "city" | "ocean" | "forest" | "desert" | "indoor" | "lab" | "highway";
 export type TimeOfDay = "dawn" | "day" | "dusk" | "night";
 export type Weather = "clear" | "rain" | "fog" | "snow" | "dust";
@@ -21,7 +21,9 @@ export type SceneProp = { type: "planet"; color: string; radius: number; pos: Ve
 export type KitPart =
   | { type: "layer"; name: string; color: string; thickness: number }
   | { type: "rain"; intensity: number }
-  | { type: "car"; color: string };
+  | { type: "car"; color: string }
+  | { type: "node"; id: string; label: string; pos: Vec3; color: string; shape: "box" | "sphere"; model?: string; rotation: Vec3 }
+  | { type: "link"; from: string; to: string; color: string };
 
 // Timed kit action ("@ <s> explode amount=1.2 for=1.5"); start/end in seconds from the scene start
 export type KitAction = { start: number; end: number } & (
@@ -29,6 +31,8 @@ export type KitAction = { start: number; end: number } & (
   | { type: "highlight"; layer: string }
   | { type: "drive"; to: number }
   | { type: "rain"; intensity: number }
+  | { type: "focus"; node: string }
+  | { type: "send"; from: string; to: string }
 );
 
 export type BeatType =

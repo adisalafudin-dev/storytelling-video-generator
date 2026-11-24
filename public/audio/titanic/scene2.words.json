@@ -1,0 +1,128 @@
+[
+  {
+    "text": " Di",
+    "startMs": 113,
+    "endMs": 238,
+    "timestampMs": 176,
+    "confidence": null
+  },
+  {
+    "text": " kedalaman",
+    "startMs": 238,
+    "endMs": 625,
+    "timestampMs": 432,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 625,
+    "endMs": 1075,
+    "timestampMs": 850,
+    "confidence": null
+  },
+  {
+    "text": " tekanan",
+    "startMs": 1350,
+    "endMs": 1650,
+    "timestampMs": 1500,
+    "confidence": null
+  },
+  {
+    "text": " airnya",
+    "startMs": 1650,
+    "endMs": 1988,
+    "timestampMs": 1819,
+    "confidence": null
+  },
+  {
+    "text": " mencapai",
+    "startMs": 1988,
+    "endMs": 2388,
+    "timestampMs": 2188,
+    "confidence": null
+  },
+  {
+    "text": " 400",
+    "startMs": 2388,
+    "endMs": 2863,
+    "timestampMs": 2626,
+    "confidence": null
+  },
+  {
+    "text": " kali",
+    "startMs": 2863,
+    "endMs": 3063,
+    "timestampMs": 2963,
+    "confidence": null
+  },
+  {
+    "text": " lipat",
+    "startMs": 3063,
+    "endMs": 3338,
+    "timestampMs": 3201,
+    "confidence": null
+  },
+  {
+    "text": " permukaan",
+    "startMs": 3338,
+    "endMs": 3763,
+    "timestampMs": 3551,
+    "confidence": null
+  },
+  {
+    "text": " laut",
+    "startMs": 3763,
+    "endMs": 4238,
+    "timestampMs": 4001,
+    "confidence": null
+  },
+  {
+    "text": " setara",
+    "startMs": 4500,
+    "endMs": 4850,
+    "timestampMs": 4675,
+    "confidence": null
+  },
+  {
+    "text": " ditindih",
+    "startMs": 4850,
+    "endMs": 5263,
+    "timestampMs": 5057,
+    "confidence": null
+  },
+  {
+    "text": " 50",
+    "startMs": 5263,
+    "endMs": 5600,
+    "timestampMs": 5432,
+    "confidence": null
+  },
+  {
+    "text": " pesawat",
+    "startMs": 5600,
+    "endMs": 5963,
+    "timestampMs": 5782,
+    "confidence": null
+  },
+  {
+    "text": " jet",
+    "startMs": 5963,
+    "endMs": 6188,
+    "timestampMs": 6076,
+    "confidence": null
+  },
+  {
+    "text": " jumbo",
+    "startMs": 6188,
+    "endMs": 6488,
+    "timestampMs": 6338,
+    "confidence": null
+  },
+  {
+    "text": " sekaligus",
+    "startMs": 6488,
+    "endMs": 7225,
+    "timestampMs": 6857,
+    "confidence": null
+  }
+]

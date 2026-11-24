@@ -1,0 +1,135 @@
+[
+  {
+    "text": " Bumi",
+    "startMs": 100,
+    "endMs": 400,
+    "timestampMs": 250,
+    "confidence": null
+  },
+  {
+    "text": " selalu",
+    "startMs": 400,
+    "endMs": 688,
+    "timestampMs": 544,
+    "confidence": null
+  },
+  {
+    "text": " menyimpan",
+    "startMs": 688,
+    "endMs": 1063,
+    "timestampMs": 876,
+    "confidence": null
+  },
+  {
+    "text": " rahasia",
+    "startMs": 1063,
+    "endMs": 1450,
+    "timestampMs": 1257,
+    "confidence": null
+  },
+  {
+    "text": " luar",
+    "startMs": 1450,
+    "endMs": 1650,
+    "timestampMs": 1550,
+    "confidence": null
+  },
+  {
+    "text": " biasa",
+    "startMs": 1650,
+    "endMs": 2075,
+    "timestampMs": 1863,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 2075,
+    "endMs": 2225,
+    "timestampMs": 2150,
+    "confidence": null
+  },
+  {
+    "text": " mengubah",
+    "startMs": 2225,
+    "endMs": 2525,
+    "timestampMs": 2375,
+    "confidence": null
+  },
+  {
+    "text": " cara",
+    "startMs": 2525,
+    "endMs": 2738,
+    "timestampMs": 2632,
+    "confidence": null
+  },
+  {
+    "text": " kita",
+    "startMs": 2738,
+    "endMs": 2975,
+    "timestampMs": 2857,
+    "confidence": null
+  },
+  {
+    "text": " memandang",
+    "startMs": 2975,
+    "endMs": 3363,
+    "timestampMs": 3169,
+    "confidence": null
+  },
+  {
+    "text": " dunia",
+    "startMs": 3363,
+    "endMs": 3900,
+    "timestampMs": 3632,
+    "confidence": null
+  },
+  {
+    "text": " Follow",
+    "startMs": 4738,
+    "endMs": 5050,
+    "timestampMs": 4894,
+    "confidence": null
+  },
+  {
+    "text": " sekarang",
+    "startMs": 5050,
+    "endMs": 5438,
+    "timestampMs": 5244,
+    "confidence": null
+  },
+  {
+    "text": " untuk",
+    "startMs": 5438,
+    "endMs": 5638,
+    "timestampMs": 5538,
+    "confidence": null
+  },
+  {
+    "text": " rahasia",
+    "startMs": 5638,
+    "endMs": 6013,
+    "timestampMs": 5826,
+    "confidence": null
+  },
+  {
+    "text": " sains",
+    "startMs": 6013,
+    "endMs": 6363,
+    "timestampMs": 6188,
+    "confidence": null
+  },
+  {
+    "text": " menakjubkan",
+    "startMs": 6363,
+    "endMs": 6838,
+    "timestampMs": 6601,
+    "confidence": null
+  },
+  {
+    "text": " lainnya",
+    "startMs": 6838,
+    "endMs": 7363,
+    "timestampMs": 7101,
+    "confidence": null
+  }
+]

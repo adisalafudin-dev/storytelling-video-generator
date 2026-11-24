@@ -1,0 +1,107 @@
+[
+  {
+    "text": " Sensor",
+    "startMs": 100,
+    "endMs": 488,
+    "timestampMs": 294,
+    "confidence": null
+  },
+  {
+    "text": " kecil",
+    "startMs": 488,
+    "endMs": 800,
+    "timestampMs": 644,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 800,
+    "endMs": 1013,
+    "timestampMs": 907,
+    "confidence": null
+  },
+  {
+    "text": " tampil",
+    "startMs": 1013,
+    "endMs": 1363,
+    "timestampMs": 1188,
+    "confidence": null
+  },
+  {
+    "text": " sebagai",
+    "startMs": 1363,
+    "endMs": 1700,
+    "timestampMs": 1532,
+    "confidence": null
+  },
+  {
+    "text": " grafik",
+    "startMs": 1700,
+    "endMs": 2125,
+    "timestampMs": 1913,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 2125,
+    "endMs": 2250,
+    "timestampMs": 2188,
+    "confidence": null
+  },
+  {
+    "text": " dashboard",
+    "startMs": 2250,
+    "endMs": 2775,
+    "timestampMs": 2513,
+    "confidence": null
+  },
+  {
+    "text": " web",
+    "startMs": 2775,
+    "endMs": 3150,
+    "timestampMs": 2963,
+    "confidence": null
+  },
+  {
+    "text": " Tapi",
+    "startMs": 3988,
+    "endMs": 4300,
+    "timestampMs": 4144,
+    "confidence": null
+  },
+  {
+    "text": " bagaimana",
+    "startMs": 4300,
+    "endMs": 4750,
+    "timestampMs": 4525,
+    "confidence": null
+  },
+  {
+    "text": " datanya",
+    "startMs": 4750,
+    "endMs": 5150,
+    "timestampMs": 4950,
+    "confidence": null
+  },
+  {
+    "text": " sampai",
+    "startMs": 5150,
+    "endMs": 5425,
+    "timestampMs": 5288,
+    "confidence": null
+  },
+  {
+    "text": " ke",
+    "startMs": 5425,
+    "endMs": 5500,
+    "timestampMs": 5463,
+    "confidence": null
+  },
+  {
+    "text": " sana",
+    "startMs": 5500,
+    "endMs": 6013,
+    "timestampMs": 5757,
+    "confidence": null
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "text": " Saat",
+    "startMs": 60,
+    "endMs": 297,
+    "timestampMs": 179,
+    "confidence": null
+  },
+  {
+    "text": " piston",
+    "startMs": 297,
+    "endMs": 609,
+    "timestampMs": 453,
+    "confidence": null
+  },
+  {
+    "text": " bergerak",
+    "startMs": 609,
+    "endMs": 890,
+    "timestampMs": 750,
+    "confidence": null
+  },
+  {
+    "text": " naik",
+    "startMs": 890,
+    "endMs": 1094,
+    "timestampMs": 992,
+    "confidence": null
+  },
+  {
+    "text": " menekan",
+    "startMs": 1094,
+    "endMs": 1353,
+    "timestampMs": 1224,
+    "confidence": null
+  },
+  {
+    "text": " campuran",
+    "startMs": 1353,
+    "endMs": 1644,
+    "timestampMs": 1499,
+    "confidence": null
+  },
+  {
+    "text": " udara",
+    "startMs": 1644,
+    "endMs": 1924,
+    "timestampMs": 1784,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 1924,
+    "endMs": 2086,
+    "timestampMs": 2005,
+    "confidence": null
+  },
+  {
+    "text": " bensin",
+    "startMs": 2086,
+    "endMs": 2581,
+    "timestampMs": 2334,
+    "confidence": null
+  },
+  {
+    "text": " suhu",
+    "startMs": 2808,
+    "endMs": 3120,
+    "timestampMs": 2964,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 3120,
+    "endMs": 3260,
+    "timestampMs": 3190,
+    "confidence": null
+  },
+  {
+    "text": " tekanan",
+    "startMs": 3260,
+    "endMs": 3584,
+    "timestampMs": 3422,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 3584,
+    "endMs": 3648,
+    "timestampMs": 3616,
+    "confidence": null
+  },
+  {
+    "text": " dalam",
+    "startMs": 3648,
+    "endMs": 3842,
+    "timestampMs": 3745,
+    "confidence": null
+  },
+  {
+    "text": " silinder",
+    "startMs": 3842,
+    "endMs": 4176,
+    "timestampMs": 4009,
+    "confidence": null
+  },
+  {
+    "text": " melonjak",
+    "startMs": 4176,
+    "endMs": 4521,
+    "timestampMs": 4349,
+    "confidence": null
+  },
+  {
+    "text": " drastis",
+    "startMs": 4521,
+    "endMs": 5103,
+    "timestampMs": 4812,
+    "confidence": null
+  },
+  {
+    "text": " Angka",
+    "startMs": 5829,
+    "endMs": 6044,
+    "timestampMs": 5937,
+    "confidence": null
+  },
+  {
+    "text": " RON",
+    "startMs": 6044,
+    "endMs": 6152,
+    "timestampMs": 6098,
+    "confidence": null
+  },
+  {
+    "text": " sembilan",
+    "startMs": 6152,
+    "endMs": 6432,
+    "timestampMs": 6292,
+    "confidence": null
+  },
+  {
+    "text": " puluh",
+    "startMs": 6432,
+    "endMs": 6680,
+    "timestampMs": 6556,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 6680,
+    "endMs": 6874,
+    "timestampMs": 6777,
+    "confidence": null
+  },
+  {
+    "text": " sembilan",
+    "startMs": 6874,
+    "endMs": 7143,
+    "timestampMs": 7009,
+    "confidence": null
+  },
+  {
+    "text": " puluh",
+    "startMs": 7144,
+    "endMs": 7305,
+    "timestampMs": 7225,
+    "confidence": null
+  },
+  {
+    "text": " dua",
+    "startMs": 7305,
+    "endMs": 7478,
+    "timestampMs": 7392,
+    "confidence": null
+  },
+  {
+    "text": " bukan",
+    "startMs": 7478,
+    "endMs": 7715,
+    "timestampMs": 7597,
+    "confidence": null
+  },
+  {
+    "text": " soal",
+    "startMs": 7715,
+    "endMs": 7898,
+    "timestampMs": 7807,
+    "confidence": null
+  },
+  {
+    "text": " tenaga",
+    "startMs": 7898,
+    "endMs": 8415,
+    "timestampMs": 8157,
+    "confidence": null
+  },
+  {
+    "text": " melainkan",
+    "startMs": 8674,
+    "endMs": 9051,
+    "timestampMs": 8863,
+    "confidence": null
+  },
+  {
+    "text": " ketahanan",
+    "startMs": 9051,
+    "endMs": 9396,
+    "timestampMs": 9224,
+    "confidence": null
+  },
+  {
+    "text": " bensin",
+    "startMs": 9396,
+    "endMs": 9751,
+    "timestampMs": 9574,
+    "confidence": null
+  },
+  {
+    "text": " agar",
+    "startMs": 9751,
+    "endMs": 9956,
+    "timestampMs": 9854,
+    "confidence": null
+  },
+  {
+    "text": " tidak",
+    "startMs": 9956,
+    "endMs": 10139,
+    "timestampMs": 10048,
+    "confidence": null
+  },
+  {
+    "text": " meledak",
+    "startMs": 10139,
+    "endMs": 10365,
+    "timestampMs": 10252,
+    "confidence": null
+  },
+  {
+    "text": " sendiri",
+    "startMs": 10366,
+    "endMs": 10700,
+    "timestampMs": 10533,
+    "confidence": null
+  },
+  {
+    "text": " sebelum",
+    "startMs": 10700,
+    "endMs": 10980,
+    "timestampMs": 10840,
+    "confidence": null
+  },
+  {
+    "text": " busi",
+    "startMs": 10980,
+    "endMs": 11195,
+    "timestampMs": 11088,
+    "confidence": null
+  },
+  {
+    "text": " memercikkan",
+    "startMs": 11195,
+    "endMs": 11626,
+    "timestampMs": 11411,
+    "confidence": null
+  },
+  {
+    "text": " api",
+    "startMs": 11626,
+    "endMs": 12036,
+    "timestampMs": 11831,
+    "confidence": null
+  }
+]

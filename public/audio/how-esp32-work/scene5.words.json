@@ -1,0 +1,93 @@
+[
+  {
+    "text": " Backend",
+    "startMs": 113,
+    "endMs": 475,
+    "timestampMs": 294,
+    "confidence": null
+  },
+  {
+    "text": " memvalidasi",
+    "startMs": 475,
+    "endMs": 1013,
+    "timestampMs": 744,
+    "confidence": null
+  },
+  {
+    "text": " data",
+    "startMs": 1013,
+    "endMs": 1200,
+    "timestampMs": 1107,
+    "confidence": null
+  },
+  {
+    "text": " itu",
+    "startMs": 1200,
+    "endMs": 1675,
+    "timestampMs": 1438,
+    "confidence": null
+  },
+  {
+    "text": " lalu",
+    "startMs": 2025,
+    "endMs": 2263,
+    "timestampMs": 2144,
+    "confidence": null
+  },
+  {
+    "text": " menyimpannya",
+    "startMs": 2263,
+    "endMs": 2750,
+    "timestampMs": 2507,
+    "confidence": null
+  },
+  {
+    "text": " ke",
+    "startMs": 2750,
+    "endMs": 2838,
+    "timestampMs": 2794,
+    "confidence": null
+  },
+  {
+    "text": " database",
+    "startMs": 2838,
+    "endMs": 3350,
+    "timestampMs": 3094,
+    "confidence": null
+  },
+  {
+    "text": " agar",
+    "startMs": 3350,
+    "endMs": 3575,
+    "timestampMs": 3463,
+    "confidence": null
+  },
+  {
+    "text": " riwayatnya",
+    "startMs": 3575,
+    "endMs": 4125,
+    "timestampMs": 3850,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 4125,
+    "endMs": 4413,
+    "timestampMs": 4269,
+    "confidence": null
+  },
+  {
+    "text": " dilihat",
+    "startMs": 4413,
+    "endMs": 4725,
+    "timestampMs": 4569,
+    "confidence": null
+  },
+  {
+    "text": " kembali",
+    "startMs": 4725,
+    "endMs": 5300,
+    "timestampMs": 5013,
+    "confidence": null
+  }
+]

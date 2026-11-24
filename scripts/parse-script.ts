@@ -325,10 +325,21 @@ for (const [bi, block] of blocks.entries()) {
   }
   if (kitParts.length > 0 && !s.kit) {
     fail(
-      `Scene "${title}": "+" lines need a "kit" key (kit: layers or kit: road)`,
+      `Scene "${title}": "+" lines need a "kit" key (kit: layers, road, or flow)`,
     );
   }
   if (s.kit) validateKitParts(s.kit, kitParts, title, fail);
+  for (const part of kitParts) {
+    if (part.type !== "node" || !part.model) continue;
+    const publicRoot = path.resolve("public");
+    const modelPath = path.resolve(publicRoot, part.model);
+    const relativePath = path.relative(publicRoot, modelPath);
+    if (relativePath === ".." || relativePath.startsWith(`..${path.sep}`) || path.isAbsolute(relativePath)) {
+      fail(`Scene "${title}": flow node "${part.id}": model must stay under public/`);
+    } else if (!fs.existsSync(modelPath)) {
+      fail(`Scene "${title}": flow node "${part.id}": model file not found at public/${part.model}`);
+    }
+  }
   if (s.theme && ["space", "lab", "indoor"].includes(s.theme)) {
     if (s.time) console.warn(`Warning: scene "${title}": time is ignored for theme "${s.theme}"`);
     if (s.weather) console.warn(`Warning: scene "${title}": weather is ignored for theme "${s.theme}"`);
@@ -469,7 +480,7 @@ if (errors.length === 0) {
     for (const a of s.kitActions) {
       if (!first.kit) {
         fail(
-          `Scene "${s.title}": action "${a.type}" needs a kit (set "kit: layers" or "kit: road" on the chapter's first scene)`,
+          `Scene "${s.title}": action "${a.type}" needs a kit (set "kit: layers", "kit: road", or "kit: flow" on the chapter's first scene)`,
         );
         continue;
       }
@@ -488,6 +499,18 @@ if (errors.length === 0) {
           fail(
             `Scene "${s.title}": action "highlight": no layer named "${a.layer}"${sug ? ` (did you mean "${sug}"?)` : ""}. Layers: ${names.join(", ")}`,
           );
+        }
+      }
+      if (a.type === "focus" || a.type === "send") {
+        const nodes = (first.kitParts ?? []).flatMap((p) => p.type === "node" ? [p.id] : []);
+        if (a.type === "focus" && !nodes.includes(a.node)) {
+          const sug = suggest(a.node, nodes);
+          fail(`Scene "${s.title}": action "focus": no flow node named "${a.node}"${sug ? ` (did you mean "${sug}"?)` : ""}. Nodes: ${nodes.join(", ")}`);
+        }
+        if (a.type === "send") {
+          const links = (first.kitParts ?? []).flatMap((p) => p.type === "link" ? [`${p.from}->${p.to}`] : []);
+          const key = `${a.from}->${a.to}`;
+          if (!links.includes(key)) fail(`Scene "${s.title}": action "send": no flow link from "${a.from}" to "${a.to}"`);
         }
       }
     }

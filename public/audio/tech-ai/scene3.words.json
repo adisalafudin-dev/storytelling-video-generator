@@ -1,0 +1,142 @@
+[
+  {
+    "text": " Satu",
+    "startMs": 100,
+    "endMs": 425,
+    "timestampMs": 263,
+    "confidence": null
+  },
+  {
+    "text": " keping",
+    "startMs": 425,
+    "endMs": 688,
+    "timestampMs": 557,
+    "confidence": null
+  },
+  {
+    "text": " chip",
+    "startMs": 688,
+    "endMs": 863,
+    "timestampMs": 776,
+    "confidence": null
+  },
+  {
+    "text": " server",
+    "startMs": 863,
+    "endMs": 1213,
+    "timestampMs": 1038,
+    "confidence": null
+  },
+  {
+    "text": " AI",
+    "startMs": 1213,
+    "endMs": 1488,
+    "timestampMs": 1351,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 1488,
+    "endMs": 1713,
+    "timestampMs": 1601,
+    "confidence": null
+  },
+  {
+    "text": " dijual",
+    "startMs": 1713,
+    "endMs": 2050,
+    "timestampMs": 1882,
+    "confidence": null
+  },
+  {
+    "text": " seharga",
+    "startMs": 2050,
+    "endMs": 2413,
+    "timestampMs": 2232,
+    "confidence": null
+  },
+  {
+    "text": " ratusan",
+    "startMs": 2413,
+    "endMs": 2763,
+    "timestampMs": 2588,
+    "confidence": null
+  },
+  {
+    "text": " juta",
+    "startMs": 2763,
+    "endMs": 2963,
+    "timestampMs": 2863,
+    "confidence": null
+  },
+  {
+    "text": " rupiah",
+    "startMs": 2963,
+    "endMs": 3338,
+    "timestampMs": 3151,
+    "confidence": null
+  },
+  {
+    "text": " dengan",
+    "startMs": 3338,
+    "endMs": 3575,
+    "timestampMs": 3457,
+    "confidence": null
+  },
+  {
+    "text": " keuntungan",
+    "startMs": 3575,
+    "endMs": 3975,
+    "timestampMs": 3775,
+    "confidence": null
+  },
+  {
+    "text": " lima",
+    "startMs": 3975,
+    "endMs": 4175,
+    "timestampMs": 4075,
+    "confidence": null
+  },
+  {
+    "text": " kali",
+    "startMs": 4175,
+    "endMs": 4375,
+    "timestampMs": 4275,
+    "confidence": null
+  },
+  {
+    "text": " lipat",
+    "startMs": 4375,
+    "endMs": 4700,
+    "timestampMs": 4538,
+    "confidence": null
+  },
+  {
+    "text": " dibanding",
+    "startMs": 4700,
+    "endMs": 5150,
+    "timestampMs": 4925,
+    "confidence": null
+  },
+  {
+    "text": " chip",
+    "startMs": 5150,
+    "endMs": 5350,
+    "timestampMs": 5250,
+    "confidence": null
+  },
+  {
+    "text": " smartphone",
+    "startMs": 5350,
+    "endMs": 5825,
+    "timestampMs": 5588,
+    "confidence": null
+  },
+  {
+    "text": " biasa",
+    "startMs": 5825,
+    "endMs": 6388,
+    "timestampMs": 6107,
+    "confidence": null
+  }
+]

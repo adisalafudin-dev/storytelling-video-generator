@@ -1,0 +1,156 @@
+[
+  {
+    "text": " Harga",
+    "startMs": 60,
+    "endMs": 361,
+    "timestampMs": 211,
+    "confidence": null
+  },
+  {
+    "text": " resmi",
+    "startMs": 361,
+    "endMs": 588,
+    "timestampMs": 475,
+    "confidence": null
+  },
+  {
+    "text": " satu",
+    "startMs": 588,
+    "endMs": 792,
+    "timestampMs": 690,
+    "confidence": null
+  },
+  {
+    "text": " iPhone",
+    "startMs": 792,
+    "endMs": 1094,
+    "timestampMs": 943,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 1094,
+    "endMs": 1148,
+    "timestampMs": 1121,
+    "confidence": null
+  },
+  {
+    "text": " Indonesia",
+    "startMs": 1148,
+    "endMs": 1493,
+    "timestampMs": 1321,
+    "confidence": null
+  },
+  {
+    "text": " itu",
+    "startMs": 1493,
+    "endMs": 1751,
+    "timestampMs": 1622,
+    "confidence": null
+  },
+  {
+    "text": " sama",
+    "startMs": 1751,
+    "endMs": 2010,
+    "timestampMs": 1881,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 2010,
+    "endMs": 2085,
+    "timestampMs": 2048,
+    "confidence": null
+  },
+  {
+    "text": " mana",
+    "startMs": 2085,
+    "endMs": 2236,
+    "timestampMs": 2161,
+    "confidence": null
+  },
+  {
+    "text": " saja",
+    "startMs": 2236,
+    "endMs": 2700,
+    "timestampMs": 2468,
+    "confidence": null
+  },
+  {
+    "text": " Tapi",
+    "startMs": 3422,
+    "endMs": 3627,
+    "timestampMs": 3525,
+    "confidence": null
+  },
+  {
+    "text": " kalau",
+    "startMs": 3627,
+    "endMs": 3788,
+    "timestampMs": 3708,
+    "confidence": null
+  },
+  {
+    "text": " dihitung",
+    "startMs": 3788,
+    "endMs": 4101,
+    "timestampMs": 3945,
+    "confidence": null
+  },
+  {
+    "text": " pakai",
+    "startMs": 4101,
+    "endMs": 4306,
+    "timestampMs": 4204,
+    "confidence": null
+  },
+  {
+    "text": " hari",
+    "startMs": 4306,
+    "endMs": 4467,
+    "timestampMs": 4387,
+    "confidence": null
+  },
+  {
+    "text": " kerja",
+    "startMs": 4467,
+    "endMs": 4726,
+    "timestampMs": 4597,
+    "confidence": null
+  },
+  {
+    "text": " UMP",
+    "startMs": 4726,
+    "endMs": 5265,
+    "timestampMs": 4996,
+    "confidence": null
+  },
+  {
+    "text": " hasilnya",
+    "startMs": 5491,
+    "endMs": 5890,
+    "timestampMs": 5691,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 5890,
+    "endMs": 6073,
+    "timestampMs": 5982,
+    "confidence": null
+  },
+  {
+    "text": " beda",
+    "startMs": 6073,
+    "endMs": 6267,
+    "timestampMs": 6170,
+    "confidence": null
+  },
+  {
+    "text": " jauh",
+    "startMs": 6267,
+    "endMs": 6687,
+    "timestampMs": 6477,
+    "confidence": null
+  }
+]

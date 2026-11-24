@@ -1,0 +1,163 @@
+[
+  {
+    "text": " Mona",
+    "startMs": 100,
+    "endMs": 375,
+    "timestampMs": 238,
+    "confidence": null
+  },
+  {
+    "text": " Lisa",
+    "startMs": 375,
+    "endMs": 638,
+    "timestampMs": 507,
+    "confidence": null
+  },
+  {
+    "text": " sebenarnya",
+    "startMs": 638,
+    "endMs": 1113,
+    "timestampMs": 876,
+    "confidence": null
+  },
+  {
+    "text": " baru",
+    "startMs": 1113,
+    "endMs": 1288,
+    "timestampMs": 1201,
+    "confidence": null
+  },
+  {
+    "text": " viral",
+    "startMs": 1288,
+    "endMs": 1650,
+    "timestampMs": 1469,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 1650,
+    "endMs": 1800,
+    "timestampMs": 1725,
+    "confidence": null
+  },
+  {
+    "text": " terkenal",
+    "startMs": 1800,
+    "endMs": 2163,
+    "timestampMs": 1982,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 2163,
+    "endMs": 2225,
+    "timestampMs": 2194,
+    "confidence": null
+  },
+  {
+    "text": " seluruh",
+    "startMs": 2225,
+    "endMs": 2500,
+    "timestampMs": 2363,
+    "confidence": null
+  },
+  {
+    "text": " dunia",
+    "startMs": 2500,
+    "endMs": 2838,
+    "timestampMs": 2669,
+    "confidence": null
+  },
+  {
+    "text": " setelah",
+    "startMs": 2838,
+    "endMs": 3125,
+    "timestampMs": 2982,
+    "confidence": null
+  },
+  {
+    "text": " dicuri",
+    "startMs": 3125,
+    "endMs": 3450,
+    "timestampMs": 3288,
+    "confidence": null
+  },
+  {
+    "text": " dari",
+    "startMs": 3450,
+    "endMs": 3600,
+    "timestampMs": 3525,
+    "confidence": null
+  },
+  {
+    "text": " museum",
+    "startMs": 3600,
+    "endMs": 3950,
+    "timestampMs": 3775,
+    "confidence": null
+  },
+  {
+    "text": " Louvre",
+    "startMs": 3950,
+    "endMs": 4288,
+    "timestampMs": 4119,
+    "confidence": null
+  },
+  {
+    "text": " pada",
+    "startMs": 4288,
+    "endMs": 4488,
+    "timestampMs": 4388,
+    "confidence": null
+  },
+  {
+    "text": " tahun",
+    "startMs": 4488,
+    "endMs": 4750,
+    "timestampMs": 4619,
+    "confidence": null
+  },
+  {
+    "text": " 1911",
+    "startMs": 4750,
+    "endMs": 5925,
+    "timestampMs": 5338,
+    "confidence": null
+  },
+  {
+    "text": " dan",
+    "startMs": 5925,
+    "endMs": 6100,
+    "timestampMs": 6013,
+    "confidence": null
+  },
+  {
+    "text": " hilang",
+    "startMs": 6100,
+    "endMs": 6413,
+    "timestampMs": 6257,
+    "confidence": null
+  },
+  {
+    "text": " dua",
+    "startMs": 6413,
+    "endMs": 6550,
+    "timestampMs": 6482,
+    "confidence": null
+  },
+  {
+    "text": " tahun",
+    "startMs": 6550,
+    "endMs": 6775,
+    "timestampMs": 6663,
+    "confidence": null
+  },
+  {
+    "text": " penuh",
+    "startMs": 6775,
+    "endMs": 7200,
+    "timestampMs": 6988,
+    "confidence": null
+  }
+]

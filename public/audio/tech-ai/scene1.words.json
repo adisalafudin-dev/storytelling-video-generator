@@ -1,0 +1,128 @@
+[
+  {
+    "text": " Kalau",
+    "startMs": 113,
+    "endMs": 325,
+    "timestampMs": 219,
+    "confidence": null
+  },
+  {
+    "text": " kamu",
+    "startMs": 325,
+    "endMs": 538,
+    "timestampMs": 432,
+    "confidence": null
+  },
+  {
+    "text": " berencana",
+    "startMs": 538,
+    "endMs": 913,
+    "timestampMs": 726,
+    "confidence": null
+  },
+  {
+    "text": " beli",
+    "startMs": 913,
+    "endMs": 1063,
+    "timestampMs": 988,
+    "confidence": null
+  },
+  {
+    "text": " HP",
+    "startMs": 1063,
+    "endMs": 1350,
+    "timestampMs": 1207,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 1350,
+    "endMs": 1538,
+    "timestampMs": 1444,
+    "confidence": null
+  },
+  {
+    "text": " laptop",
+    "startMs": 1538,
+    "endMs": 1850,
+    "timestampMs": 1694,
+    "confidence": null
+  },
+  {
+    "text": " baru",
+    "startMs": 1850,
+    "endMs": 2025,
+    "timestampMs": 1938,
+    "confidence": null
+  },
+  {
+    "text": " tahun",
+    "startMs": 2025,
+    "endMs": 2263,
+    "timestampMs": 2144,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 2263,
+    "endMs": 2713,
+    "timestampMs": 2488,
+    "confidence": null
+  },
+  {
+    "text": " siap-siap",
+    "startMs": 3025,
+    "endMs": 3488,
+    "timestampMs": 3257,
+    "confidence": null
+  },
+  {
+    "text": " kaget",
+    "startMs": 3488,
+    "endMs": 3800,
+    "timestampMs": 3644,
+    "confidence": null
+  },
+  {
+    "text": " karena",
+    "startMs": 3800,
+    "endMs": 4025,
+    "timestampMs": 3913,
+    "confidence": null
+  },
+  {
+    "text": " harganya",
+    "startMs": 4025,
+    "endMs": 4425,
+    "timestampMs": 4225,
+    "confidence": null
+  },
+  {
+    "text": " diprediksi",
+    "startMs": 4425,
+    "endMs": 4950,
+    "timestampMs": 4688,
+    "confidence": null
+  },
+  {
+    "text": " bakal",
+    "startMs": 4950,
+    "endMs": 5238,
+    "timestampMs": 5094,
+    "confidence": null
+  },
+  {
+    "text": " melonjak",
+    "startMs": 5238,
+    "endMs": 5613,
+    "timestampMs": 5426,
+    "confidence": null
+  },
+  {
+    "text": " drastis",
+    "startMs": 5613,
+    "endMs": 6288,
+    "timestampMs": 5951,
+    "confidence": null
+  }
+]

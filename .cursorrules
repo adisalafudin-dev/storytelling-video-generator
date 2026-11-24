@@ -1,0 +1,11 @@
+# Viral 3D Explainer Remotion Engine Rules
+
+Whenever creating or modifying scenes in `src/data/storyboard.json` or 3D components:
+1. Always identify hero 3D objects needing high detail.
+2. Execute asset fetch via terminal:
+   `bun run fetch-model "<query>" "<filename>"`
+   (Pipeline automatically tries Poly Pizza API first, then GitHub open-source repositories fallback).
+3. Validate GLB binary: ensure file size >= 1024 bytes and header is "glTF".
+4. Wrap every `useGLTF` call with React Suspense and procedural fallback.
+5. Maintain matte cel-shaded art direction (`roughness={1}`, `metalness={0}`, and `<Outlines color="#1a1a1a" thickness={0.04} />`).
+6. Camera framing in 9:16 must focus at ~40% from bottom (`lookAt: [0, -0.15, 0]`) to reserve space for InfoCard on top and ViralCaptions at bottom.

@@ -1,0 +1,876 @@
+{
+  "title": "Rahasia di Bawah Pasir Gurun Sahara",
+  "channel": "@adi.salafudin",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalEstimatedDurationSec": 53.9,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "Hook: Fosil di Bawah Pasir",
+      "narration": "Di tengah gurun paling mematikan di bumi, ilmuwan justru menemukan fosil paus purba dan jejak sungai raksasa yang terkubur di bawah pasir.",
+      "background": "radial-gradient(ellipse at 50% 25%, #451a03 0%, #1c0a02 70%, #080301 100%)",
+      "camera": {
+        "start": [
+          0,
+          2.2,
+          6.2
+        ],
+        "end": [
+          0,
+          0.8,
+          5.2
+        ],
+        "ease": "ease-out"
+      },
+      "model": {
+        "type": "sahara-fossil",
+        "rotationSpeed": 0.12
+      },
+      "infoCard": {
+        "type": "source",
+        "label": "PENEMUAN ILMIAH",
+        "text": "Wadi Al-Hitan (Lembah Paus Purba)",
+        "source": "UNESCO World Heritage Site",
+        "startSec": 0.5,
+        "durationSec": 5.5
+      },
+      "duration": 8.2,
+      "audio": "audio/sahara-remake/scene1.mp3",
+      "captions": [
+        {
+          "text": "Di",
+          "startMs": 113,
+          "endMs": 238
+        },
+        {
+          "text": "tengah",
+          "startMs": 238,
+          "endMs": 463
+        },
+        {
+          "text": "gurun",
+          "startMs": 463,
+          "endMs": 700
+        },
+        {
+          "text": "paling",
+          "startMs": 700,
+          "endMs": 925
+        },
+        {
+          "text": "mematikan",
+          "startMs": 925,
+          "endMs": 1325
+        },
+        {
+          "text": "di",
+          "startMs": 1325,
+          "endMs": 1400
+        },
+        {
+          "text": "bumi",
+          "startMs": 1400,
+          "endMs": 1888
+        },
+        {
+          "text": "ilmuwan",
+          "startMs": 2188,
+          "endMs": 2538
+        },
+        {
+          "text": "justru",
+          "startMs": 2538,
+          "endMs": 2838
+        },
+        {
+          "text": "menemukan",
+          "startMs": 2838,
+          "endMs": 3263
+        },
+        {
+          "text": "fosil",
+          "startMs": 3263,
+          "endMs": 3588
+        },
+        {
+          "text": "paus",
+          "startMs": 3588,
+          "endMs": 3825
+        },
+        {
+          "text": "purba",
+          "startMs": 3825,
+          "endMs": 4213
+        },
+        {
+          "text": "dan",
+          "startMs": 4213,
+          "endMs": 4388
+        },
+        {
+          "text": "jejak",
+          "startMs": 4388,
+          "endMs": 4700
+        },
+        {
+          "text": "sungai",
+          "startMs": 4700,
+          "endMs": 4963
+        },
+        {
+          "text": "raksasa",
+          "startMs": 4963,
+          "endMs": 5425
+        },
+        {
+          "text": "yang",
+          "startMs": 5425,
+          "endMs": 5575
+        },
+        {
+          "text": "terkubur",
+          "startMs": 5575,
+          "endMs": 6025
+        },
+        {
+          "text": "di",
+          "startMs": 6025,
+          "endMs": 6138
+        },
+        {
+          "text": "bawah",
+          "startMs": 6138,
+          "endMs": 6400
+        },
+        {
+          "text": "pasir",
+          "startMs": 6400,
+          "endMs": 6925
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "title": "Fakta Kontras: Sahara Hijau",
+      "narration": "Enam ribu tahun yang lalu, Sahara bukanlah lautan pasir tandus, melainkan surga tropis hijau lebat dengan Danau Mega-Chad yang luasnya melebihi Laut Kaspia.",
+      "background": "radial-gradient(ellipse at 50% 30%, #064e3b 0%, #022c22 70%, #01140e 100%)",
+      "camera": {
+        "start": [
+          2.6,
+          3.2,
+          6
+        ],
+        "end": [
+          -1.2,
+          1.8,
+          4.2
+        ],
+        "ease": "ease-in-out"
+      },
+      "model": {
+        "type": "green-sahara",
+        "rotationSpeed": 0.2
+      },
+      "infoCard": {
+        "type": "quote",
+        "text": "6.000 Tahun Lalu: Gurun Sahara adalah Hutan Hijau Tropis.",
+        "author": "African Humid Period",
+        "startSec": 0.4,
+        "durationSec": 6.5
+      },
+      "duration": 9.3,
+      "audio": "audio/sahara-remake/scene2.mp3",
+      "captions": [
+        {
+          "text": "Enam",
+          "startMs": 113,
+          "endMs": 325
+        },
+        {
+          "text": "ribu",
+          "startMs": 325,
+          "endMs": 488
+        },
+        {
+          "text": "tahun",
+          "startMs": 488,
+          "endMs": 738
+        },
+        {
+          "text": "yang",
+          "startMs": 738,
+          "endMs": 863
+        },
+        {
+          "text": "lalu",
+          "startMs": 863,
+          "endMs": 1325
+        },
+        {
+          "text": "Sahara",
+          "startMs": 1588,
+          "endMs": 1938
+        },
+        {
+          "text": "bukanlah",
+          "startMs": 1938,
+          "endMs": 2288
+        },
+        {
+          "text": "lautan",
+          "startMs": 2288,
+          "endMs": 2613
+        },
+        {
+          "text": "pasir",
+          "startMs": 2613,
+          "endMs": 2875
+        },
+        {
+          "text": "tandus",
+          "startMs": 2875,
+          "endMs": 3438
+        },
+        {
+          "text": "melainkan",
+          "startMs": 3688,
+          "endMs": 4088
+        },
+        {
+          "text": "surga",
+          "startMs": 4088,
+          "endMs": 4400
+        },
+        {
+          "text": "tropis",
+          "startMs": 4400,
+          "endMs": 4713
+        },
+        {
+          "text": "hijau",
+          "startMs": 4713,
+          "endMs": 5000
+        },
+        {
+          "text": "lebat",
+          "startMs": 5000,
+          "endMs": 5300
+        },
+        {
+          "text": "dengan",
+          "startMs": 5300,
+          "endMs": 5525
+        },
+        {
+          "text": "Danau",
+          "startMs": 5525,
+          "endMs": 5738
+        },
+        {
+          "text": "Mega-Chad",
+          "startMs": 5738,
+          "endMs": 6188
+        },
+        {
+          "text": "yang",
+          "startMs": 6188,
+          "endMs": 6313
+        },
+        {
+          "text": "luasnya",
+          "startMs": 6313,
+          "endMs": 6700
+        },
+        {
+          "text": "melebihi",
+          "startMs": 6700,
+          "endMs": 7100
+        },
+        {
+          "text": "Laut",
+          "startMs": 7100,
+          "endMs": 7375
+        },
+        {
+          "text": "Kaspia",
+          "startMs": 7375,
+          "endMs": 8000
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "title": "Mekanisme 3D: Kemiringan Poros Bumi",
+      "narration": "Penyebabnya adalah perubahan kemiringan poros bumi yang bergeser dari 24,1 derajat ke 23,5 derajat, memicu pergeseran angin monsun yang menyiram Sahara dengan hujan lebat.",
+      "background": "radial-gradient(ellipse at 50% 30%, #1e1b4b 0%, #0f0d26 70%, #05040f 100%)",
+      "camera": {
+        "start": [
+          0,
+          1.8,
+          7.2
+        ],
+        "end": [
+          0,
+          0.6,
+          5.8
+        ],
+        "ease": "ease-in-out"
+      },
+      "model": {
+        "type": "earth-tilt",
+        "rotationSpeed": 0.35
+      },
+      "callout": {
+        "text": "Monsun Afrika Bergeser",
+        "subtext": "Kemiringan Poros Bumi: 24,1° → 23,5°",
+        "xPercent": 50,
+        "yPercent": 24,
+        "startSec": 0.8,
+        "durationSec": 7
+      },
+      "duration": 10.9,
+      "audio": "audio/sahara-remake/scene3.mp3",
+      "captions": [
+        {
+          "text": "Penyebabnya",
+          "startMs": 113,
+          "endMs": 663
+        },
+        {
+          "text": "adalah",
+          "startMs": 663,
+          "endMs": 938
+        },
+        {
+          "text": "perubahan",
+          "startMs": 938,
+          "endMs": 1325
+        },
+        {
+          "text": "kemiringan",
+          "startMs": 1325,
+          "endMs": 1713
+        },
+        {
+          "text": "poros",
+          "startMs": 1713,
+          "endMs": 1950
+        },
+        {
+          "text": "bumi",
+          "startMs": 1950,
+          "endMs": 2225
+        },
+        {
+          "text": "yang",
+          "startMs": 2225,
+          "endMs": 2338
+        },
+        {
+          "text": "bergeser",
+          "startMs": 2338,
+          "endMs": 2800
+        },
+        {
+          "text": "dari",
+          "startMs": 2800,
+          "endMs": 3013
+        },
+        {
+          "text": "24,1",
+          "startMs": 3013,
+          "endMs": 4050
+        },
+        {
+          "text": "derajat",
+          "startMs": 4050,
+          "endMs": 4475
+        },
+        {
+          "text": "ke",
+          "startMs": 4475,
+          "endMs": 4550
+        },
+        {
+          "text": "23,5",
+          "startMs": 4550,
+          "endMs": 5525
+        },
+        {
+          "text": "derajat",
+          "startMs": 5525,
+          "endMs": 6100
+        },
+        {
+          "text": "memicu",
+          "startMs": 6375,
+          "endMs": 6713
+        },
+        {
+          "text": "pergeseran",
+          "startMs": 6713,
+          "endMs": 7200
+        },
+        {
+          "text": "angin",
+          "startMs": 7200,
+          "endMs": 7400
+        },
+        {
+          "text": "monsun",
+          "startMs": 7400,
+          "endMs": 7775
+        },
+        {
+          "text": "yang",
+          "startMs": 7775,
+          "endMs": 7900
+        },
+        {
+          "text": "menyiram",
+          "startMs": 7900,
+          "endMs": 8188
+        },
+        {
+          "text": "Sahara",
+          "startMs": 8188,
+          "endMs": 8588
+        },
+        {
+          "text": "dengan",
+          "startMs": 8588,
+          "endMs": 8838
+        },
+        {
+          "text": "hujan",
+          "startMs": 8838,
+          "endMs": 9150
+        },
+        {
+          "text": "lebat",
+          "startMs": 9150,
+          "endMs": 9563
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "title": "Dampak Global: Nutrisi Amazon",
+      "narration": "Kini setelah mengering, dasar danau kuno tersebut menghasilkan jutaan ton debu kaya fosfor yang terbang melintasi Samudra Atlantik untuk menyuburkan Hutan Amazon.",
+      "background": "radial-gradient(ellipse at 50% 30%, #14352b 0%, #061c16 70%, #010a08 100%)",
+      "camera": {
+        "start": [
+          2.8,
+          2.5,
+          5.8
+        ],
+        "end": [
+          -1.4,
+          1.6,
+          4.4
+        ],
+        "ease": "ease-in-out"
+      },
+      "model": {
+        "type": "dust-stream",
+        "rotationSpeed": 0.25
+      },
+      "infoCard": {
+        "type": "stat",
+        "value": "27 Juta Ton",
+        "label": "Debu fosfor Sahara per tahun menyuburkan Hutan Amazon",
+        "startSec": 0.5,
+        "durationSec": 6.5
+      },
+      "duration": 9.3,
+      "audio": "audio/sahara-remake/scene4.mp3",
+      "captions": [
+        {
+          "text": "Kini",
+          "startMs": 113,
+          "endMs": 313
+        },
+        {
+          "text": "setelah",
+          "startMs": 313,
+          "endMs": 600
+        },
+        {
+          "text": "mengering",
+          "startMs": 600,
+          "endMs": 1113
+        },
+        {
+          "text": "dasar",
+          "startMs": 1400,
+          "endMs": 1750
+        },
+        {
+          "text": "danau",
+          "startMs": 1750,
+          "endMs": 2013
+        },
+        {
+          "text": "kuno",
+          "startMs": 2013,
+          "endMs": 2175
+        },
+        {
+          "text": "tersebut",
+          "startMs": 2175,
+          "endMs": 2600
+        },
+        {
+          "text": "menghasilkan",
+          "startMs": 2600,
+          "endMs": 3150
+        },
+        {
+          "text": "jutaan",
+          "startMs": 3150,
+          "endMs": 3513
+        },
+        {
+          "text": "ton",
+          "startMs": 3513,
+          "endMs": 3725
+        },
+        {
+          "text": "debu",
+          "startMs": 3725,
+          "endMs": 3913
+        },
+        {
+          "text": "kaya",
+          "startMs": 3913,
+          "endMs": 4113
+        },
+        {
+          "text": "fosfor",
+          "startMs": 4113,
+          "endMs": 4538
+        },
+        {
+          "text": "yang",
+          "startMs": 4538,
+          "endMs": 4688
+        },
+        {
+          "text": "terbang",
+          "startMs": 4688,
+          "endMs": 5000
+        },
+        {
+          "text": "melintasi",
+          "startMs": 5000,
+          "endMs": 5413
+        },
+        {
+          "text": "Samudra",
+          "startMs": 5413,
+          "endMs": 5788
+        },
+        {
+          "text": "Atlantik",
+          "startMs": 5788,
+          "endMs": 6288
+        },
+        {
+          "text": "untuk",
+          "startMs": 6288,
+          "endMs": 6525
+        },
+        {
+          "text": "menyuburkan",
+          "startMs": 6525,
+          "endMs": 7038
+        },
+        {
+          "text": "Hutan",
+          "startMs": 7038,
+          "endMs": 7338
+        },
+        {
+          "text": "Amazon",
+          "startMs": 7338,
+          "endMs": 8000
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "title": "Kesimpulan: Siklus 20.000 Tahun",
+      "narration": "Menurut perhitungan orbital siklus Milankovitch, fenomena ini berulang setiap dua puluh ribu tahun, dan Sahara diprediksi akan kembali menghijau di masa depan.",
+      "background": "radial-gradient(ellipse at 50% 30%, #2e1065 0%, #170733 75%, #05010d 100%)",
+      "camera": {
+        "start": [
+          0,
+          0.8,
+          5.6
+        ],
+        "end": [
+          0,
+          2,
+          8.8
+        ],
+        "ease": "ease-out"
+      },
+      "model": {
+        "type": "earth-pullout",
+        "rotationSpeed": 0.2
+      },
+      "infoCard": {
+        "type": "quote",
+        "text": "Siklus 20.000 Tahun akan mengembalikan Sahara menjadi hijau lagi.",
+        "author": "Nature Geoscience Review",
+        "startSec": 0.5,
+        "durationSec": 6.8
+      },
+      "duration": 9.5,
+      "audio": "audio/sahara-remake/scene5.mp3",
+      "captions": [
+        {
+          "text": "Menurut",
+          "startMs": 113,
+          "endMs": 425
+        },
+        {
+          "text": "perhitungan",
+          "startMs": 425,
+          "endMs": 863
+        },
+        {
+          "text": "orbital",
+          "startMs": 863,
+          "endMs": 1238
+        },
+        {
+          "text": "siklus",
+          "startMs": 1238,
+          "endMs": 1613
+        },
+        {
+          "text": "Milankovitch",
+          "startMs": 1613,
+          "endMs": 2438
+        },
+        {
+          "text": "fenomena",
+          "startMs": 2688,
+          "endMs": 3075
+        },
+        {
+          "text": "ini",
+          "startMs": 3075,
+          "endMs": 3300
+        },
+        {
+          "text": "berulang",
+          "startMs": 3300,
+          "endMs": 3663
+        },
+        {
+          "text": "setiap",
+          "startMs": 3663,
+          "endMs": 4013
+        },
+        {
+          "text": "dua",
+          "startMs": 4013,
+          "endMs": 4175
+        },
+        {
+          "text": "puluh",
+          "startMs": 4175,
+          "endMs": 4338
+        },
+        {
+          "text": "ribu",
+          "startMs": 4338,
+          "endMs": 4488
+        },
+        {
+          "text": "tahun",
+          "startMs": 4488,
+          "endMs": 5013
+        },
+        {
+          "text": "dan",
+          "startMs": 5288,
+          "endMs": 5500
+        },
+        {
+          "text": "Sahara",
+          "startMs": 5500,
+          "endMs": 5838
+        },
+        {
+          "text": "diprediksi",
+          "startMs": 5838,
+          "endMs": 6363
+        },
+        {
+          "text": "akan",
+          "startMs": 6363,
+          "endMs": 6575
+        },
+        {
+          "text": "kembali",
+          "startMs": 6575,
+          "endMs": 6863
+        },
+        {
+          "text": "menghijau",
+          "startMs": 6863,
+          "endMs": 7388
+        },
+        {
+          "text": "di",
+          "startMs": 7388,
+          "endMs": 7488
+        },
+        {
+          "text": "masa",
+          "startMs": 7488,
+          "endMs": 7713
+        },
+        {
+          "text": "depan",
+          "startMs": 7713,
+          "endMs": 8200
+        }
+      ]
+    },
+    {
+      "id": "scene-6",
+      "title": "Call To Action & Pertanyaan",
+      "narration": "Bumi selalu menyimpan rahasia luar biasa yang mengubah cara kita memandang dunia. Follow sekarang untuk rahasia sains menakjubkan lainnya!",
+      "background": "radial-gradient(ellipse at 50% 30%, #0f2b38 0%, #05141c 75%, #010508 100%)",
+      "camera": {
+        "start": [
+          0,
+          1.4,
+          3.6
+        ],
+        "end": [
+          0,
+          3.6,
+          7.2
+        ],
+        "ease": "ease-out"
+      },
+      "model": {
+        "type": "green-sahara-finale",
+        "rotationSpeed": 0.22
+      },
+      "infoCard": {
+        "type": "quote",
+        "text": "Apakah peradaban manusia siap menyambut Sahara hijau berikutnya?",
+        "author": "Follow @adi.salafudin",
+        "startSec": 0.3,
+        "durationSec": 6
+      },
+      "duration": 8.7,
+      "audio": "audio/sahara-remake/scene6.mp3",
+      "captions": [
+        {
+          "text": "Bumi",
+          "startMs": 100,
+          "endMs": 400
+        },
+        {
+          "text": "selalu",
+          "startMs": 400,
+          "endMs": 688
+        },
+        {
+          "text": "menyimpan",
+          "startMs": 688,
+          "endMs": 1063
+        },
+        {
+          "text": "rahasia",
+          "startMs": 1063,
+          "endMs": 1450
+        },
+        {
+          "text": "luar",
+          "startMs": 1450,
+          "endMs": 1650
+        },
+        {
+          "text": "biasa",
+          "startMs": 1650,
+          "endMs": 2075
+        },
+        {
+          "text": "yang",
+          "startMs": 2075,
+          "endMs": 2225
+        },
+        {
+          "text": "mengubah",
+          "startMs": 2225,
+          "endMs": 2525
+        },
+        {
+          "text": "cara",
+          "startMs": 2525,
+          "endMs": 2738
+        },
+        {
+          "text": "kita",
+          "startMs": 2738,
+          "endMs": 2975
+        },
+        {
+          "text": "memandang",
+          "startMs": 2975,
+          "endMs": 3363
+        },
+        {
+          "text": "dunia",
+          "startMs": 3363,
+          "endMs": 3900
+        },
+        {
+          "text": "Follow",
+          "startMs": 4738,
+          "endMs": 5050
+        },
+        {
+          "text": "sekarang",
+          "startMs": 5050,
+          "endMs": 5438
+        },
+        {
+          "text": "untuk",
+          "startMs": 5438,
+          "endMs": 5638
+        },
+        {
+          "text": "rahasia",
+          "startMs": 5638,
+          "endMs": 6013
+        },
+        {
+          "text": "sains",
+          "startMs": 6013,
+          "endMs": 6363
+        },
+        {
+          "text": "menakjubkan",
+          "startMs": 6363,
+          "endMs": 6838
+        },
+        {
+          "text": "lainnya",
+          "startMs": 6838,
+          "endMs": 7363
+        }
+      ]
+    }
+  ]
+}

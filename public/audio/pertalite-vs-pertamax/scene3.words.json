@@ -1,0 +1,268 @@
+[
+  {
+    "text": " Masalah",
+    "startMs": 60,
+    "endMs": 404,
+    "timestampMs": 232,
+    "confidence": null
+  },
+  {
+    "text": " besar",
+    "startMs": 404,
+    "endMs": 620,
+    "timestampMs": 512,
+    "confidence": null
+  },
+  {
+    "text": " muncul",
+    "startMs": 620,
+    "endMs": 932,
+    "timestampMs": 776,
+    "confidence": null
+  },
+  {
+    "text": " jika",
+    "startMs": 932,
+    "endMs": 1116,
+    "timestampMs": 1024,
+    "confidence": null
+  },
+  {
+    "text": " mesin",
+    "startMs": 1116,
+    "endMs": 1353,
+    "timestampMs": 1235,
+    "confidence": null
+  },
+  {
+    "text": " kompresi",
+    "startMs": 1353,
+    "endMs": 1687,
+    "timestampMs": 1520,
+    "confidence": null
+  },
+  {
+    "text": " tinggi",
+    "startMs": 1687,
+    "endMs": 1988,
+    "timestampMs": 1838,
+    "confidence": null
+  },
+  {
+    "text": " dipaksa",
+    "startMs": 1988,
+    "endMs": 2387,
+    "timestampMs": 2188,
+    "confidence": null
+  },
+  {
+    "text": " menenggak",
+    "startMs": 2387,
+    "endMs": 2710,
+    "timestampMs": 2549,
+    "confidence": null
+  },
+  {
+    "text": " RON",
+    "startMs": 2710,
+    "endMs": 2861,
+    "timestampMs": 2786,
+    "confidence": null
+  },
+  {
+    "text": " sembilan",
+    "startMs": 2861,
+    "endMs": 3163,
+    "timestampMs": 3012,
+    "confidence": null
+  },
+  {
+    "text": " puluh",
+    "startMs": 3163,
+    "endMs": 3551,
+    "timestampMs": 3357,
+    "confidence": null
+  },
+  {
+    "text": " Tekanan",
+    "startMs": 4266,
+    "endMs": 4557,
+    "timestampMs": 4412,
+    "confidence": null
+  },
+  {
+    "text": " tinggi",
+    "startMs": 4557,
+    "endMs": 4826,
+    "timestampMs": 4692,
+    "confidence": null
+  },
+  {
+    "text": " membuat",
+    "startMs": 4826,
+    "endMs": 5096,
+    "timestampMs": 4961,
+    "confidence": null
+  },
+  {
+    "text": " bensin",
+    "startMs": 5096,
+    "endMs": 5430,
+    "timestampMs": 5263,
+    "confidence": null
+  },
+  {
+    "text": " meledak",
+    "startMs": 5430,
+    "endMs": 5667,
+    "timestampMs": 5549,
+    "confidence": null
+  },
+  {
+    "text": " prematur",
+    "startMs": 5667,
+    "endMs": 6055,
+    "timestampMs": 5861,
+    "confidence": null
+  },
+  {
+    "text": " sebelum",
+    "startMs": 6055,
+    "endMs": 6313,
+    "timestampMs": 6184,
+    "confidence": null
+  },
+  {
+    "text": " piston",
+    "startMs": 6313,
+    "endMs": 6604,
+    "timestampMs": 6459,
+    "confidence": null
+  },
+  {
+    "text": " mencapai",
+    "startMs": 6604,
+    "endMs": 6938,
+    "timestampMs": 6771,
+    "confidence": null
+  },
+  {
+    "text": " puncak",
+    "startMs": 6938,
+    "endMs": 7423,
+    "timestampMs": 7181,
+    "confidence": null
+  },
+  {
+    "text": " Ledakan",
+    "startMs": 8153,
+    "endMs": 8476,
+    "timestampMs": 8315,
+    "confidence": null
+  },
+  {
+    "text": " liar",
+    "startMs": 8476,
+    "endMs": 8638,
+    "timestampMs": 8557,
+    "confidence": null
+  },
+  {
+    "text": " ini",
+    "startMs": 8638,
+    "endMs": 8842,
+    "timestampMs": 8740,
+    "confidence": null
+  },
+  {
+    "text": " bertabrakan",
+    "startMs": 8842,
+    "endMs": 9327,
+    "timestampMs": 9085,
+    "confidence": null
+  },
+  {
+    "text": " dengan",
+    "startMs": 9327,
+    "endMs": 9500,
+    "timestampMs": 9414,
+    "confidence": null
+  },
+  {
+    "text": " gerakan",
+    "startMs": 9500,
+    "endMs": 9747,
+    "timestampMs": 9624,
+    "confidence": null
+  },
+  {
+    "text": " piston",
+    "startMs": 9748,
+    "endMs": 10200,
+    "timestampMs": 9974,
+    "confidence": null
+  },
+  {
+    "text": " memicu",
+    "startMs": 10459,
+    "endMs": 10750,
+    "timestampMs": 10605,
+    "confidence": null
+  },
+  {
+    "text": " engine",
+    "startMs": 10750,
+    "endMs": 11008,
+    "timestampMs": 10879,
+    "confidence": null
+  },
+  {
+    "text": " knocking",
+    "startMs": 11008,
+    "endMs": 11332,
+    "timestampMs": 11170,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 11332,
+    "endMs": 11493,
+    "timestampMs": 11413,
+    "confidence": null
+  },
+  {
+    "text": " ngelitik",
+    "startMs": 11493,
+    "endMs": 11806,
+    "timestampMs": 11650,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 11806,
+    "endMs": 11913,
+    "timestampMs": 11860,
+    "confidence": null
+  },
+  {
+    "text": " perlahan",
+    "startMs": 11913,
+    "endMs": 12226,
+    "timestampMs": 12070,
+    "confidence": null
+  },
+  {
+    "text": " merusak",
+    "startMs": 12226,
+    "endMs": 12485,
+    "timestampMs": 12356,
+    "confidence": null
+  },
+  {
+    "text": " mesin",
+    "startMs": 12485,
+    "endMs": 12883,
+    "timestampMs": 12684,
+    "confidence": null
+  }
+]
