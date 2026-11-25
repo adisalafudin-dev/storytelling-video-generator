@@ -1,0 +1,142 @@
+[
+  {
+    "text": " Di",
+    "startMs": 60,
+    "endMs": 234,
+    "timestampMs": 147,
+    "confidence": null
+  },
+  {
+    "text": " catatan",
+    "startMs": 234,
+    "endMs": 743,
+    "timestampMs": 489,
+    "confidence": null
+  },
+  {
+    "text": " jam",
+    "startMs": 743,
+    "endMs": 974,
+    "timestampMs": 859,
+    "confidence": null
+  },
+  {
+    "text": " tidur",
+    "startMs": 974,
+    "endMs": 1356,
+    "timestampMs": 1165,
+    "confidence": null
+  },
+  {
+    "text": " kelihatan",
+    "startMs": 1356,
+    "endMs": 1923,
+    "timestampMs": 1640,
+    "confidence": null
+  },
+  {
+    "text": " delapan",
+    "startMs": 1923,
+    "endMs": 2444,
+    "timestampMs": 2184,
+    "confidence": null
+  },
+  {
+    "text": " jam",
+    "startMs": 2444,
+    "endMs": 2687,
+    "timestampMs": 2566,
+    "confidence": null
+  },
+  {
+    "text": " penuh",
+    "startMs": 2687,
+    "endMs": 3185,
+    "timestampMs": 2936,
+    "confidence": null
+  },
+  {
+    "text": " Tapi",
+    "startMs": 3957,
+    "endMs": 4327,
+    "timestampMs": 4142,
+    "confidence": null
+  },
+  {
+    "text": " pas",
+    "startMs": 4327,
+    "endMs": 4593,
+    "timestampMs": 4460,
+    "confidence": null
+  },
+  {
+    "text": " alarm",
+    "startMs": 4593,
+    "endMs": 4975,
+    "timestampMs": 4784,
+    "confidence": null
+  },
+  {
+    "text": " bunyi",
+    "startMs": 4975,
+    "endMs": 5265,
+    "timestampMs": 5120,
+    "confidence": null
+  },
+  {
+    "text": " pagi-pagi",
+    "startMs": 5265,
+    "endMs": 6063,
+    "timestampMs": 5664,
+    "confidence": null
+  },
+  {
+    "text": " kepala",
+    "startMs": 6399,
+    "endMs": 6758,
+    "timestampMs": 6579,
+    "confidence": null
+  },
+  {
+    "text": " masih",
+    "startMs": 6758,
+    "endMs": 7059,
+    "timestampMs": 6909,
+    "confidence": null
+  },
+  {
+    "text": " berat",
+    "startMs": 7059,
+    "endMs": 7279,
+    "timestampMs": 7169,
+    "confidence": null
+  },
+  {
+    "text": " kayak",
+    "startMs": 7279,
+    "endMs": 7603,
+    "timestampMs": 7441,
+    "confidence": null
+  },
+  {
+    "text": " kurang",
+    "startMs": 7603,
+    "endMs": 7915,
+    "timestampMs": 7759,
+    "confidence": null
+  },
+  {
+    "text": " tidur",
+    "startMs": 7915,
+    "endMs": 8274,
+    "timestampMs": 8095,
+    "confidence": null
+  },
+  {
+    "text": " semalaman",
+    "startMs": 8274,
+    "endMs": 9038,
+    "timestampMs": 8656,
+    "confidence": null
+  }
+]

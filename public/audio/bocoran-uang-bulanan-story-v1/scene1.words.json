@@ -1,0 +1,163 @@
+[
+  {
+    "text": " Baru",
+    "startMs": 60,
+    "endMs": 286,
+    "timestampMs": 173,
+    "confidence": null
+  },
+  {
+    "text": " tanggal",
+    "startMs": 286,
+    "endMs": 523,
+    "timestampMs": 405,
+    "confidence": null
+  },
+  {
+    "text": " lima",
+    "startMs": 523,
+    "endMs": 674,
+    "timestampMs": 599,
+    "confidence": null
+  },
+  {
+    "text": " gajian",
+    "startMs": 674,
+    "endMs": 1202,
+    "timestampMs": 938,
+    "confidence": null
+  },
+  {
+    "text": " saldo",
+    "startMs": 1450,
+    "endMs": 1751,
+    "timestampMs": 1601,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 1751,
+    "endMs": 1827,
+    "timestampMs": 1789,
+    "confidence": null
+  },
+  {
+    "text": " layar",
+    "startMs": 1827,
+    "endMs": 2075,
+    "timestampMs": 1951,
+    "confidence": null
+  },
+  {
+    "text": " udah",
+    "startMs": 2075,
+    "endMs": 2236,
+    "timestampMs": 2156,
+    "confidence": null
+  },
+  {
+    "text": " kelihatan",
+    "startMs": 2236,
+    "endMs": 2549,
+    "timestampMs": 2393,
+    "confidence": null
+  },
+  {
+    "text": " adem",
+    "startMs": 2549,
+    "endMs": 2980,
+    "timestampMs": 2765,
+    "confidence": null
+  },
+  {
+    "text": " Tapi",
+    "startMs": 3695,
+    "endMs": 3910,
+    "timestampMs": 3803,
+    "confidence": null
+  },
+  {
+    "text": " anehnya",
+    "startMs": 3910,
+    "endMs": 4438,
+    "timestampMs": 4174,
+    "confidence": null
+  },
+  {
+    "text": " akhir",
+    "startMs": 4686,
+    "endMs": 4913,
+    "timestampMs": 4800,
+    "confidence": null
+  },
+  {
+    "text": " bulan",
+    "startMs": 4913,
+    "endMs": 5117,
+    "timestampMs": 5015,
+    "confidence": null
+  },
+  {
+    "text": " sering",
+    "startMs": 5117,
+    "endMs": 5290,
+    "timestampMs": 5204,
+    "confidence": null
+  },
+  {
+    "text": " kerasa",
+    "startMs": 5290,
+    "endMs": 5548,
+    "timestampMs": 5419,
+    "confidence": null
+  },
+  {
+    "text": " seret",
+    "startMs": 5548,
+    "endMs": 5764,
+    "timestampMs": 5656,
+    "confidence": null
+  },
+  {
+    "text": " padahal",
+    "startMs": 5764,
+    "endMs": 6087,
+    "timestampMs": 5926,
+    "confidence": null
+  },
+  {
+    "text": " nggak",
+    "startMs": 6087,
+    "endMs": 6206,
+    "timestampMs": 6147,
+    "confidence": null
+  },
+  {
+    "text": " merasa",
+    "startMs": 6206,
+    "endMs": 6443,
+    "timestampMs": 6325,
+    "confidence": null
+  },
+  {
+    "text": " beli",
+    "startMs": 6443,
+    "endMs": 6572,
+    "timestampMs": 6508,
+    "confidence": null
+  },
+  {
+    "text": " barang",
+    "startMs": 6572,
+    "endMs": 6766,
+    "timestampMs": 6669,
+    "confidence": null
+  },
+  {
+    "text": " mahal",
+    "startMs": 6766,
+    "endMs": 7197,
+    "timestampMs": 6982,
+    "confidence": null
+  }
+]

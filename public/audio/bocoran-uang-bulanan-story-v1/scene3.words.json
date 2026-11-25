@@ -1,0 +1,170 @@
+[
+  {
+    "text": " Minuman",
+    "startMs": 60,
+    "endMs": 372,
+    "timestampMs": 216,
+    "confidence": null
+  },
+  {
+    "text": " es",
+    "startMs": 372,
+    "endMs": 512,
+    "timestampMs": 442,
+    "confidence": null
+  },
+  {
+    "text": " pas",
+    "startMs": 512,
+    "endMs": 674,
+    "timestampMs": 593,
+    "confidence": null
+  },
+  {
+    "text": " panas-panasnya",
+    "startMs": 674,
+    "endMs": 1461,
+    "timestampMs": 1068,
+    "confidence": null
+  },
+  {
+    "text": " camilan",
+    "startMs": 1698,
+    "endMs": 2032,
+    "timestampMs": 1865,
+    "confidence": null
+  },
+  {
+    "text": " malam",
+    "startMs": 2032,
+    "endMs": 2226,
+    "timestampMs": 2129,
+    "confidence": null
+  },
+  {
+    "text": " pas",
+    "startMs": 2226,
+    "endMs": 2398,
+    "timestampMs": 2312,
+    "confidence": null
+  },
+  {
+    "text": " lembur",
+    "startMs": 2398,
+    "endMs": 2797,
+    "timestampMs": 2598,
+    "confidence": null
+  },
+  {
+    "text": " atau",
+    "startMs": 2980,
+    "endMs": 3196,
+    "timestampMs": 3088,
+    "confidence": null
+  },
+  {
+    "text": " ongkir",
+    "startMs": 3196,
+    "endMs": 3454,
+    "timestampMs": 3325,
+    "confidence": null
+  },
+  {
+    "text": " cuma",
+    "startMs": 3454,
+    "endMs": 3659,
+    "timestampMs": 3557,
+    "confidence": null
+  },
+  {
+    "text": " belasan",
+    "startMs": 3659,
+    "endMs": 3950,
+    "timestampMs": 3805,
+    "confidence": null
+  },
+  {
+    "text": " ribu",
+    "startMs": 3950,
+    "endMs": 4338,
+    "timestampMs": 4144,
+    "confidence": null
+  },
+  {
+    "text": " Sekali",
+    "startMs": 5056,
+    "endMs": 5401,
+    "timestampMs": 5229,
+    "confidence": null
+  },
+  {
+    "text": " lewat",
+    "startMs": 5401,
+    "endMs": 5617,
+    "timestampMs": 5509,
+    "confidence": null
+  },
+  {
+    "text": " memang",
+    "startMs": 5617,
+    "endMs": 5800,
+    "timestampMs": 5709,
+    "confidence": null
+  },
+  {
+    "text": " enteng",
+    "startMs": 5800,
+    "endMs": 6285,
+    "timestampMs": 6043,
+    "confidence": null
+  },
+  {
+    "text": " tapi",
+    "startMs": 6500,
+    "endMs": 6716,
+    "timestampMs": 6608,
+    "confidence": null
+  },
+  {
+    "text": " kalau",
+    "startMs": 6716,
+    "endMs": 6888,
+    "timestampMs": 6802,
+    "confidence": null
+  },
+  {
+    "text": " diulang",
+    "startMs": 6888,
+    "endMs": 7136,
+    "timestampMs": 7012,
+    "confidence": null
+  },
+  {
+    "text": " tiap",
+    "startMs": 7136,
+    "endMs": 7319,
+    "timestampMs": 7228,
+    "confidence": null
+  },
+  {
+    "text": " hari",
+    "startMs": 7319,
+    "endMs": 7707,
+    "timestampMs": 7513,
+    "confidence": null
+  },
+  {
+    "text": " jumlahnya",
+    "startMs": 7912,
+    "endMs": 8321,
+    "timestampMs": 8117,
+    "confidence": null
+  },
+  {
+    "text": " numpuk",
+    "startMs": 8322,
+    "endMs": 8774,
+    "timestampMs": 8548,
+    "confidence": null
+  }
+]

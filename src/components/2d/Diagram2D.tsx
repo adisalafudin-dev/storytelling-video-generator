@@ -33,6 +33,26 @@ import {
   IPhoneStoryV7Visuals,
   IPhoneStoryV7VisualType,
 } from "./IPhoneStoryV7Visuals";
+import {
+  IPhoneStoryV8Visuals,
+  IPhoneStoryV8VisualType,
+} from "./IPhoneStoryV8Visuals";
+import {
+  BocoranUangStoryV1Visuals,
+  BocoranUangStoryV1VisualType,
+} from "./BocoranUangStoryV1Visuals";
+import {
+  KenapaCicilanStoryV1Visuals,
+  KenapaCicilanStoryV1VisualType,
+} from "./KenapaCicilanStoryV1Visuals";
+import {
+  TidurDelapanJamStoryV1Visuals,
+  TidurDelapanJamStoryV1VisualType,
+} from "./TidurDelapanJamStoryV1Visuals";
+import {
+  OverthinkingHabisNgobrolStoryV1Visuals,
+  OverthinkingHabisNgobrolStoryV1VisualType,
+} from "./OverthinkingHabisNgobrolStoryV1Visuals";
 
 export type DiagramType =
   | "smartphone-surge"
@@ -48,7 +68,12 @@ export type DiagramType =
   | IPhoneStoryV4VisualType
   | IPhoneStoryV5VisualType
   | IPhoneStoryV6VisualType
-  | IPhoneStoryV7VisualType;
+  | IPhoneStoryV7VisualType
+  | IPhoneStoryV8VisualType
+  | BocoranUangStoryV1VisualType
+  | KenapaCicilanStoryV1VisualType
+  | TidurDelapanJamStoryV1VisualType
+  | OverthinkingHabisNgobrolStoryV1VisualType;
 
 export const Diagram2D: React.FC<{
   type: DiagramType;
@@ -154,6 +179,61 @@ export const Diagram2D: React.FC<{
     type === "storyv7-savings-timeline"
   ) {
     return <IPhoneStoryV7Visuals type={type} />;
+  }
+
+  // Specialized Gaya #3: Hand-Drawn Personal Storytelling (V8)
+  if (
+    type === "storyv8-hook-showcase" ||
+    type === "storyv8-bridge-question" ||
+    type === "storyv8-income-contrast" ||
+    type === "storyv8-living-expenses" ||
+    type === "storyv8-savings-timeline"
+  ) {
+    return <IPhoneStoryV8Visuals type={type} />;
+  }
+
+  // Specialized Gaya #3: Kebocoran Uang Bulanan (bocoran-uang-bulanan-story-v1)
+  if (
+    type === "bocoran-hook-desk" ||
+    type === "bocoran-bridge-notebook" ||
+    type === "bocoran-daily-leaks" ||
+    type === "bocoran-savings-impact" ||
+    type === "bocoran-morning-solution"
+  ) {
+    return <BocoranUangStoryV1Visuals type={type} />;
+  }
+
+  // Specialized Gaya #3: Kenapa Cicilan Kecil Menjebak (kenapa-cicilan-kecil-menjebak-story-v1)
+  if (
+    type === "cicilan-hook-checkout" ||
+    type === "cicilan-bridge-notebook" ||
+    type === "cicilan-snowball-stack" ||
+    type === "cicilan-narrow-space" ||
+    type === "cicilan-morning-choice"
+  ) {
+    return <KenapaCicilanStoryV1Visuals type={type} />;
+  }
+
+  // Specialized Gaya #3: Tidur 8 Jam Tapi Masih Capek (tidur-delapan-jam-tapi-masih-capek-story-v1)
+  if (
+    type === "tidur-hook-pagi" ||
+    type === "tidur-bridge-pola" ||
+    type === "tidur-celah-layar" ||
+    type === "tidur-dampak-siang" ||
+    type === "tidur-langkah-ringan"
+  ) {
+    return <TidurDelapanJamStoryV1Visuals type={type} />;
+  }
+
+  // Specialized Gaya #3: Overthinking Habis Ngobrol (overthinking-habis-ngobrol-story-v1)
+  if (
+    type === "overthinking-hook-kamar" ||
+    type === "overthinking-bridge-kafe" ||
+    type === "overthinking-spotlight-effect" ||
+    type === "overthinking-replay-jebakan" ||
+    type === "overthinking-langkah-lega"
+  ) {
+    return <OverthinkingHabisNgobrolStoryV1Visuals type={type} />;
   }
 
   const anim = spring({

@@ -1,0 +1,1315 @@
+{
+  "title": "Kenapa Cicilan Kecil Sering Bikin Cashflow Sempit?",
+  "channel": "@adi.salafudin",
+  "niche": "KEUANGAN PRIBADI & CASHFLOW",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "showGrid": false,
+  "showWatermark": false,
+  "totalEstimatedDurationSec": 42,
+  "bgm": "audio/bgm/ambient-mystery.mp3",
+  "bgmVolume": 0.11,
+  "voicePreset": "ardi-punchy",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 6.95,
+      "theme": "money",
+      "nicheTag": "HOOK KONTRAS",
+      "narration": "Kelihatan cuma dua ratus ribuan sebulan, rasanya enteng banget pas checkout. Tapi kok tiap awal bulan gaji kerasa udah kepotong duluan?",
+      "diagram": {
+        "type": "cicilan-hook-checkout"
+      },
+      "audio": "audio/kenapa-cicilan-kecil-menjebak-story-v1/scene1.mp3",
+      "captions": [
+        {
+          "text": "Kelihatan",
+          "startMs": 60,
+          "endMs": 448
+        },
+        {
+          "text": "cuma",
+          "startMs": 448,
+          "endMs": 631
+        },
+        {
+          "text": "dua",
+          "startMs": 631,
+          "endMs": 750
+        },
+        {
+          "text": "ratus",
+          "startMs": 750,
+          "endMs": 965
+        },
+        {
+          "text": "ribuan",
+          "startMs": 965,
+          "endMs": 1202
+        },
+        {
+          "text": "sebulan",
+          "startMs": 1202,
+          "endMs": 1730
+        },
+        {
+          "text": "rasanya",
+          "startMs": 1978,
+          "endMs": 2344
+        },
+        {
+          "text": "enteng",
+          "startMs": 2344,
+          "endMs": 2528
+        },
+        {
+          "text": "banget",
+          "startMs": 2528,
+          "endMs": 2765
+        },
+        {
+          "text": "pas",
+          "startMs": 2765,
+          "endMs": 2937
+        },
+        {
+          "text": "checkout",
+          "startMs": 2937,
+          "endMs": 3433
+        },
+        {
+          "text": "Tapi",
+          "startMs": 4151,
+          "endMs": 4431
+        },
+        {
+          "text": "kok",
+          "startMs": 4431,
+          "endMs": 4582
+        },
+        {
+          "text": "tiap",
+          "startMs": 4582,
+          "endMs": 4744
+        },
+        {
+          "text": "awal",
+          "startMs": 4744,
+          "endMs": 4906
+        },
+        {
+          "text": "bulan",
+          "startMs": 4906,
+          "endMs": 5100
+        },
+        {
+          "text": "gaji",
+          "startMs": 5100,
+          "endMs": 5326
+        },
+        {
+          "text": "kerasa",
+          "startMs": 5326,
+          "endMs": 5595
+        },
+        {
+          "text": "udah",
+          "startMs": 5595,
+          "endMs": 5735
+        },
+        {
+          "text": "kepotong",
+          "startMs": 5735,
+          "endMs": 6026
+        },
+        {
+          "text": "duluan",
+          "startMs": 6026,
+          "endMs": 6468
+        }
+      ],
+      "words": [
+        {
+          "text": " Kelihatan",
+          "startMs": 60,
+          "endMs": 448,
+          "timestampMs": 254,
+          "confidence": null
+        },
+        {
+          "text": " cuma",
+          "startMs": 448,
+          "endMs": 631,
+          "timestampMs": 540,
+          "confidence": null
+        },
+        {
+          "text": " dua",
+          "startMs": 631,
+          "endMs": 750,
+          "timestampMs": 691,
+          "confidence": null
+        },
+        {
+          "text": " ratus",
+          "startMs": 750,
+          "endMs": 965,
+          "timestampMs": 858,
+          "confidence": null
+        },
+        {
+          "text": " ribuan",
+          "startMs": 965,
+          "endMs": 1202,
+          "timestampMs": 1084,
+          "confidence": null
+        },
+        {
+          "text": " sebulan",
+          "startMs": 1202,
+          "endMs": 1730,
+          "timestampMs": 1466,
+          "confidence": null
+        },
+        {
+          "text": " rasanya",
+          "startMs": 1978,
+          "endMs": 2344,
+          "timestampMs": 2161,
+          "confidence": null
+        },
+        {
+          "text": " enteng",
+          "startMs": 2344,
+          "endMs": 2528,
+          "timestampMs": 2436,
+          "confidence": null
+        },
+        {
+          "text": " banget",
+          "startMs": 2528,
+          "endMs": 2765,
+          "timestampMs": 2647,
+          "confidence": null
+        },
+        {
+          "text": " pas",
+          "startMs": 2765,
+          "endMs": 2937,
+          "timestampMs": 2851,
+          "confidence": null
+        },
+        {
+          "text": " checkout",
+          "startMs": 2937,
+          "endMs": 3433,
+          "timestampMs": 3185,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 4151,
+          "endMs": 4431,
+          "timestampMs": 4291,
+          "confidence": null
+        },
+        {
+          "text": " kok",
+          "startMs": 4431,
+          "endMs": 4582,
+          "timestampMs": 4507,
+          "confidence": null
+        },
+        {
+          "text": " tiap",
+          "startMs": 4582,
+          "endMs": 4744,
+          "timestampMs": 4663,
+          "confidence": null
+        },
+        {
+          "text": " awal",
+          "startMs": 4744,
+          "endMs": 4906,
+          "timestampMs": 4825,
+          "confidence": null
+        },
+        {
+          "text": " bulan",
+          "startMs": 4906,
+          "endMs": 5100,
+          "timestampMs": 5003,
+          "confidence": null
+        },
+        {
+          "text": " gaji",
+          "startMs": 5100,
+          "endMs": 5326,
+          "timestampMs": 5213,
+          "confidence": null
+        },
+        {
+          "text": " kerasa",
+          "startMs": 5326,
+          "endMs": 5595,
+          "timestampMs": 5461,
+          "confidence": null
+        },
+        {
+          "text": " udah",
+          "startMs": 5595,
+          "endMs": 5735,
+          "timestampMs": 5665,
+          "confidence": null
+        },
+        {
+          "text": " kepotong",
+          "startMs": 5735,
+          "endMs": 6026,
+          "timestampMs": 5881,
+          "confidence": null
+        },
+        {
+          "text": " duluan",
+          "startMs": 6026,
+          "endMs": 6468,
+          "timestampMs": 6247,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "duration": 6.45,
+      "theme": "money",
+      "nicheTag": "BRIDGE PENJELASAN",
+      "narration": "Masalahnya bukan di satu tagihan kecil itu. Kenapa bisa gitu ya? Yuk sini kita urai pelan-pelan.",
+      "diagram": {
+        "type": "cicilan-bridge-notebook"
+      },
+      "audio": "audio/kenapa-cicilan-kecil-menjebak-story-v1/scene2.mp3",
+      "captions": [
+        {
+          "text": "Masalahnya",
+          "startMs": 60,
+          "endMs": 610
+        },
+        {
+          "text": "bukan",
+          "startMs": 610,
+          "endMs": 836
+        },
+        {
+          "text": "di",
+          "startMs": 836,
+          "endMs": 890
+        },
+        {
+          "text": "satu",
+          "startMs": 890,
+          "endMs": 1095
+        },
+        {
+          "text": "tagihan",
+          "startMs": 1095,
+          "endMs": 1450
+        },
+        {
+          "text": "kecil",
+          "startMs": 1450,
+          "endMs": 1644
+        },
+        {
+          "text": "itu",
+          "startMs": 1644,
+          "endMs": 2054
+        },
+        {
+          "text": "Kenapa",
+          "startMs": 2765,
+          "endMs": 3099
+        },
+        {
+          "text": "bisa",
+          "startMs": 3099,
+          "endMs": 3293
+        },
+        {
+          "text": "gitu",
+          "startMs": 3293,
+          "endMs": 3509
+        },
+        {
+          "text": "ya",
+          "startMs": 3509,
+          "endMs": 3800
+        },
+        {
+          "text": "Yuk",
+          "startMs": 4525,
+          "endMs": 4751
+        },
+        {
+          "text": "sini",
+          "startMs": 4751,
+          "endMs": 5021
+        },
+        {
+          "text": "kita",
+          "startMs": 5021,
+          "endMs": 5193
+        },
+        {
+          "text": "urai",
+          "startMs": 5193,
+          "endMs": 5387
+        },
+        {
+          "text": "pelan-pelan",
+          "startMs": 5387,
+          "endMs": 5980
+        }
+      ],
+      "words": [
+        {
+          "text": " Masalahnya",
+          "startMs": 60,
+          "endMs": 610,
+          "timestampMs": 335,
+          "confidence": null
+        },
+        {
+          "text": " bukan",
+          "startMs": 610,
+          "endMs": 836,
+          "timestampMs": 723,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 836,
+          "endMs": 890,
+          "timestampMs": 863,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 890,
+          "endMs": 1095,
+          "timestampMs": 993,
+          "confidence": null
+        },
+        {
+          "text": " tagihan",
+          "startMs": 1095,
+          "endMs": 1450,
+          "timestampMs": 1273,
+          "confidence": null
+        },
+        {
+          "text": " kecil",
+          "startMs": 1450,
+          "endMs": 1644,
+          "timestampMs": 1547,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 1644,
+          "endMs": 2054,
+          "timestampMs": 1849,
+          "confidence": null
+        },
+        {
+          "text": " Kenapa",
+          "startMs": 2765,
+          "endMs": 3099,
+          "timestampMs": 2932,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 3099,
+          "endMs": 3293,
+          "timestampMs": 3196,
+          "confidence": null
+        },
+        {
+          "text": " gitu",
+          "startMs": 3293,
+          "endMs": 3509,
+          "timestampMs": 3401,
+          "confidence": null
+        },
+        {
+          "text": " ya",
+          "startMs": 3509,
+          "endMs": 3800,
+          "timestampMs": 3655,
+          "confidence": null
+        },
+        {
+          "text": " Yuk",
+          "startMs": 4525,
+          "endMs": 4751,
+          "timestampMs": 4638,
+          "confidence": null
+        },
+        {
+          "text": " sini",
+          "startMs": 4751,
+          "endMs": 5021,
+          "timestampMs": 4886,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 5021,
+          "endMs": 5193,
+          "timestampMs": 5107,
+          "confidence": null
+        },
+        {
+          "text": " urai",
+          "startMs": 5193,
+          "endMs": 5387,
+          "timestampMs": 5290,
+          "confidence": null
+        },
+        {
+          "text": " pelan-pelan",
+          "startMs": 5387,
+          "endMs": 5980,
+          "timestampMs": 5684,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "duration": 7.15,
+      "theme": "money",
+      "nicheTag": "EFEK SALJU TAGIHAN",
+      "narration": "Satu per satu emang kelihatan aman. Tapi kalau ada empat sampai lima pos jalan bareng tiap bulan, potongan kecil itu gabung jadi beban tetap.",
+      "diagram": {
+        "type": "cicilan-snowball-stack"
+      },
+      "audio": "audio/kenapa-cicilan-kecil-menjebak-story-v1/scene3.mp3",
+      "captions": [
+        {
+          "text": "Satu",
+          "startMs": 60,
+          "endMs": 361
+        },
+        {
+          "text": "per",
+          "startMs": 361,
+          "endMs": 458
+        },
+        {
+          "text": "satu",
+          "startMs": 458,
+          "endMs": 706
+        },
+        {
+          "text": "emang",
+          "startMs": 706,
+          "endMs": 922
+        },
+        {
+          "text": "kelihatan",
+          "startMs": 922,
+          "endMs": 1234
+        },
+        {
+          "text": "aman",
+          "startMs": 1234,
+          "endMs": 1665
+        },
+        {
+          "text": "Tapi",
+          "startMs": 2388,
+          "endMs": 2625
+        },
+        {
+          "text": "kalau",
+          "startMs": 2625,
+          "endMs": 2797
+        },
+        {
+          "text": "ada",
+          "startMs": 2797,
+          "endMs": 2916
+        },
+        {
+          "text": "empat",
+          "startMs": 2916,
+          "endMs": 3131
+        },
+        {
+          "text": "sampai",
+          "startMs": 3131,
+          "endMs": 3357
+        },
+        {
+          "text": "lima",
+          "startMs": 3357,
+          "endMs": 3530
+        },
+        {
+          "text": "pos",
+          "startMs": 3530,
+          "endMs": 3724
+        },
+        {
+          "text": "jalan",
+          "startMs": 3724,
+          "endMs": 3939
+        },
+        {
+          "text": "bareng",
+          "startMs": 3939,
+          "endMs": 4112
+        },
+        {
+          "text": "tiap",
+          "startMs": 4112,
+          "endMs": 4263
+        },
+        {
+          "text": "bulan",
+          "startMs": 4263,
+          "endMs": 4672
+        },
+        {
+          "text": "potongan",
+          "startMs": 4931,
+          "endMs": 5243
+        },
+        {
+          "text": "kecil",
+          "startMs": 5243,
+          "endMs": 5437
+        },
+        {
+          "text": "itu",
+          "startMs": 5437,
+          "endMs": 5599
+        },
+        {
+          "text": "gabung",
+          "startMs": 5599,
+          "endMs": 5900
+        },
+        {
+          "text": "jadi",
+          "startMs": 5901,
+          "endMs": 6094
+        },
+        {
+          "text": "beban",
+          "startMs": 6094,
+          "endMs": 6310
+        },
+        {
+          "text": "tetap",
+          "startMs": 6310,
+          "endMs": 6687
+        }
+      ],
+      "words": [
+        {
+          "text": " Satu",
+          "startMs": 60,
+          "endMs": 361,
+          "timestampMs": 211,
+          "confidence": null
+        },
+        {
+          "text": " per",
+          "startMs": 361,
+          "endMs": 458,
+          "timestampMs": 410,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 458,
+          "endMs": 706,
+          "timestampMs": 582,
+          "confidence": null
+        },
+        {
+          "text": " emang",
+          "startMs": 706,
+          "endMs": 922,
+          "timestampMs": 814,
+          "confidence": null
+        },
+        {
+          "text": " kelihatan",
+          "startMs": 922,
+          "endMs": 1234,
+          "timestampMs": 1078,
+          "confidence": null
+        },
+        {
+          "text": " aman",
+          "startMs": 1234,
+          "endMs": 1665,
+          "timestampMs": 1450,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 2388,
+          "endMs": 2625,
+          "timestampMs": 2507,
+          "confidence": null
+        },
+        {
+          "text": " kalau",
+          "startMs": 2625,
+          "endMs": 2797,
+          "timestampMs": 2711,
+          "confidence": null
+        },
+        {
+          "text": " ada",
+          "startMs": 2797,
+          "endMs": 2916,
+          "timestampMs": 2857,
+          "confidence": null
+        },
+        {
+          "text": " empat",
+          "startMs": 2916,
+          "endMs": 3131,
+          "timestampMs": 3024,
+          "confidence": null
+        },
+        {
+          "text": " sampai",
+          "startMs": 3131,
+          "endMs": 3357,
+          "timestampMs": 3244,
+          "confidence": null
+        },
+        {
+          "text": " lima",
+          "startMs": 3357,
+          "endMs": 3530,
+          "timestampMs": 3444,
+          "confidence": null
+        },
+        {
+          "text": " pos",
+          "startMs": 3530,
+          "endMs": 3724,
+          "timestampMs": 3627,
+          "confidence": null
+        },
+        {
+          "text": " jalan",
+          "startMs": 3724,
+          "endMs": 3939,
+          "timestampMs": 3832,
+          "confidence": null
+        },
+        {
+          "text": " bareng",
+          "startMs": 3939,
+          "endMs": 4112,
+          "timestampMs": 4026,
+          "confidence": null
+        },
+        {
+          "text": " tiap",
+          "startMs": 4112,
+          "endMs": 4263,
+          "timestampMs": 4188,
+          "confidence": null
+        },
+        {
+          "text": " bulan",
+          "startMs": 4263,
+          "endMs": 4672,
+          "timestampMs": 4468,
+          "confidence": null
+        },
+        {
+          "text": " potongan",
+          "startMs": 4931,
+          "endMs": 5243,
+          "timestampMs": 5087,
+          "confidence": null
+        },
+        {
+          "text": " kecil",
+          "startMs": 5243,
+          "endMs": 5437,
+          "timestampMs": 5340,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 5437,
+          "endMs": 5599,
+          "timestampMs": 5518,
+          "confidence": null
+        },
+        {
+          "text": " gabung",
+          "startMs": 5599,
+          "endMs": 5900,
+          "timestampMs": 5750,
+          "confidence": null
+        },
+        {
+          "text": " jadi",
+          "startMs": 5901,
+          "endMs": 6094,
+          "timestampMs": 5998,
+          "confidence": null
+        },
+        {
+          "text": " beban",
+          "startMs": 6094,
+          "endMs": 6310,
+          "timestampMs": 6202,
+          "confidence": null
+        },
+        {
+          "text": " tetap",
+          "startMs": 6310,
+          "endMs": 6687,
+          "timestampMs": 6499,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "duration": 5.05,
+      "theme": "money",
+      "nicheTag": "RUANG GERAK MENYEMPIT",
+      "narration": "Akhirnya sebelum sempat nabung atau ambil peluang bagus, uangmu udah keburu dikunci buat bayar masa lalu.",
+      "diagram": {
+        "type": "cicilan-narrow-space"
+      },
+      "audio": "audio/kenapa-cicilan-kecil-menjebak-story-v1/scene4.mp3",
+      "captions": [
+        {
+          "text": "Akhirnya",
+          "startMs": 60,
+          "endMs": 405
+        },
+        {
+          "text": "sebelum",
+          "startMs": 405,
+          "endMs": 674
+        },
+        {
+          "text": "sempat",
+          "startMs": 674,
+          "endMs": 911
+        },
+        {
+          "text": "nabung",
+          "startMs": 911,
+          "endMs": 1213
+        },
+        {
+          "text": "atau",
+          "startMs": 1213,
+          "endMs": 1385
+        },
+        {
+          "text": "ambil",
+          "startMs": 1385,
+          "endMs": 1590
+        },
+        {
+          "text": "peluang",
+          "startMs": 1590,
+          "endMs": 1827
+        },
+        {
+          "text": "bagus",
+          "startMs": 1827,
+          "endMs": 2291
+        },
+        {
+          "text": "uangmu",
+          "startMs": 2517,
+          "endMs": 2797
+        },
+        {
+          "text": "udah",
+          "startMs": 2797,
+          "endMs": 2959
+        },
+        {
+          "text": "keburu",
+          "startMs": 2959,
+          "endMs": 3217
+        },
+        {
+          "text": "dikunci",
+          "startMs": 3217,
+          "endMs": 3551
+        },
+        {
+          "text": "buat",
+          "startMs": 3551,
+          "endMs": 3734
+        },
+        {
+          "text": "bayar",
+          "startMs": 3734,
+          "endMs": 3971
+        },
+        {
+          "text": "masa",
+          "startMs": 3972,
+          "endMs": 4176
+        },
+        {
+          "text": "lalu",
+          "startMs": 4176,
+          "endMs": 4564
+        }
+      ],
+      "words": [
+        {
+          "text": " Akhirnya",
+          "startMs": 60,
+          "endMs": 405,
+          "timestampMs": 233,
+          "confidence": null
+        },
+        {
+          "text": " sebelum",
+          "startMs": 405,
+          "endMs": 674,
+          "timestampMs": 540,
+          "confidence": null
+        },
+        {
+          "text": " sempat",
+          "startMs": 674,
+          "endMs": 911,
+          "timestampMs": 793,
+          "confidence": null
+        },
+        {
+          "text": " nabung",
+          "startMs": 911,
+          "endMs": 1213,
+          "timestampMs": 1062,
+          "confidence": null
+        },
+        {
+          "text": " atau",
+          "startMs": 1213,
+          "endMs": 1385,
+          "timestampMs": 1299,
+          "confidence": null
+        },
+        {
+          "text": " ambil",
+          "startMs": 1385,
+          "endMs": 1590,
+          "timestampMs": 1488,
+          "confidence": null
+        },
+        {
+          "text": " peluang",
+          "startMs": 1590,
+          "endMs": 1827,
+          "timestampMs": 1709,
+          "confidence": null
+        },
+        {
+          "text": " bagus",
+          "startMs": 1827,
+          "endMs": 2291,
+          "timestampMs": 2059,
+          "confidence": null
+        },
+        {
+          "text": " uangmu",
+          "startMs": 2517,
+          "endMs": 2797,
+          "timestampMs": 2657,
+          "confidence": null
+        },
+        {
+          "text": " udah",
+          "startMs": 2797,
+          "endMs": 2959,
+          "timestampMs": 2878,
+          "confidence": null
+        },
+        {
+          "text": " keburu",
+          "startMs": 2959,
+          "endMs": 3217,
+          "timestampMs": 3088,
+          "confidence": null
+        },
+        {
+          "text": " dikunci",
+          "startMs": 3217,
+          "endMs": 3551,
+          "timestampMs": 3384,
+          "confidence": null
+        },
+        {
+          "text": " buat",
+          "startMs": 3551,
+          "endMs": 3734,
+          "timestampMs": 3643,
+          "confidence": null
+        },
+        {
+          "text": " bayar",
+          "startMs": 3734,
+          "endMs": 3971,
+          "timestampMs": 3853,
+          "confidence": null
+        },
+        {
+          "text": " masa",
+          "startMs": 3972,
+          "endMs": 4176,
+          "timestampMs": 4074,
+          "confidence": null
+        },
+        {
+          "text": " lalu",
+          "startMs": 4176,
+          "endMs": 4564,
+          "timestampMs": 4370,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "duration": 7.85,
+      "theme": "world",
+      "nicheTag": "ARAH BALIK",
+      "narration": "Bukan berarti nggak boleh nyicil sama sekali, asal totalnya masih di batas aman. Kalau kamu, lebih milih beli tunai nunggu dulu atau nyicil asal ringan?",
+      "diagram": {
+        "type": "cicilan-morning-choice"
+      },
+      "audio": "audio/kenapa-cicilan-kecil-menjebak-story-v1/scene5.mp3",
+      "captions": [
+        {
+          "text": "Bukan",
+          "startMs": 60,
+          "endMs": 297
+        },
+        {
+          "text": "berarti",
+          "startMs": 297,
+          "endMs": 588
+        },
+        {
+          "text": "nggak",
+          "startMs": 588,
+          "endMs": 706
+        },
+        {
+          "text": "boleh",
+          "startMs": 706,
+          "endMs": 879
+        },
+        {
+          "text": "nyicil",
+          "startMs": 879,
+          "endMs": 1127
+        },
+        {
+          "text": "sama",
+          "startMs": 1127,
+          "endMs": 1299
+        },
+        {
+          "text": "sekali",
+          "startMs": 1299,
+          "endMs": 1806
+        },
+        {
+          "text": "asal",
+          "startMs": 2053,
+          "endMs": 2301
+        },
+        {
+          "text": "totalnya",
+          "startMs": 2301,
+          "endMs": 2668
+        },
+        {
+          "text": "masih",
+          "startMs": 2668,
+          "endMs": 2905
+        },
+        {
+          "text": "di",
+          "startMs": 2905,
+          "endMs": 2959
+        },
+        {
+          "text": "batas",
+          "startMs": 2959,
+          "endMs": 3196
+        },
+        {
+          "text": "aman",
+          "startMs": 3196,
+          "endMs": 3605
+        },
+        {
+          "text": "Kalau",
+          "startMs": 4324,
+          "endMs": 4539
+        },
+        {
+          "text": "kamu",
+          "startMs": 4539,
+          "endMs": 4981
+        },
+        {
+          "text": "lebih",
+          "startMs": 5229,
+          "endMs": 5434
+        },
+        {
+          "text": "milih",
+          "startMs": 5434,
+          "endMs": 5584
+        },
+        {
+          "text": "beli",
+          "startMs": 5584,
+          "endMs": 5714
+        },
+        {
+          "text": "tunai",
+          "startMs": 5714,
+          "endMs": 5951
+        },
+        {
+          "text": "nunggu",
+          "startMs": 5951,
+          "endMs": 6134
+        },
+        {
+          "text": "dulu",
+          "startMs": 6134,
+          "endMs": 6382
+        },
+        {
+          "text": "atau",
+          "startMs": 6382,
+          "endMs": 6544
+        },
+        {
+          "text": "nyicil",
+          "startMs": 6544,
+          "endMs": 6781
+        },
+        {
+          "text": "asal",
+          "startMs": 6781,
+          "endMs": 6975
+        },
+        {
+          "text": "ringan",
+          "startMs": 6975,
+          "endMs": 7362
+        }
+      ],
+      "words": [
+        {
+          "text": " Bukan",
+          "startMs": 60,
+          "endMs": 297,
+          "timestampMs": 179,
+          "confidence": null
+        },
+        {
+          "text": " berarti",
+          "startMs": 297,
+          "endMs": 588,
+          "timestampMs": 443,
+          "confidence": null
+        },
+        {
+          "text": " nggak",
+          "startMs": 588,
+          "endMs": 706,
+          "timestampMs": 647,
+          "confidence": null
+        },
+        {
+          "text": " boleh",
+          "startMs": 706,
+          "endMs": 879,
+          "timestampMs": 793,
+          "confidence": null
+        },
+        {
+          "text": " nyicil",
+          "startMs": 879,
+          "endMs": 1127,
+          "timestampMs": 1003,
+          "confidence": null
+        },
+        {
+          "text": " sama",
+          "startMs": 1127,
+          "endMs": 1299,
+          "timestampMs": 1213,
+          "confidence": null
+        },
+        {
+          "text": " sekali",
+          "startMs": 1299,
+          "endMs": 1806,
+          "timestampMs": 1553,
+          "confidence": null
+        },
+        {
+          "text": " asal",
+          "startMs": 2053,
+          "endMs": 2301,
+          "timestampMs": 2177,
+          "confidence": null
+        },
+        {
+          "text": " totalnya",
+          "startMs": 2301,
+          "endMs": 2668,
+          "timestampMs": 2485,
+          "confidence": null
+        },
+        {
+          "text": " masih",
+          "startMs": 2668,
+          "endMs": 2905,
+          "timestampMs": 2787,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 2905,
+          "endMs": 2959,
+          "timestampMs": 2932,
+          "confidence": null
+        },
+        {
+          "text": " batas",
+          "startMs": 2959,
+          "endMs": 3196,
+          "timestampMs": 3078,
+          "confidence": null
+        },
+        {
+          "text": " aman",
+          "startMs": 3196,
+          "endMs": 3605,
+          "timestampMs": 3401,
+          "confidence": null
+        },
+        {
+          "text": " Kalau",
+          "startMs": 4324,
+          "endMs": 4539,
+          "timestampMs": 4432,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 4539,
+          "endMs": 4981,
+          "timestampMs": 4760,
+          "confidence": null
+        },
+        {
+          "text": " lebih",
+          "startMs": 5229,
+          "endMs": 5434,
+          "timestampMs": 5332,
+          "confidence": null
+        },
+        {
+          "text": " milih",
+          "startMs": 5434,
+          "endMs": 5584,
+          "timestampMs": 5509,
+          "confidence": null
+        },
+        {
+          "text": " beli",
+          "startMs": 5584,
+          "endMs": 5714,
+          "timestampMs": 5649,
+          "confidence": null
+        },
+        {
+          "text": " tunai",
+          "startMs": 5714,
+          "endMs": 5951,
+          "timestampMs": 5833,
+          "confidence": null
+        },
+        {
+          "text": " nunggu",
+          "startMs": 5951,
+          "endMs": 6134,
+          "timestampMs": 6043,
+          "confidence": null
+        },
+        {
+          "text": " dulu",
+          "startMs": 6134,
+          "endMs": 6382,
+          "timestampMs": 6258,
+          "confidence": null
+        },
+        {
+          "text": " atau",
+          "startMs": 6382,
+          "endMs": 6544,
+          "timestampMs": 6463,
+          "confidence": null
+        },
+        {
+          "text": " nyicil",
+          "startMs": 6544,
+          "endMs": 6781,
+          "timestampMs": 6663,
+          "confidence": null
+        },
+        {
+          "text": " asal",
+          "startMs": 6781,
+          "endMs": 6975,
+          "timestampMs": 6878,
+          "confidence": null
+        },
+        {
+          "text": " ringan",
+          "startMs": 6975,
+          "endMs": 7362,
+          "timestampMs": 7169,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

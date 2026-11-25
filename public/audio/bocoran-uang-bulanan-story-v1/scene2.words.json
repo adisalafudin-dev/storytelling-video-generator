@@ -1,0 +1,142 @@
+[
+  {
+    "text": " Masalahnya",
+    "startMs": 60,
+    "endMs": 577,
+    "timestampMs": 319,
+    "confidence": null
+  },
+  {
+    "text": " jarang",
+    "startMs": 577,
+    "endMs": 868,
+    "timestampMs": 723,
+    "confidence": null
+  },
+  {
+    "text": " ada",
+    "startMs": 868,
+    "endMs": 1083,
+    "timestampMs": 976,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 1083,
+    "endMs": 1159,
+    "timestampMs": 1121,
+    "confidence": null
+  },
+  {
+    "text": " satu",
+    "startMs": 1159,
+    "endMs": 1363,
+    "timestampMs": 1261,
+    "confidence": null
+  },
+  {
+    "text": " belanja",
+    "startMs": 1363,
+    "endMs": 1633,
+    "timestampMs": 1498,
+    "confidence": null
+  },
+  {
+    "text": " besar",
+    "startMs": 1633,
+    "endMs": 2096,
+    "timestampMs": 1865,
+    "confidence": null
+  },
+  {
+    "text": " Biasanya",
+    "startMs": 2811,
+    "endMs": 3275,
+    "timestampMs": 3043,
+    "confidence": null
+  },
+  {
+    "text": " justru",
+    "startMs": 3275,
+    "endMs": 3587,
+    "timestampMs": 3431,
+    "confidence": null
+  },
+  {
+    "text": " ngumpet",
+    "startMs": 3587,
+    "endMs": 3857,
+    "timestampMs": 3722,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 3857,
+    "endMs": 3921,
+    "timestampMs": 3889,
+    "confidence": null
+  },
+  {
+    "text": " kebiasaan",
+    "startMs": 3921,
+    "endMs": 4331,
+    "timestampMs": 4126,
+    "confidence": null
+  },
+  {
+    "text": " kecil",
+    "startMs": 4331,
+    "endMs": 4611,
+    "timestampMs": 4471,
+    "confidence": null
+  },
+  {
+    "text": " yang",
+    "startMs": 4611,
+    "endMs": 4740,
+    "timestampMs": 4676,
+    "confidence": null
+  },
+  {
+    "text": " kelihatannya",
+    "startMs": 4740,
+    "endMs": 5150,
+    "timestampMs": 4945,
+    "confidence": null
+  },
+  {
+    "text": " sepele",
+    "startMs": 5150,
+    "endMs": 5656,
+    "timestampMs": 5403,
+    "confidence": null
+  },
+  {
+    "text": " Yuk",
+    "startMs": 6382,
+    "endMs": 6608,
+    "timestampMs": 6495,
+    "confidence": null
+  },
+  {
+    "text": " kita",
+    "startMs": 6608,
+    "endMs": 6802,
+    "timestampMs": 6705,
+    "confidence": null
+  },
+  {
+    "text": " bongkar",
+    "startMs": 6802,
+    "endMs": 7071,
+    "timestampMs": 6937,
+    "confidence": null
+  },
+  {
+    "text": " polanya",
+    "startMs": 7071,
+    "endMs": 7621,
+    "timestampMs": 7346,
+    "confidence": null
+  }
+]

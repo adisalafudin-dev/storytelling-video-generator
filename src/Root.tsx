@@ -14,6 +14,11 @@ import iphoneStoryV4Json from "./data/stories/iphone-ump-id-story-v4.json";
 import iphoneStoryV5Json from "./data/stories/iphone-ump-id-story-v5.json";
 import iphoneStoryV6Json from "./data/stories/iphone-ump-id-story-v6.json";
 import iphoneStoryV7Json from "./data/stories/iphone-ump-id-story-v7.json";
+import iphoneStoryV8Json from "./data/stories/iphone-ump-id-story-v8.json";
+import bocoranUangStoryV1Json from "./data/stories/bocoran-uang-bulanan-story-v1.json";
+import kenapaCicilanStoryV1Json from "./data/stories/kenapa-cicilan-kecil-menjebak-story-v1.json";
+import tidurDelapanJamStoryV1Json from "./data/stories/tidur-delapan-jam-tapi-masih-capek-story-v1.json";
+import overthinkingHabisNgobrolStoryV1Json from "./data/stories/overthinking-habis-ngobrol-story-v1.json";
 
 // Dynamic import of story JSONs (multi‑story architecture) using webpack's require.context
 const requireContext = typeof (require as any).context === "function"
@@ -218,6 +223,61 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       {compositions}
+      <Composition
+        id="OverthinkingHabisNgobrolStoryV1"
+        component={StorytellingVideo}
+        fps={overthinkingHabisNgobrolStoryV1Json.fps || 30}
+        width={overthinkingHabisNgobrolStoryV1Json.width || 1080}
+        height={overthinkingHabisNgobrolStoryV1Json.height || 1920}
+        durationInFrames={calcStorytellingFrames(overthinkingHabisNgobrolStoryV1Json)}
+        defaultProps={{
+          storyboard: overthinkingHabisNgobrolStoryV1Json as any,
+        }}
+      />
+      <Composition
+        id="TidurDelapanJamTapiMasihCapekStoryV1"
+        component={StorytellingVideo}
+        fps={tidurDelapanJamStoryV1Json.fps || 30}
+        width={tidurDelapanJamStoryV1Json.width || 1080}
+        height={tidurDelapanJamStoryV1Json.height || 1920}
+        durationInFrames={calcStorytellingFrames(tidurDelapanJamStoryV1Json)}
+        defaultProps={{
+          storyboard: tidurDelapanJamStoryV1Json as any,
+        }}
+      />
+      <Composition
+        id="KenapaCicilanKecilMenjebakStoryV1"
+        component={StorytellingVideo}
+        fps={kenapaCicilanStoryV1Json.fps || 30}
+        width={kenapaCicilanStoryV1Json.width || 1080}
+        height={kenapaCicilanStoryV1Json.height || 1920}
+        durationInFrames={calcStorytellingFrames(kenapaCicilanStoryV1Json)}
+        defaultProps={{
+          storyboard: kenapaCicilanStoryV1Json as any,
+        }}
+      />
+      <Composition
+        id="BocoranUangBulananStoryV1"
+        component={StorytellingVideo}
+        fps={bocoranUangStoryV1Json.fps || 30}
+        width={bocoranUangStoryV1Json.width || 1080}
+        height={bocoranUangStoryV1Json.height || 1920}
+        durationInFrames={calcStorytellingFrames(bocoranUangStoryV1Json)}
+        defaultProps={{
+          storyboard: bocoranUangStoryV1Json as any,
+        }}
+      />
+      <Composition
+        id="IphoneUmpIdStoryV8"
+        component={StorytellingVideo}
+        fps={iphoneStoryV8Json.fps || 30}
+        width={iphoneStoryV8Json.width || 1080}
+        height={iphoneStoryV8Json.height || 1920}
+        durationInFrames={calcStorytellingFrames(iphoneStoryV8Json)}
+        defaultProps={{
+          storyboard: iphoneStoryV8Json as any,
+        }}
+      />
       <Composition
         id="IphoneUmpIdStoryV7"
         component={StorytellingVideo}

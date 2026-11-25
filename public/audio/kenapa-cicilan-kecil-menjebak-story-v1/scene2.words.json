@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Masalahnya",
+    "startMs": 60,
+    "endMs": 610,
+    "timestampMs": 335,
+    "confidence": null
+  },
+  {
+    "text": " bukan",
+    "startMs": 610,
+    "endMs": 836,
+    "timestampMs": 723,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 836,
+    "endMs": 890,
+    "timestampMs": 863,
+    "confidence": null
+  },
+  {
+    "text": " satu",
+    "startMs": 890,
+    "endMs": 1095,
+    "timestampMs": 993,
+    "confidence": null
+  },
+  {
+    "text": " tagihan",
+    "startMs": 1095,
+    "endMs": 1450,
+    "timestampMs": 1273,
+    "confidence": null
+  },
+  {
+    "text": " kecil",
+    "startMs": 1450,
+    "endMs": 1644,
+    "timestampMs": 1547,
+    "confidence": null
+  },
+  {
+    "text": " itu",
+    "startMs": 1644,
+    "endMs": 2054,
+    "timestampMs": 1849,
+    "confidence": null
+  },
+  {
+    "text": " Kenapa",
+    "startMs": 2765,
+    "endMs": 3099,
+    "timestampMs": 2932,
+    "confidence": null
+  },
+  {
+    "text": " bisa",
+    "startMs": 3099,
+    "endMs": 3293,
+    "timestampMs": 3196,
+    "confidence": null
+  },
+  {
+    "text": " gitu",
+    "startMs": 3293,
+    "endMs": 3509,
+    "timestampMs": 3401,
+    "confidence": null
+  },
+  {
+    "text": " ya",
+    "startMs": 3509,
+    "endMs": 3800,
+    "timestampMs": 3655,
+    "confidence": null
+  },
+  {
+    "text": " Yuk",
+    "startMs": 4525,
+    "endMs": 4751,
+    "timestampMs": 4638,
+    "confidence": null
+  },
+  {
+    "text": " sini",
+    "startMs": 4751,
+    "endMs": 5021,
+    "timestampMs": 4886,
+    "confidence": null
+  },
+  {
+    "text": " kita",
+    "startMs": 5021,
+    "endMs": 5193,
+    "timestampMs": 5107,
+    "confidence": null
+  },
+  {
+    "text": " urai",
+    "startMs": 5193,
+    "endMs": 5387,
+    "timestampMs": 5290,
+    "confidence": null
+  },
+  {
+    "text": " pelan-pelan",
+    "startMs": 5387,
+    "endMs": 5980,
+    "timestampMs": 5684,
+    "confidence": null
+  }
+]

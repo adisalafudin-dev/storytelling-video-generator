@@ -1,0 +1,1543 @@
+{
+  "title": "Obrolan Sudah Selesai dari Tadi, Tapi di Kepala Malah Di-replay Sampai Tengah Malam",
+  "channel": "@adi.salafudin",
+  "niche": "PSIKOLOGI & OVERTHINKING",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "showGrid": false,
+  "showWatermark": false,
+  "totalEstimatedDurationSec": 42,
+  "bgm": "audio/bgm/ambient-mystery.mp3",
+  "bgmVolume": 0.11,
+  "voicePreset": "gadis-natural",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 10.85,
+      "theme": "world",
+      "nicheTag": "HOOK MALAM",
+      "narration": "Tadi pas nongkrong ketawa-tawa biasa aja. Tapi begitu sampai kamar dan lampu dimatiin, satu kalimat salah ucap langsung keputar ulang kayak kaset rusak.",
+      "diagram": {
+        "type": "overthinking-hook-kamar"
+      },
+      "audio": "audio/overthinking-habis-ngobrol-story-v1/scene1.mp3",
+      "captions": [
+        {
+          "text": "Tadi",
+          "startMs": 60,
+          "endMs": 407
+        },
+        {
+          "text": "pas",
+          "startMs": 407,
+          "endMs": 720
+        },
+        {
+          "text": "nongkrong",
+          "startMs": 720,
+          "endMs": 1160
+        },
+        {
+          "text": "ketawa-tawa",
+          "startMs": 1160,
+          "endMs": 1831
+        },
+        {
+          "text": "biasa",
+          "startMs": 1831,
+          "endMs": 2317
+        },
+        {
+          "text": "aja",
+          "startMs": 2317,
+          "endMs": 2838
+        },
+        {
+          "text": "Tapi",
+          "startMs": 3610,
+          "endMs": 4015
+        },
+        {
+          "text": "begitu",
+          "startMs": 4015,
+          "endMs": 4478
+        },
+        {
+          "text": "sampai",
+          "startMs": 4478,
+          "endMs": 4778
+        },
+        {
+          "text": "kamar",
+          "startMs": 4779,
+          "endMs": 5149
+        },
+        {
+          "text": "dan",
+          "startMs": 5149,
+          "endMs": 5357
+        },
+        {
+          "text": "lampu",
+          "startMs": 5357,
+          "endMs": 5670
+        },
+        {
+          "text": "dimatiin",
+          "startMs": 5670,
+          "endMs": 6376
+        },
+        {
+          "text": "satu",
+          "startMs": 6688,
+          "endMs": 7047
+        },
+        {
+          "text": "kalimat",
+          "startMs": 7047,
+          "endMs": 7452
+        },
+        {
+          "text": "salah",
+          "startMs": 7452,
+          "endMs": 7741
+        },
+        {
+          "text": "ucap",
+          "startMs": 7742,
+          "endMs": 8112
+        },
+        {
+          "text": "langsung",
+          "startMs": 8112,
+          "endMs": 8528
+        },
+        {
+          "text": "keputar",
+          "startMs": 8529,
+          "endMs": 8934
+        },
+        {
+          "text": "ulang",
+          "startMs": 8934,
+          "endMs": 9316
+        },
+        {
+          "text": "kayak",
+          "startMs": 9316,
+          "endMs": 9663
+        },
+        {
+          "text": "kaset",
+          "startMs": 9663,
+          "endMs": 10022
+        },
+        {
+          "text": "rusak",
+          "startMs": 10022,
+          "endMs": 10415
+        }
+      ],
+      "words": [
+        {
+          "text": " Tadi",
+          "startMs": 60,
+          "endMs": 407,
+          "timestampMs": 234,
+          "confidence": null
+        },
+        {
+          "text": " pas",
+          "startMs": 407,
+          "endMs": 720,
+          "timestampMs": 564,
+          "confidence": null
+        },
+        {
+          "text": " nongkrong",
+          "startMs": 720,
+          "endMs": 1160,
+          "timestampMs": 940,
+          "confidence": null
+        },
+        {
+          "text": " ketawa-tawa",
+          "startMs": 1160,
+          "endMs": 1831,
+          "timestampMs": 1496,
+          "confidence": null
+        },
+        {
+          "text": " biasa",
+          "startMs": 1831,
+          "endMs": 2317,
+          "timestampMs": 2074,
+          "confidence": null
+        },
+        {
+          "text": " aja",
+          "startMs": 2317,
+          "endMs": 2838,
+          "timestampMs": 2578,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 3610,
+          "endMs": 4015,
+          "timestampMs": 3813,
+          "confidence": null
+        },
+        {
+          "text": " begitu",
+          "startMs": 4015,
+          "endMs": 4478,
+          "timestampMs": 4247,
+          "confidence": null
+        },
+        {
+          "text": " sampai",
+          "startMs": 4478,
+          "endMs": 4778,
+          "timestampMs": 4628,
+          "confidence": null
+        },
+        {
+          "text": " kamar",
+          "startMs": 4779,
+          "endMs": 5149,
+          "timestampMs": 4964,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 5149,
+          "endMs": 5357,
+          "timestampMs": 5253,
+          "confidence": null
+        },
+        {
+          "text": " lampu",
+          "startMs": 5357,
+          "endMs": 5670,
+          "timestampMs": 5514,
+          "confidence": null
+        },
+        {
+          "text": " dimatiin",
+          "startMs": 5670,
+          "endMs": 6376,
+          "timestampMs": 6023,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 6688,
+          "endMs": 7047,
+          "timestampMs": 6868,
+          "confidence": null
+        },
+        {
+          "text": " kalimat",
+          "startMs": 7047,
+          "endMs": 7452,
+          "timestampMs": 7250,
+          "confidence": null
+        },
+        {
+          "text": " salah",
+          "startMs": 7452,
+          "endMs": 7741,
+          "timestampMs": 7597,
+          "confidence": null
+        },
+        {
+          "text": " ucap",
+          "startMs": 7742,
+          "endMs": 8112,
+          "timestampMs": 7927,
+          "confidence": null
+        },
+        {
+          "text": " langsung",
+          "startMs": 8112,
+          "endMs": 8528,
+          "timestampMs": 8320,
+          "confidence": null
+        },
+        {
+          "text": " keputar",
+          "startMs": 8529,
+          "endMs": 8934,
+          "timestampMs": 8732,
+          "confidence": null
+        },
+        {
+          "text": " ulang",
+          "startMs": 8934,
+          "endMs": 9316,
+          "timestampMs": 9125,
+          "confidence": null
+        },
+        {
+          "text": " kayak",
+          "startMs": 9316,
+          "endMs": 9663,
+          "timestampMs": 9490,
+          "confidence": null
+        },
+        {
+          "text": " kaset",
+          "startMs": 9663,
+          "endMs": 10022,
+          "timestampMs": 9843,
+          "confidence": null
+        },
+        {
+          "text": " rusak",
+          "startMs": 10022,
+          "endMs": 10415,
+          "timestampMs": 10219,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "duration": 11.15,
+      "theme": "world",
+      "nicheTag": "BEDAH POLA",
+      "narration": "Padahal obrolannya cuma lewat beberapa detik, kok malunya bisa awet sampai besok? Kenapa otak kita suka gitu ya? Yuk sini kita bedah polanya.",
+      "diagram": {
+        "type": "overthinking-bridge-kafe"
+      },
+      "audio": "audio/overthinking-habis-ngobrol-story-v1/scene2.mp3",
+      "captions": [
+        {
+          "text": "Padahal",
+          "startMs": 60,
+          "endMs": 639
+        },
+        {
+          "text": "obrolannya",
+          "startMs": 639,
+          "endMs": 1264
+        },
+        {
+          "text": "cuma",
+          "startMs": 1264,
+          "endMs": 1646
+        },
+        {
+          "text": "lewat",
+          "startMs": 1646,
+          "endMs": 1947
+        },
+        {
+          "text": "beberapa",
+          "startMs": 1947,
+          "endMs": 2306
+        },
+        {
+          "text": "detik",
+          "startMs": 2306,
+          "endMs": 2757
+        },
+        {
+          "text": "kok",
+          "startMs": 3070,
+          "endMs": 3243
+        },
+        {
+          "text": "malunya",
+          "startMs": 3243,
+          "endMs": 3660
+        },
+        {
+          "text": "bisa",
+          "startMs": 3660,
+          "endMs": 3938
+        },
+        {
+          "text": "awet",
+          "startMs": 3938,
+          "endMs": 4262
+        },
+        {
+          "text": "sampai",
+          "startMs": 4262,
+          "endMs": 4563
+        },
+        {
+          "text": "besok",
+          "startMs": 4563,
+          "endMs": 4991
+        },
+        {
+          "text": "Kenapa",
+          "startMs": 5765,
+          "endMs": 6344
+        },
+        {
+          "text": "otak",
+          "startMs": 6344,
+          "endMs": 6657
+        },
+        {
+          "text": "kita",
+          "startMs": 6657,
+          "endMs": 6957
+        },
+        {
+          "text": "suka",
+          "startMs": 6957,
+          "endMs": 7270
+        },
+        {
+          "text": "gitu",
+          "startMs": 7270,
+          "endMs": 7594
+        },
+        {
+          "text": "ya",
+          "startMs": 7594,
+          "endMs": 7941
+        },
+        {
+          "text": "Yuk",
+          "startMs": 8717,
+          "endMs": 8960
+        },
+        {
+          "text": "sini",
+          "startMs": 8960,
+          "endMs": 9319
+        },
+        {
+          "text": "kita",
+          "startMs": 9319,
+          "endMs": 9689
+        },
+        {
+          "text": "bedah",
+          "startMs": 9689,
+          "endMs": 9990
+        },
+        {
+          "text": "polanya",
+          "startMs": 9990,
+          "endMs": 10638
+        }
+      ],
+      "words": [
+        {
+          "text": " Padahal",
+          "startMs": 60,
+          "endMs": 639,
+          "timestampMs": 350,
+          "confidence": null
+        },
+        {
+          "text": " obrolannya",
+          "startMs": 639,
+          "endMs": 1264,
+          "timestampMs": 952,
+          "confidence": null
+        },
+        {
+          "text": " cuma",
+          "startMs": 1264,
+          "endMs": 1646,
+          "timestampMs": 1455,
+          "confidence": null
+        },
+        {
+          "text": " lewat",
+          "startMs": 1646,
+          "endMs": 1947,
+          "timestampMs": 1797,
+          "confidence": null
+        },
+        {
+          "text": " beberapa",
+          "startMs": 1947,
+          "endMs": 2306,
+          "timestampMs": 2127,
+          "confidence": null
+        },
+        {
+          "text": " detik",
+          "startMs": 2306,
+          "endMs": 2757,
+          "timestampMs": 2532,
+          "confidence": null
+        },
+        {
+          "text": " kok",
+          "startMs": 3070,
+          "endMs": 3243,
+          "timestampMs": 3157,
+          "confidence": null
+        },
+        {
+          "text": " malunya",
+          "startMs": 3243,
+          "endMs": 3660,
+          "timestampMs": 3452,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 3660,
+          "endMs": 3938,
+          "timestampMs": 3799,
+          "confidence": null
+        },
+        {
+          "text": " awet",
+          "startMs": 3938,
+          "endMs": 4262,
+          "timestampMs": 4100,
+          "confidence": null
+        },
+        {
+          "text": " sampai",
+          "startMs": 4262,
+          "endMs": 4563,
+          "timestampMs": 4413,
+          "confidence": null
+        },
+        {
+          "text": " besok",
+          "startMs": 4563,
+          "endMs": 4991,
+          "timestampMs": 4777,
+          "confidence": null
+        },
+        {
+          "text": " Kenapa",
+          "startMs": 5765,
+          "endMs": 6344,
+          "timestampMs": 6055,
+          "confidence": null
+        },
+        {
+          "text": " otak",
+          "startMs": 6344,
+          "endMs": 6657,
+          "timestampMs": 6501,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 6657,
+          "endMs": 6957,
+          "timestampMs": 6807,
+          "confidence": null
+        },
+        {
+          "text": " suka",
+          "startMs": 6957,
+          "endMs": 7270,
+          "timestampMs": 7114,
+          "confidence": null
+        },
+        {
+          "text": " gitu",
+          "startMs": 7270,
+          "endMs": 7594,
+          "timestampMs": 7432,
+          "confidence": null
+        },
+        {
+          "text": " ya",
+          "startMs": 7594,
+          "endMs": 7941,
+          "timestampMs": 7768,
+          "confidence": null
+        },
+        {
+          "text": " Yuk",
+          "startMs": 8717,
+          "endMs": 8960,
+          "timestampMs": 8839,
+          "confidence": null
+        },
+        {
+          "text": " sini",
+          "startMs": 8960,
+          "endMs": 9319,
+          "timestampMs": 9140,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 9319,
+          "endMs": 9689,
+          "timestampMs": 9504,
+          "confidence": null
+        },
+        {
+          "text": " bedah",
+          "startMs": 9689,
+          "endMs": 9990,
+          "timestampMs": 9840,
+          "confidence": null
+        },
+        {
+          "text": " polanya",
+          "startMs": 9990,
+          "endMs": 10638,
+          "timestampMs": 10314,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "duration": 11.15,
+      "theme": "world",
+      "nicheTag": "SPOTLIGHT EFFECT",
+      "narration": "Di psikologi ada namanya Spotlight Effect. Kita ngerasa kayak lagi berdiri di bawah lampu sorot panggung, padahal orang lain sibuk mikirin kesalahan mereka sendiri.",
+      "diagram": {
+        "type": "overthinking-spotlight-effect"
+      },
+      "audio": "audio/overthinking-habis-ngobrol-story-v1/scene3.mp3",
+      "captions": [
+        {
+          "text": "Di",
+          "startMs": 60,
+          "endMs": 257
+        },
+        {
+          "text": "psikologi",
+          "startMs": 257,
+          "endMs": 905
+        },
+        {
+          "text": "ada",
+          "startMs": 905,
+          "endMs": 1217
+        },
+        {
+          "text": "namanya",
+          "startMs": 1217,
+          "endMs": 1646
+        },
+        {
+          "text": "Spotlight",
+          "startMs": 1646,
+          "endMs": 2282
+        },
+        {
+          "text": "Effect",
+          "startMs": 2282,
+          "endMs": 2815
+        },
+        {
+          "text": "Kita",
+          "startMs": 3586,
+          "endMs": 3934
+        },
+        {
+          "text": "ngerasa",
+          "startMs": 3934,
+          "endMs": 4350
+        },
+        {
+          "text": "kayak",
+          "startMs": 4350,
+          "endMs": 4663
+        },
+        {
+          "text": "lagi",
+          "startMs": 4663,
+          "endMs": 4929
+        },
+        {
+          "text": "berdiri",
+          "startMs": 4929,
+          "endMs": 5404
+        },
+        {
+          "text": "di",
+          "startMs": 5404,
+          "endMs": 5508
+        },
+        {
+          "text": "bawah",
+          "startMs": 5508,
+          "endMs": 5809
+        },
+        {
+          "text": "lampu",
+          "startMs": 5809,
+          "endMs": 6110
+        },
+        {
+          "text": "sorot",
+          "startMs": 6110,
+          "endMs": 6399
+        },
+        {
+          "text": "panggung",
+          "startMs": 6399,
+          "endMs": 7001
+        },
+        {
+          "text": "padahal",
+          "startMs": 7302,
+          "endMs": 7799
+        },
+        {
+          "text": "orang",
+          "startMs": 7799,
+          "endMs": 8089
+        },
+        {
+          "text": "lain",
+          "startMs": 8089,
+          "endMs": 8355
+        },
+        {
+          "text": "sibuk",
+          "startMs": 8355,
+          "endMs": 8725
+        },
+        {
+          "text": "mikirin",
+          "startMs": 8725,
+          "endMs": 9188
+        },
+        {
+          "text": "kesalahan",
+          "startMs": 9188,
+          "endMs": 9709
+        },
+        {
+          "text": "mereka",
+          "startMs": 9709,
+          "endMs": 10079
+        },
+        {
+          "text": "sendiri",
+          "startMs": 10079,
+          "endMs": 10716
+        }
+      ],
+      "words": [
+        {
+          "text": " Di",
+          "startMs": 60,
+          "endMs": 257,
+          "timestampMs": 159,
+          "confidence": null
+        },
+        {
+          "text": " psikologi",
+          "startMs": 257,
+          "endMs": 905,
+          "timestampMs": 581,
+          "confidence": null
+        },
+        {
+          "text": " ada",
+          "startMs": 905,
+          "endMs": 1217,
+          "timestampMs": 1061,
+          "confidence": null
+        },
+        {
+          "text": " namanya",
+          "startMs": 1217,
+          "endMs": 1646,
+          "timestampMs": 1432,
+          "confidence": null
+        },
+        {
+          "text": " Spotlight",
+          "startMs": 1646,
+          "endMs": 2282,
+          "timestampMs": 1964,
+          "confidence": null
+        },
+        {
+          "text": " Effect",
+          "startMs": 2282,
+          "endMs": 2815,
+          "timestampMs": 2549,
+          "confidence": null
+        },
+        {
+          "text": " Kita",
+          "startMs": 3586,
+          "endMs": 3934,
+          "timestampMs": 3760,
+          "confidence": null
+        },
+        {
+          "text": " ngerasa",
+          "startMs": 3934,
+          "endMs": 4350,
+          "timestampMs": 4142,
+          "confidence": null
+        },
+        {
+          "text": " kayak",
+          "startMs": 4350,
+          "endMs": 4663,
+          "timestampMs": 4507,
+          "confidence": null
+        },
+        {
+          "text": " lagi",
+          "startMs": 4663,
+          "endMs": 4929,
+          "timestampMs": 4796,
+          "confidence": null
+        },
+        {
+          "text": " berdiri",
+          "startMs": 4929,
+          "endMs": 5404,
+          "timestampMs": 5167,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 5404,
+          "endMs": 5508,
+          "timestampMs": 5456,
+          "confidence": null
+        },
+        {
+          "text": " bawah",
+          "startMs": 5508,
+          "endMs": 5809,
+          "timestampMs": 5659,
+          "confidence": null
+        },
+        {
+          "text": " lampu",
+          "startMs": 5809,
+          "endMs": 6110,
+          "timestampMs": 5960,
+          "confidence": null
+        },
+        {
+          "text": " sorot",
+          "startMs": 6110,
+          "endMs": 6399,
+          "timestampMs": 6255,
+          "confidence": null
+        },
+        {
+          "text": " panggung",
+          "startMs": 6399,
+          "endMs": 7001,
+          "timestampMs": 6700,
+          "confidence": null
+        },
+        {
+          "text": " padahal",
+          "startMs": 7302,
+          "endMs": 7799,
+          "timestampMs": 7551,
+          "confidence": null
+        },
+        {
+          "text": " orang",
+          "startMs": 7799,
+          "endMs": 8089,
+          "timestampMs": 7944,
+          "confidence": null
+        },
+        {
+          "text": " lain",
+          "startMs": 8089,
+          "endMs": 8355,
+          "timestampMs": 8222,
+          "confidence": null
+        },
+        {
+          "text": " sibuk",
+          "startMs": 8355,
+          "endMs": 8725,
+          "timestampMs": 8540,
+          "confidence": null
+        },
+        {
+          "text": " mikirin",
+          "startMs": 8725,
+          "endMs": 9188,
+          "timestampMs": 8957,
+          "confidence": null
+        },
+        {
+          "text": " kesalahan",
+          "startMs": 9188,
+          "endMs": 9709,
+          "timestampMs": 9449,
+          "confidence": null
+        },
+        {
+          "text": " mereka",
+          "startMs": 9709,
+          "endMs": 10079,
+          "timestampMs": 9894,
+          "confidence": null
+        },
+        {
+          "text": " sendiri",
+          "startMs": 10079,
+          "endMs": 10716,
+          "timestampMs": 10398,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "duration": 10.35,
+      "theme": "world",
+      "nicheTag": "JEBAKAN REPLAY",
+      "narration": "Makin sering adegan itu kita putar ulang di kepala, otak makin nganggep itu bahaya besar—ujungnya energi habis dan besoknya jadi makin ragu buat ngobrol.",
+      "diagram": {
+        "type": "overthinking-replay-jebakan"
+      },
+      "audio": "audio/overthinking-habis-ngobrol-story-v1/scene4.mp3",
+      "captions": [
+        {
+          "text": "Makin",
+          "startMs": 60,
+          "endMs": 511
+        },
+        {
+          "text": "sering",
+          "startMs": 511,
+          "endMs": 778
+        },
+        {
+          "text": "adegan",
+          "startMs": 778,
+          "endMs": 1160
+        },
+        {
+          "text": "itu",
+          "startMs": 1160,
+          "endMs": 1518
+        },
+        {
+          "text": "kita",
+          "startMs": 1518,
+          "endMs": 1785
+        },
+        {
+          "text": "putar",
+          "startMs": 1785,
+          "endMs": 2097
+        },
+        {
+          "text": "ulang",
+          "startMs": 2097,
+          "endMs": 2433
+        },
+        {
+          "text": "di",
+          "startMs": 2433,
+          "endMs": 2514
+        },
+        {
+          "text": "kepala",
+          "startMs": 2514,
+          "endMs": 3116
+        },
+        {
+          "text": "otak",
+          "startMs": 3417,
+          "endMs": 3706
+        },
+        {
+          "text": "makin",
+          "startMs": 3706,
+          "endMs": 4030
+        },
+        {
+          "text": "nganggep",
+          "startMs": 4030,
+          "endMs": 4331
+        },
+        {
+          "text": "itu",
+          "startMs": 4331,
+          "endMs": 4643
+        },
+        {
+          "text": "bahaya",
+          "startMs": 4643,
+          "endMs": 5025
+        },
+        {
+          "text": "besar",
+          "startMs": 5025,
+          "endMs": 5511
+        },
+        {
+          "text": "ujungnya",
+          "startMs": 5824,
+          "endMs": 6275
+        },
+        {
+          "text": "energi",
+          "startMs": 6275,
+          "endMs": 6692
+        },
+        {
+          "text": "habis",
+          "startMs": 6692,
+          "endMs": 7201
+        },
+        {
+          "text": "dan",
+          "startMs": 7201,
+          "endMs": 7375
+        },
+        {
+          "text": "besoknya",
+          "startMs": 7375,
+          "endMs": 7942
+        },
+        {
+          "text": "jadi",
+          "startMs": 7942,
+          "endMs": 8208
+        },
+        {
+          "text": "makin",
+          "startMs": 8208,
+          "endMs": 8590
+        },
+        {
+          "text": "ragu",
+          "startMs": 8590,
+          "endMs": 8984
+        },
+        {
+          "text": "buat",
+          "startMs": 8984,
+          "endMs": 9273
+        },
+        {
+          "text": "ngobrol",
+          "startMs": 9273,
+          "endMs": 9840
+        }
+      ],
+      "words": [
+        {
+          "text": " Makin",
+          "startMs": 60,
+          "endMs": 511,
+          "timestampMs": 286,
+          "confidence": null
+        },
+        {
+          "text": " sering",
+          "startMs": 511,
+          "endMs": 778,
+          "timestampMs": 645,
+          "confidence": null
+        },
+        {
+          "text": " adegan",
+          "startMs": 778,
+          "endMs": 1160,
+          "timestampMs": 969,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 1160,
+          "endMs": 1518,
+          "timestampMs": 1339,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 1518,
+          "endMs": 1785,
+          "timestampMs": 1652,
+          "confidence": null
+        },
+        {
+          "text": " putar",
+          "startMs": 1785,
+          "endMs": 2097,
+          "timestampMs": 1941,
+          "confidence": null
+        },
+        {
+          "text": " ulang",
+          "startMs": 2097,
+          "endMs": 2433,
+          "timestampMs": 2265,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 2433,
+          "endMs": 2514,
+          "timestampMs": 2474,
+          "confidence": null
+        },
+        {
+          "text": " kepala",
+          "startMs": 2514,
+          "endMs": 3116,
+          "timestampMs": 2815,
+          "confidence": null
+        },
+        {
+          "text": " otak",
+          "startMs": 3417,
+          "endMs": 3706,
+          "timestampMs": 3562,
+          "confidence": null
+        },
+        {
+          "text": " makin",
+          "startMs": 3706,
+          "endMs": 4030,
+          "timestampMs": 3868,
+          "confidence": null
+        },
+        {
+          "text": " nganggep",
+          "startMs": 4030,
+          "endMs": 4331,
+          "timestampMs": 4181,
+          "confidence": null
+        },
+        {
+          "text": " itu",
+          "startMs": 4331,
+          "endMs": 4643,
+          "timestampMs": 4487,
+          "confidence": null
+        },
+        {
+          "text": " bahaya",
+          "startMs": 4643,
+          "endMs": 5025,
+          "timestampMs": 4834,
+          "confidence": null
+        },
+        {
+          "text": " besar",
+          "startMs": 5025,
+          "endMs": 5511,
+          "timestampMs": 5268,
+          "confidence": null
+        },
+        {
+          "text": " ujungnya",
+          "startMs": 5824,
+          "endMs": 6275,
+          "timestampMs": 6050,
+          "confidence": null
+        },
+        {
+          "text": " energi",
+          "startMs": 6275,
+          "endMs": 6692,
+          "timestampMs": 6484,
+          "confidence": null
+        },
+        {
+          "text": " habis",
+          "startMs": 6692,
+          "endMs": 7201,
+          "timestampMs": 6947,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 7201,
+          "endMs": 7375,
+          "timestampMs": 7288,
+          "confidence": null
+        },
+        {
+          "text": " besoknya",
+          "startMs": 7375,
+          "endMs": 7942,
+          "timestampMs": 7659,
+          "confidence": null
+        },
+        {
+          "text": " jadi",
+          "startMs": 7942,
+          "endMs": 8208,
+          "timestampMs": 8075,
+          "confidence": null
+        },
+        {
+          "text": " makin",
+          "startMs": 8208,
+          "endMs": 8590,
+          "timestampMs": 8399,
+          "confidence": null
+        },
+        {
+          "text": " ragu",
+          "startMs": 8590,
+          "endMs": 8984,
+          "timestampMs": 8787,
+          "confidence": null
+        },
+        {
+          "text": " buat",
+          "startMs": 8984,
+          "endMs": 9273,
+          "timestampMs": 9129,
+          "confidence": null
+        },
+        {
+          "text": " ngobrol",
+          "startMs": 9273,
+          "endMs": 9840,
+          "timestampMs": 9557,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "duration": 12.75,
+      "theme": "world",
+      "nicheTag": "REFLEKSI RINGAN",
+      "narration": "Coba tanya balik ke diri sendiri: kamu ingat nggak kesalahan kecil temanmu minggu lalu? Nggak, kan? Kalau kamu, momen canggung apa yang paling sering kepikiran lagi?",
+      "diagram": {
+        "type": "overthinking-langkah-lega"
+      },
+      "audio": "audio/overthinking-habis-ngobrol-story-v1/scene5.mp3",
+      "captions": [
+        {
+          "text": "Coba",
+          "startMs": 60,
+          "endMs": 430
+        },
+        {
+          "text": "tanya",
+          "startMs": 430,
+          "endMs": 778
+        },
+        {
+          "text": "balik",
+          "startMs": 778,
+          "endMs": 1125
+        },
+        {
+          "text": "ke",
+          "startMs": 1125,
+          "endMs": 1229
+        },
+        {
+          "text": "diri",
+          "startMs": 1229,
+          "endMs": 1495
+        },
+        {
+          "text": "sendiri",
+          "startMs": 1495,
+          "endMs": 2132
+        },
+        {
+          "text": "kamu",
+          "startMs": 2514,
+          "endMs": 2826
+        },
+        {
+          "text": "ingat",
+          "startMs": 2826,
+          "endMs": 3197
+        },
+        {
+          "text": "nggak",
+          "startMs": 3197,
+          "endMs": 3393
+        },
+        {
+          "text": "kesalahan",
+          "startMs": 3393,
+          "endMs": 3879
+        },
+        {
+          "text": "kecil",
+          "startMs": 3879,
+          "endMs": 4238
+        },
+        {
+          "text": "temanmu",
+          "startMs": 4238,
+          "endMs": 4690
+        },
+        {
+          "text": "minggu",
+          "startMs": 4690,
+          "endMs": 4967
+        },
+        {
+          "text": "lalu",
+          "startMs": 4967,
+          "endMs": 5419
+        },
+        {
+          "text": "Nggak",
+          "startMs": 6191,
+          "endMs": 6549
+        },
+        {
+          "text": "kan",
+          "startMs": 6816,
+          "endMs": 7313
+        },
+        {
+          "text": "Kalau",
+          "startMs": 8089,
+          "endMs": 8413
+        },
+        {
+          "text": "kamu",
+          "startMs": 8413,
+          "endMs": 8957
+        },
+        {
+          "text": "momen",
+          "startMs": 9373,
+          "endMs": 9721
+        },
+        {
+          "text": "canggung",
+          "startMs": 9721,
+          "endMs": 10091
+        },
+        {
+          "text": "apa",
+          "startMs": 10091,
+          "endMs": 10496
+        },
+        {
+          "text": "yang",
+          "startMs": 10496,
+          "endMs": 10681
+        },
+        {
+          "text": "paling",
+          "startMs": 10681,
+          "endMs": 11005
+        },
+        {
+          "text": "sering",
+          "startMs": 11005,
+          "endMs": 11306
+        },
+        {
+          "text": "kepikiran",
+          "startMs": 11306,
+          "endMs": 11804
+        },
+        {
+          "text": "lagi",
+          "startMs": 11804,
+          "endMs": 12255
+        }
+      ],
+      "words": [
+        {
+          "text": " Coba",
+          "startMs": 60,
+          "endMs": 430,
+          "timestampMs": 245,
+          "confidence": null
+        },
+        {
+          "text": " tanya",
+          "startMs": 430,
+          "endMs": 778,
+          "timestampMs": 604,
+          "confidence": null
+        },
+        {
+          "text": " balik",
+          "startMs": 778,
+          "endMs": 1125,
+          "timestampMs": 952,
+          "confidence": null
+        },
+        {
+          "text": " ke",
+          "startMs": 1125,
+          "endMs": 1229,
+          "timestampMs": 1177,
+          "confidence": null
+        },
+        {
+          "text": " diri",
+          "startMs": 1229,
+          "endMs": 1495,
+          "timestampMs": 1362,
+          "confidence": null
+        },
+        {
+          "text": " sendiri",
+          "startMs": 1495,
+          "endMs": 2132,
+          "timestampMs": 1814,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 2514,
+          "endMs": 2826,
+          "timestampMs": 2670,
+          "confidence": null
+        },
+        {
+          "text": " ingat",
+          "startMs": 2826,
+          "endMs": 3197,
+          "timestampMs": 3012,
+          "confidence": null
+        },
+        {
+          "text": " nggak",
+          "startMs": 3197,
+          "endMs": 3393,
+          "timestampMs": 3295,
+          "confidence": null
+        },
+        {
+          "text": " kesalahan",
+          "startMs": 3393,
+          "endMs": 3879,
+          "timestampMs": 3636,
+          "confidence": null
+        },
+        {
+          "text": " kecil",
+          "startMs": 3879,
+          "endMs": 4238,
+          "timestampMs": 4059,
+          "confidence": null
+        },
+        {
+          "text": " temanmu",
+          "startMs": 4238,
+          "endMs": 4690,
+          "timestampMs": 4464,
+          "confidence": null
+        },
+        {
+          "text": " minggu",
+          "startMs": 4690,
+          "endMs": 4967,
+          "timestampMs": 4829,
+          "confidence": null
+        },
+        {
+          "text": " lalu",
+          "startMs": 4967,
+          "endMs": 5419,
+          "timestampMs": 5193,
+          "confidence": null
+        },
+        {
+          "text": " Nggak",
+          "startMs": 6191,
+          "endMs": 6549,
+          "timestampMs": 6370,
+          "confidence": null
+        },
+        {
+          "text": " kan",
+          "startMs": 6816,
+          "endMs": 7313,
+          "timestampMs": 7065,
+          "confidence": null
+        },
+        {
+          "text": " Kalau",
+          "startMs": 8089,
+          "endMs": 8413,
+          "timestampMs": 8251,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 8413,
+          "endMs": 8957,
+          "timestampMs": 8685,
+          "confidence": null
+        },
+        {
+          "text": " momen",
+          "startMs": 9373,
+          "endMs": 9721,
+          "timestampMs": 9547,
+          "confidence": null
+        },
+        {
+          "text": " canggung",
+          "startMs": 9721,
+          "endMs": 10091,
+          "timestampMs": 9906,
+          "confidence": null
+        },
+        {
+          "text": " apa",
+          "startMs": 10091,
+          "endMs": 10496,
+          "timestampMs": 10294,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 10496,
+          "endMs": 10681,
+          "timestampMs": 10589,
+          "confidence": null
+        },
+        {
+          "text": " paling",
+          "startMs": 10681,
+          "endMs": 11005,
+          "timestampMs": 10843,
+          "confidence": null
+        },
+        {
+          "text": " sering",
+          "startMs": 11005,
+          "endMs": 11306,
+          "timestampMs": 11156,
+          "confidence": null
+        },
+        {
+          "text": " kepikiran",
+          "startMs": 11306,
+          "endMs": 11804,
+          "timestampMs": 11555,
+          "confidence": null
+        },
+        {
+          "text": " lagi",
+          "startMs": 11804,
+          "endMs": 12255,
+          "timestampMs": 12030,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1291 @@
+{
+  "title": "Tidur Delapan Jam di Kasur, Tapi Pagi Hari Tetap Berasa Remuk",
+  "channel": "@adi.salafudin",
+  "niche": "KESEHATAN & KEBIASAAN TIDUR",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "showGrid": false,
+  "showWatermark": false,
+  "totalEstimatedDurationSec": 42,
+  "bgm": "audio/bgm/ambient-mystery.mp3",
+  "bgmVolume": 0.11,
+  "voicePreset": "gadis-natural",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "duration": 9.55,
+      "theme": "world",
+      "nicheTag": "HOOK PAGI",
+      "narration": "Di catatan jam tidur kelihatan delapan jam penuh. Tapi pas alarm bunyi pagi-pagi, kepala masih berat kayak kurang tidur semalaman.",
+      "diagram": {
+        "type": "tidur-hook-pagi"
+      },
+      "audio": "audio/tidur-delapan-jam-tapi-masih-capek-story-v1/scene1.mp3",
+      "captions": [
+        {
+          "text": "Di",
+          "startMs": 60,
+          "endMs": 234
+        },
+        {
+          "text": "catatan",
+          "startMs": 234,
+          "endMs": 743
+        },
+        {
+          "text": "jam",
+          "startMs": 743,
+          "endMs": 974
+        },
+        {
+          "text": "tidur",
+          "startMs": 974,
+          "endMs": 1356
+        },
+        {
+          "text": "kelihatan",
+          "startMs": 1356,
+          "endMs": 1923
+        },
+        {
+          "text": "delapan",
+          "startMs": 1923,
+          "endMs": 2444
+        },
+        {
+          "text": "jam",
+          "startMs": 2444,
+          "endMs": 2687
+        },
+        {
+          "text": "penuh",
+          "startMs": 2687,
+          "endMs": 3185
+        },
+        {
+          "text": "Tapi",
+          "startMs": 3957,
+          "endMs": 4327
+        },
+        {
+          "text": "pas",
+          "startMs": 4327,
+          "endMs": 4593
+        },
+        {
+          "text": "alarm",
+          "startMs": 4593,
+          "endMs": 4975
+        },
+        {
+          "text": "bunyi",
+          "startMs": 4975,
+          "endMs": 5265
+        },
+        {
+          "text": "pagi-pagi",
+          "startMs": 5265,
+          "endMs": 6063
+        },
+        {
+          "text": "kepala",
+          "startMs": 6399,
+          "endMs": 6758
+        },
+        {
+          "text": "masih",
+          "startMs": 6758,
+          "endMs": 7059
+        },
+        {
+          "text": "berat",
+          "startMs": 7059,
+          "endMs": 7279
+        },
+        {
+          "text": "kayak",
+          "startMs": 7279,
+          "endMs": 7603
+        },
+        {
+          "text": "kurang",
+          "startMs": 7603,
+          "endMs": 7915
+        },
+        {
+          "text": "tidur",
+          "startMs": 7915,
+          "endMs": 8274
+        },
+        {
+          "text": "semalaman",
+          "startMs": 8274,
+          "endMs": 9038
+        }
+      ],
+      "words": [
+        {
+          "text": " Di",
+          "startMs": 60,
+          "endMs": 234,
+          "timestampMs": 147,
+          "confidence": null
+        },
+        {
+          "text": " catatan",
+          "startMs": 234,
+          "endMs": 743,
+          "timestampMs": 489,
+          "confidence": null
+        },
+        {
+          "text": " jam",
+          "startMs": 743,
+          "endMs": 974,
+          "timestampMs": 859,
+          "confidence": null
+        },
+        {
+          "text": " tidur",
+          "startMs": 974,
+          "endMs": 1356,
+          "timestampMs": 1165,
+          "confidence": null
+        },
+        {
+          "text": " kelihatan",
+          "startMs": 1356,
+          "endMs": 1923,
+          "timestampMs": 1640,
+          "confidence": null
+        },
+        {
+          "text": " delapan",
+          "startMs": 1923,
+          "endMs": 2444,
+          "timestampMs": 2184,
+          "confidence": null
+        },
+        {
+          "text": " jam",
+          "startMs": 2444,
+          "endMs": 2687,
+          "timestampMs": 2566,
+          "confidence": null
+        },
+        {
+          "text": " penuh",
+          "startMs": 2687,
+          "endMs": 3185,
+          "timestampMs": 2936,
+          "confidence": null
+        },
+        {
+          "text": " Tapi",
+          "startMs": 3957,
+          "endMs": 4327,
+          "timestampMs": 4142,
+          "confidence": null
+        },
+        {
+          "text": " pas",
+          "startMs": 4327,
+          "endMs": 4593,
+          "timestampMs": 4460,
+          "confidence": null
+        },
+        {
+          "text": " alarm",
+          "startMs": 4593,
+          "endMs": 4975,
+          "timestampMs": 4784,
+          "confidence": null
+        },
+        {
+          "text": " bunyi",
+          "startMs": 4975,
+          "endMs": 5265,
+          "timestampMs": 5120,
+          "confidence": null
+        },
+        {
+          "text": " pagi-pagi",
+          "startMs": 5265,
+          "endMs": 6063,
+          "timestampMs": 5664,
+          "confidence": null
+        },
+        {
+          "text": " kepala",
+          "startMs": 6399,
+          "endMs": 6758,
+          "timestampMs": 6579,
+          "confidence": null
+        },
+        {
+          "text": " masih",
+          "startMs": 6758,
+          "endMs": 7059,
+          "timestampMs": 6909,
+          "confidence": null
+        },
+        {
+          "text": " berat",
+          "startMs": 7059,
+          "endMs": 7279,
+          "timestampMs": 7169,
+          "confidence": null
+        },
+        {
+          "text": " kayak",
+          "startMs": 7279,
+          "endMs": 7603,
+          "timestampMs": 7441,
+          "confidence": null
+        },
+        {
+          "text": " kurang",
+          "startMs": 7603,
+          "endMs": 7915,
+          "timestampMs": 7759,
+          "confidence": null
+        },
+        {
+          "text": " tidur",
+          "startMs": 7915,
+          "endMs": 8274,
+          "timestampMs": 8095,
+          "confidence": null
+        },
+        {
+          "text": " semalaman",
+          "startMs": 8274,
+          "endMs": 9038,
+          "timestampMs": 8656,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "duration": 9.55,
+      "theme": "world",
+      "nicheTag": "CEK POLANYA",
+      "narration": "Aneh ya, durasinya udah cukup, kok tenaganya nggak balik? Kenapa bisa gitu ya? Yuk sini kita cek polanya.",
+      "diagram": {
+        "type": "tidur-bridge-pola"
+      },
+      "audio": "audio/tidur-delapan-jam-tapi-masih-capek-story-v1/scene2.mp3",
+      "captions": [
+        {
+          "text": "Aneh",
+          "startMs": 60,
+          "endMs": 454
+        },
+        {
+          "text": "ya",
+          "startMs": 454,
+          "endMs": 801
+        },
+        {
+          "text": "durasinya",
+          "startMs": 1136,
+          "endMs": 1773
+        },
+        {
+          "text": "udah",
+          "startMs": 1773,
+          "endMs": 2074
+        },
+        {
+          "text": "cukup",
+          "startMs": 2074,
+          "endMs": 2572
+        },
+        {
+          "text": "kok",
+          "startMs": 2873,
+          "endMs": 3058
+        },
+        {
+          "text": "tenaganya",
+          "startMs": 3058,
+          "endMs": 3590
+        },
+        {
+          "text": "nggak",
+          "startMs": 3590,
+          "endMs": 3798
+        },
+        {
+          "text": "balik",
+          "startMs": 3798,
+          "endMs": 4169
+        },
+        {
+          "text": "Kenapa",
+          "startMs": 4941,
+          "endMs": 5427
+        },
+        {
+          "text": "bisa",
+          "startMs": 5427,
+          "endMs": 5728
+        },
+        {
+          "text": "gitu",
+          "startMs": 5728,
+          "endMs": 6086
+        },
+        {
+          "text": "ya",
+          "startMs": 6086,
+          "endMs": 6434
+        },
+        {
+          "text": "Yuk",
+          "startMs": 7209,
+          "endMs": 7452
+        },
+        {
+          "text": "sini",
+          "startMs": 7452,
+          "endMs": 7799
+        },
+        {
+          "text": "kita",
+          "startMs": 7799,
+          "endMs": 8112
+        },
+        {
+          "text": "cek",
+          "startMs": 8112,
+          "endMs": 8424
+        },
+        {
+          "text": "polanya",
+          "startMs": 8424,
+          "endMs": 9096
+        }
+      ],
+      "words": [
+        {
+          "text": " Aneh",
+          "startMs": 60,
+          "endMs": 454,
+          "timestampMs": 257,
+          "confidence": null
+        },
+        {
+          "text": " ya",
+          "startMs": 454,
+          "endMs": 801,
+          "timestampMs": 628,
+          "confidence": null
+        },
+        {
+          "text": " durasinya",
+          "startMs": 1136,
+          "endMs": 1773,
+          "timestampMs": 1455,
+          "confidence": null
+        },
+        {
+          "text": " udah",
+          "startMs": 1773,
+          "endMs": 2074,
+          "timestampMs": 1924,
+          "confidence": null
+        },
+        {
+          "text": " cukup",
+          "startMs": 2074,
+          "endMs": 2572,
+          "timestampMs": 2323,
+          "confidence": null
+        },
+        {
+          "text": " kok",
+          "startMs": 2873,
+          "endMs": 3058,
+          "timestampMs": 2966,
+          "confidence": null
+        },
+        {
+          "text": " tenaganya",
+          "startMs": 3058,
+          "endMs": 3590,
+          "timestampMs": 3324,
+          "confidence": null
+        },
+        {
+          "text": " nggak",
+          "startMs": 3590,
+          "endMs": 3798,
+          "timestampMs": 3694,
+          "confidence": null
+        },
+        {
+          "text": " balik",
+          "startMs": 3798,
+          "endMs": 4169,
+          "timestampMs": 3984,
+          "confidence": null
+        },
+        {
+          "text": " Kenapa",
+          "startMs": 4941,
+          "endMs": 5427,
+          "timestampMs": 5184,
+          "confidence": null
+        },
+        {
+          "text": " bisa",
+          "startMs": 5427,
+          "endMs": 5728,
+          "timestampMs": 5578,
+          "confidence": null
+        },
+        {
+          "text": " gitu",
+          "startMs": 5728,
+          "endMs": 6086,
+          "timestampMs": 5907,
+          "confidence": null
+        },
+        {
+          "text": " ya",
+          "startMs": 6086,
+          "endMs": 6434,
+          "timestampMs": 6260,
+          "confidence": null
+        },
+        {
+          "text": " Yuk",
+          "startMs": 7209,
+          "endMs": 7452,
+          "timestampMs": 7331,
+          "confidence": null
+        },
+        {
+          "text": " sini",
+          "startMs": 7452,
+          "endMs": 7799,
+          "timestampMs": 7626,
+          "confidence": null
+        },
+        {
+          "text": " kita",
+          "startMs": 7799,
+          "endMs": 8112,
+          "timestampMs": 7956,
+          "confidence": null
+        },
+        {
+          "text": " cek",
+          "startMs": 8112,
+          "endMs": 8424,
+          "timestampMs": 8268,
+          "confidence": null
+        },
+        {
+          "text": " polanya",
+          "startMs": 8424,
+          "endMs": 9096,
+          "timestampMs": 8760,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "duration": 8.45,
+      "theme": "world",
+      "nicheTag": "CELAH TIDUR",
+      "narration": "Seringnya bukan jam di kasurnya yang kurang, tapi satu jam sebelum beneran merem habis scroll layar, ditambah bangun yang kepotong-potong.",
+      "diagram": {
+        "type": "tidur-celah-layar"
+      },
+      "audio": "audio/tidur-delapan-jam-tapi-masih-capek-story-v1/scene3.mp3",
+      "captions": [
+        {
+          "text": "Seringnya",
+          "startMs": 60,
+          "endMs": 616
+        },
+        {
+          "text": "bukan",
+          "startMs": 616,
+          "endMs": 986
+        },
+        {
+          "text": "jam",
+          "startMs": 986,
+          "endMs": 1206
+        },
+        {
+          "text": "di",
+          "startMs": 1206,
+          "endMs": 1287
+        },
+        {
+          "text": "kasurnya",
+          "startMs": 1287,
+          "endMs": 1727
+        },
+        {
+          "text": "yang",
+          "startMs": 1727,
+          "endMs": 1889
+        },
+        {
+          "text": "kurang",
+          "startMs": 1889,
+          "endMs": 2386
+        },
+        {
+          "text": "tapi",
+          "startMs": 2710,
+          "endMs": 2988
+        },
+        {
+          "text": "satu",
+          "startMs": 2988,
+          "endMs": 3301
+        },
+        {
+          "text": "jam",
+          "startMs": 3301,
+          "endMs": 3567
+        },
+        {
+          "text": "sebelum",
+          "startMs": 3567,
+          "endMs": 3949
+        },
+        {
+          "text": "beneran",
+          "startMs": 3949,
+          "endMs": 4261
+        },
+        {
+          "text": "merem",
+          "startMs": 4261,
+          "endMs": 4516
+        },
+        {
+          "text": "habis",
+          "startMs": 4516,
+          "endMs": 4852
+        },
+        {
+          "text": "scroll",
+          "startMs": 4852,
+          "endMs": 5153
+        },
+        {
+          "text": "layar",
+          "startMs": 5153,
+          "endMs": 5627
+        },
+        {
+          "text": "ditambah",
+          "startMs": 5893,
+          "endMs": 6333
+        },
+        {
+          "text": "bangun",
+          "startMs": 6333,
+          "endMs": 6773
+        },
+        {
+          "text": "yang",
+          "startMs": 6773,
+          "endMs": 6958
+        },
+        {
+          "text": "kepotong-potong",
+          "startMs": 6958,
+          "endMs": 7930
+        }
+      ],
+      "words": [
+        {
+          "text": " Seringnya",
+          "startMs": 60,
+          "endMs": 616,
+          "timestampMs": 338,
+          "confidence": null
+        },
+        {
+          "text": " bukan",
+          "startMs": 616,
+          "endMs": 986,
+          "timestampMs": 801,
+          "confidence": null
+        },
+        {
+          "text": " jam",
+          "startMs": 986,
+          "endMs": 1206,
+          "timestampMs": 1096,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 1206,
+          "endMs": 1287,
+          "timestampMs": 1247,
+          "confidence": null
+        },
+        {
+          "text": " kasurnya",
+          "startMs": 1287,
+          "endMs": 1727,
+          "timestampMs": 1507,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 1727,
+          "endMs": 1889,
+          "timestampMs": 1808,
+          "confidence": null
+        },
+        {
+          "text": " kurang",
+          "startMs": 1889,
+          "endMs": 2386,
+          "timestampMs": 2138,
+          "confidence": null
+        },
+        {
+          "text": " tapi",
+          "startMs": 2710,
+          "endMs": 2988,
+          "timestampMs": 2849,
+          "confidence": null
+        },
+        {
+          "text": " satu",
+          "startMs": 2988,
+          "endMs": 3301,
+          "timestampMs": 3145,
+          "confidence": null
+        },
+        {
+          "text": " jam",
+          "startMs": 3301,
+          "endMs": 3567,
+          "timestampMs": 3434,
+          "confidence": null
+        },
+        {
+          "text": " sebelum",
+          "startMs": 3567,
+          "endMs": 3949,
+          "timestampMs": 3758,
+          "confidence": null
+        },
+        {
+          "text": " beneran",
+          "startMs": 3949,
+          "endMs": 4261,
+          "timestampMs": 4105,
+          "confidence": null
+        },
+        {
+          "text": " merem",
+          "startMs": 4261,
+          "endMs": 4516,
+          "timestampMs": 4389,
+          "confidence": null
+        },
+        {
+          "text": " habis",
+          "startMs": 4516,
+          "endMs": 4852,
+          "timestampMs": 4684,
+          "confidence": null
+        },
+        {
+          "text": " scroll",
+          "startMs": 4852,
+          "endMs": 5153,
+          "timestampMs": 5003,
+          "confidence": null
+        },
+        {
+          "text": " layar",
+          "startMs": 5153,
+          "endMs": 5627,
+          "timestampMs": 5390,
+          "confidence": null
+        },
+        {
+          "text": " ditambah",
+          "startMs": 5893,
+          "endMs": 6333,
+          "timestampMs": 6113,
+          "confidence": null
+        },
+        {
+          "text": " bangun",
+          "startMs": 6333,
+          "endMs": 6773,
+          "timestampMs": 6553,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 6773,
+          "endMs": 6958,
+          "timestampMs": 6866,
+          "confidence": null
+        },
+        {
+          "text": " kepotong-potong",
+          "startMs": 6958,
+          "endMs": 7930,
+          "timestampMs": 7444,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "duration": 8.15,
+      "theme": "world",
+      "nicheTag": "SIKLUS SIANG",
+      "narration": "Akibatnya fokus gampang buyar, kopi makin sering dicari, dan malam berikutnya keulang lagi muter di pola yang sama.",
+      "diagram": {
+        "type": "tidur-dampak-siang"
+      },
+      "audio": "audio/tidur-delapan-jam-tapi-masih-capek-story-v1/scene4.mp3",
+      "captions": [
+        {
+          "text": "Akibatnya",
+          "startMs": 60,
+          "endMs": 754
+        },
+        {
+          "text": "fokus",
+          "startMs": 754,
+          "endMs": 1241
+        },
+        {
+          "text": "gampang",
+          "startMs": 1241,
+          "endMs": 1669
+        },
+        {
+          "text": "buyar",
+          "startMs": 1669,
+          "endMs": 2143
+        },
+        {
+          "text": "kopi",
+          "startMs": 2456,
+          "endMs": 2710
+        },
+        {
+          "text": "makin",
+          "startMs": 2710,
+          "endMs": 3069
+        },
+        {
+          "text": "sering",
+          "startMs": 3069,
+          "endMs": 3359
+        },
+        {
+          "text": "dicari",
+          "startMs": 3359,
+          "endMs": 3984
+        },
+        {
+          "text": "dan",
+          "startMs": 4296,
+          "endMs": 4504
+        },
+        {
+          "text": "malam",
+          "startMs": 4504,
+          "endMs": 4840
+        },
+        {
+          "text": "berikutnya",
+          "startMs": 4840,
+          "endMs": 5315
+        },
+        {
+          "text": "keulang",
+          "startMs": 5315,
+          "endMs": 5743
+        },
+        {
+          "text": "lagi",
+          "startMs": 5743,
+          "endMs": 5986
+        },
+        {
+          "text": "muter",
+          "startMs": 5986,
+          "endMs": 6437
+        },
+        {
+          "text": "di",
+          "startMs": 6437,
+          "endMs": 6588
+        },
+        {
+          "text": "pola",
+          "startMs": 6588,
+          "endMs": 6912
+        },
+        {
+          "text": "yang",
+          "startMs": 6912,
+          "endMs": 7085
+        },
+        {
+          "text": "sama",
+          "startMs": 7085,
+          "endMs": 7629
+        }
+      ],
+      "words": [
+        {
+          "text": " Akibatnya",
+          "startMs": 60,
+          "endMs": 754,
+          "timestampMs": 407,
+          "confidence": null
+        },
+        {
+          "text": " fokus",
+          "startMs": 754,
+          "endMs": 1241,
+          "timestampMs": 998,
+          "confidence": null
+        },
+        {
+          "text": " gampang",
+          "startMs": 1241,
+          "endMs": 1669,
+          "timestampMs": 1455,
+          "confidence": null
+        },
+        {
+          "text": " buyar",
+          "startMs": 1669,
+          "endMs": 2143,
+          "timestampMs": 1906,
+          "confidence": null
+        },
+        {
+          "text": " kopi",
+          "startMs": 2456,
+          "endMs": 2710,
+          "timestampMs": 2583,
+          "confidence": null
+        },
+        {
+          "text": " makin",
+          "startMs": 2710,
+          "endMs": 3069,
+          "timestampMs": 2890,
+          "confidence": null
+        },
+        {
+          "text": " sering",
+          "startMs": 3069,
+          "endMs": 3359,
+          "timestampMs": 3214,
+          "confidence": null
+        },
+        {
+          "text": " dicari",
+          "startMs": 3359,
+          "endMs": 3984,
+          "timestampMs": 3672,
+          "confidence": null
+        },
+        {
+          "text": " dan",
+          "startMs": 4296,
+          "endMs": 4504,
+          "timestampMs": 4400,
+          "confidence": null
+        },
+        {
+          "text": " malam",
+          "startMs": 4504,
+          "endMs": 4840,
+          "timestampMs": 4672,
+          "confidence": null
+        },
+        {
+          "text": " berikutnya",
+          "startMs": 4840,
+          "endMs": 5315,
+          "timestampMs": 5078,
+          "confidence": null
+        },
+        {
+          "text": " keulang",
+          "startMs": 5315,
+          "endMs": 5743,
+          "timestampMs": 5529,
+          "confidence": null
+        },
+        {
+          "text": " lagi",
+          "startMs": 5743,
+          "endMs": 5986,
+          "timestampMs": 5865,
+          "confidence": null
+        },
+        {
+          "text": " muter",
+          "startMs": 5986,
+          "endMs": 6437,
+          "timestampMs": 6212,
+          "confidence": null
+        },
+        {
+          "text": " di",
+          "startMs": 6437,
+          "endMs": 6588,
+          "timestampMs": 6513,
+          "confidence": null
+        },
+        {
+          "text": " pola",
+          "startMs": 6588,
+          "endMs": 6912,
+          "timestampMs": 6750,
+          "confidence": null
+        },
+        {
+          "text": " yang",
+          "startMs": 6912,
+          "endMs": 7085,
+          "timestampMs": 6999,
+          "confidence": null
+        },
+        {
+          "text": " sama",
+          "startMs": 7085,
+          "endMs": 7629,
+          "timestampMs": 7357,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "duration": 11.45,
+      "theme": "world",
+      "nicheTag": "LANGKAH RINGAN",
+      "narration": "Nggak perlu ubah hidup drastis semalam. Cukup taruh HP agak jauh tiga puluh menit sebelum tidur. Kalau kamu, paling susah nahan scroll jam berapa?",
+      "diagram": {
+        "type": "tidur-langkah-ringan"
+      },
+      "audio": "audio/tidur-delapan-jam-tapi-masih-capek-story-v1/scene5.mp3",
+      "captions": [
+        {
+          "text": "Nggak",
+          "startMs": 60,
+          "endMs": 326
+        },
+        {
+          "text": "perlu",
+          "startMs": 326,
+          "endMs": 616
+        },
+        {
+          "text": "ubah",
+          "startMs": 616,
+          "endMs": 1009
+        },
+        {
+          "text": "hidup",
+          "startMs": 1009,
+          "endMs": 1403
+        },
+        {
+          "text": "drastis",
+          "startMs": 1403,
+          "endMs": 1854
+        },
+        {
+          "text": "semalam",
+          "startMs": 1854,
+          "endMs": 2479
+        },
+        {
+          "text": "Cukup",
+          "startMs": 3251,
+          "endMs": 3610
+        },
+        {
+          "text": "taruh",
+          "startMs": 3610,
+          "endMs": 3841
+        },
+        {
+          "text": "HP",
+          "startMs": 3841,
+          "endMs": 4235
+        },
+        {
+          "text": "agak",
+          "startMs": 4235,
+          "endMs": 4616
+        },
+        {
+          "text": "jauh",
+          "startMs": 4617,
+          "endMs": 4917
+        },
+        {
+          "text": "tiga",
+          "startMs": 4917,
+          "endMs": 5207
+        },
+        {
+          "text": "puluh",
+          "startMs": 5207,
+          "endMs": 5461
+        },
+        {
+          "text": "menit",
+          "startMs": 5461,
+          "endMs": 5785
+        },
+        {
+          "text": "sebelum",
+          "startMs": 5785,
+          "endMs": 6225
+        },
+        {
+          "text": "tidur",
+          "startMs": 6225,
+          "endMs": 6769
+        },
+        {
+          "text": "Kalau",
+          "startMs": 7545,
+          "endMs": 7857
+        },
+        {
+          "text": "kamu",
+          "startMs": 7857,
+          "endMs": 8401
+        },
+        {
+          "text": "paling",
+          "startMs": 8760,
+          "endMs": 9154
+        },
+        {
+          "text": "susah",
+          "startMs": 9154,
+          "endMs": 9524
+        },
+        {
+          "text": "nahan",
+          "startMs": 9524,
+          "endMs": 9825
+        },
+        {
+          "text": "scroll",
+          "startMs": 9825,
+          "endMs": 10230
+        },
+        {
+          "text": "jam",
+          "startMs": 10230,
+          "endMs": 10438
+        },
+        {
+          "text": "berapa",
+          "startMs": 10438,
+          "endMs": 10959
+        }
+      ],
+      "words": [
+        {
+          "text": " Nggak",
+          "startMs": 60,
+          "endMs": 326,
+          "timestampMs": 193,
+          "confidence": null
+        },
+        {
+          "text": " perlu",
+          "startMs": 326,
+          "endMs": 616,
+          "timestampMs": 471,
+          "confidence": null
+        },
+        {
+          "text": " ubah",
+          "startMs": 616,
+          "endMs": 1009,
+          "timestampMs": 813,
+          "confidence": null
+        },
+        {
+          "text": " hidup",
+          "startMs": 1009,
+          "endMs": 1403,
+          "timestampMs": 1206,
+          "confidence": null
+        },
+        {
+          "text": " drastis",
+          "startMs": 1403,
+          "endMs": 1854,
+          "timestampMs": 1629,
+          "confidence": null
+        },
+        {
+          "text": " semalam",
+          "startMs": 1854,
+          "endMs": 2479,
+          "timestampMs": 2167,
+          "confidence": null
+        },
+        {
+          "text": " Cukup",
+          "startMs": 3251,
+          "endMs": 3610,
+          "timestampMs": 3431,
+          "confidence": null
+        },
+        {
+          "text": " taruh",
+          "startMs": 3610,
+          "endMs": 3841,
+          "timestampMs": 3726,
+          "confidence": null
+        },
+        {
+          "text": " HP",
+          "startMs": 3841,
+          "endMs": 4235,
+          "timestampMs": 4038,
+          "confidence": null
+        },
+        {
+          "text": " agak",
+          "startMs": 4235,
+          "endMs": 4616,
+          "timestampMs": 4426,
+          "confidence": null
+        },
+        {
+          "text": " jauh",
+          "startMs": 4617,
+          "endMs": 4917,
+          "timestampMs": 4767,
+          "confidence": null
+        },
+        {
+          "text": " tiga",
+          "startMs": 4917,
+          "endMs": 5207,
+          "timestampMs": 5062,
+          "confidence": null
+        },
+        {
+          "text": " puluh",
+          "startMs": 5207,
+          "endMs": 5461,
+          "timestampMs": 5334,
+          "confidence": null
+        },
+        {
+          "text": " menit",
+          "startMs": 5461,
+          "endMs": 5785,
+          "timestampMs": 5623,
+          "confidence": null
+        },
+        {
+          "text": " sebelum",
+          "startMs": 5785,
+          "endMs": 6225,
+          "timestampMs": 6005,
+          "confidence": null
+        },
+        {
+          "text": " tidur",
+          "startMs": 6225,
+          "endMs": 6769,
+          "timestampMs": 6497,
+          "confidence": null
+        },
+        {
+          "text": " Kalau",
+          "startMs": 7545,
+          "endMs": 7857,
+          "timestampMs": 7701,
+          "confidence": null
+        },
+        {
+          "text": " kamu",
+          "startMs": 7857,
+          "endMs": 8401,
+          "timestampMs": 8129,
+          "confidence": null
+        },
+        {
+          "text": " paling",
+          "startMs": 8760,
+          "endMs": 9154,
+          "timestampMs": 8957,
+          "confidence": null
+        },
+        {
+          "text": " susah",
+          "startMs": 9154,
+          "endMs": 9524,
+          "timestampMs": 9339,
+          "confidence": null
+        },
+        {
+          "text": " nahan",
+          "startMs": 9524,
+          "endMs": 9825,
+          "timestampMs": 9675,
+          "confidence": null
+        },
+        {
+          "text": " scroll",
+          "startMs": 9825,
+          "endMs": 10230,
+          "timestampMs": 10028,
+          "confidence": null
+        },
+        {
+          "text": " jam",
+          "startMs": 10230,
+          "endMs": 10438,
+          "timestampMs": 10334,
+          "confidence": null
+        },
+        {
+          "text": " berapa",
+          "startMs": 10438,
+          "endMs": 10959,
+          "timestampMs": 10699,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}
